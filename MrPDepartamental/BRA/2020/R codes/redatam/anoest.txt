@@ -1,0 +1,83 @@
+/* Años de estudio - Usa variable del pais y abre grupo 16 y mas */
+
+generate anoest= -1     if edad <  5
+replace  anoest= vd3005 if vd3005 < 16
+
+/* Casos que IBGE clasifica como 16 y mas años de estudio */
+/*    Asiste */
+/*       Superior de graduacao */
+/*          Semestral */
+replace  anoest= 12 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a == 8 & v3005a == 1 & v3006 ==  1
+replace  anoest= 12 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a == 8 & v3005a == 1 & v3006 ==  2
+replace  anoest= 13 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a == 8 & v3005a == 1 & v3006 ==  3
+replace  anoest= 13 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a == 8 & v3005a == 1 & v3006 ==  4
+replace  anoest= 14 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a == 8 & v3005a == 1 & v3006 ==  5
+replace  anoest= 14 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a == 8 & v3005a == 1 & v3006 ==  6
+replace  anoest= 15 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a == 8 & v3005a == 1 & v3006 ==  7
+replace  anoest= 15 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a == 8 & v3005a == 1 & v3006 ==  8
+replace  anoest= 16 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a == 8 & v3005a == 1 & v3006 ==  9
+replace  anoest= 16 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a == 8 & v3005a == 1 & v3006 == 10
+replace  anoest= 17 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a == 8 & v3005a == 1 & v3006 == 11
+replace  anoest= 17 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a == 8 & v3005a == 1 & v3006 == 12
+/*          Anual */
+replace  anoest= 12 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a == 8 & v3005a != 1 & v3006 ==  1
+replace  anoest= 13 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a == 8 & v3005a != 1 & v3006 ==  2
+replace  anoest= 14 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a == 8 & v3005a != 1 & v3006 ==  3
+replace  anoest= 15 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a == 8 & v3005a != 1 & v3006 ==  4
+replace  anoest= 16 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a == 8 & v3005a != 1 & v3006 ==  5
+replace  anoest= 17 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a == 8 & v3005a != 1 & v3006 ==  6
+/*          Termino otro curso superior */
+generate anoest_i= int(v3013/2) + 12 if vd3005 == 16 &  v3002 == 1 & v3003a == 8 & v3007 == 1 & v3011a == 1
+replace  anoest_i= v3013 + 12        if vd3005 == 16 &  v3002 == 1 & v3003a == 8 & v3007 == 1 & v3011a == 2
+replace  anoest_i= v3013 + 12        if vd3005 == 16 &  v3002 == 1 & v3003a == 8 & v3007 == 1 & v3011a == 3
+/*          Se queda con maximo */
+replace  anoest= max(16,anoest,anoest_i) if vd3005 == 16 &  v3002 == 1 & v3003a == 8 & anoest_i != .
+/*       Especializacao nivel sup. */
+replace  anoest= 16 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a ==  9
+/*       Mestrado */
+replace  anoest= 16 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a == 10
+/*       Doutorado */
+replace  anoest= 17 if vd3005 == 16 & anoest == . & v3002 == 1 & v3003a == 11
+/*    No asiste */
+/*       Superior de graduacao */
+/*          Semestral */
+replace  anoest= int(v3013/2) + 12 if vd3005 == 16 & anoest == . & v3002 == 2 & v3009a == 12 & v3011a == 1 & v3013 !=  .
+replace  anoest= 11 if vd3005 == 16 & anoest == . & v3002 == 2 & v3009a == 12 & v3011a == 1 & v3012 ==  2
+/*          Anual */
+replace  anoest= v3013 + 12 if vd3005 == 16 & anoest == . & v3002 == 2 & v3009a == 12 & v3011a != 1 & v3013 !=  .
+replace  anoest= 12 if vd3005 == 16 & anoest == . & v3002 == 2 & v3009a == 12 & v3011a != 1 & v3012 ==  2
+/*       Especializacao nivel superior */
+replace  anoest= 17 if vd3005 == 16 & anoest == . & v3002 == 2 & v3009a == 13 & v3014 == 1
+replace  anoest= 16 if vd3005 == 16 & anoest == . & v3002 == 2 & v3009a == 13 & v3014 != 1
+/*       Mestrado */
+replace  anoest= 17 if vd3005 == 16 & anoest == . & v3002 == 2 & v3009a == 14 & v3014 == 1
+replace  anoest= 16 if vd3005 == 16 & anoest == . & v3002 == 2 & v3009a == 14 & v3014 != 1
+/*       Doutorado */
+replace  anoest= 18 if vd3005 == 16 & anoest == . & v3002 == 2 & v3009a == 15 & v3014 == 1
+replace  anoest= 17 if vd3005 == 16 & anoest == . & v3002 == 2 & v3009a == 15 & v3014 != 1
+
+count if anoest > 99
+if r(N) {
+   display in red _newline(1) ///
+           "***ERROR: Problema al crear ANOEST en " r(N) " observaciones."
+
+   tab vd3005 if anoest > 99
+
+   display in red _newline(1) "***ERROR: Proceso cancelado"
+   exit 20001
+}
+
+count if anoest >= 0 & anoest <= 16 & anoest != vd3005
+if r(N) {
+   display in red _newline(1) ///
+           "***ERROR: Problema al crear ANOEST en " r(N) " observaciones."
+
+   tab vd3005 anoest if anoest >= 0 & anoest <= 16 & anoest ^= vd3005
+
+   display in red _newline(1) "***ERROR: Proceso cancelado"
+   exit 20001
+}
+
+label define ANOEST -1 "NA"    ///
+                    99 "NS/NR"
+label values anoest ANOEST

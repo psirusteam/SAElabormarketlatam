@@ -1,0 +1,70 @@
+   /* A¤os de estudio */
+
+   attrib ANOEST   length=3
+                   label="A¤os de estudio                         ";
+
+   if s4p12a < 0
+   then nivelano= 99;
+   else nivelano= s4p12a;
+
+   if s4p12b < 0
+   then nivelano= nivelano*100 + 99;
+   else nivelano= nivelano*100 + s4p12b;
+
+   select;
+      when (edad < 6)        anoest= -1;          /* Menores de 6 a¤os */
+      when (s4p12a = 0)      anoest=  0;          /* Ninguno */
+      when (s4p12a = 1)      anoest=  0;          /* Prescolar */
+      when (s4p12a = 2)      anoest= 99;          /* Educacion de adultos */
+      when (nivelano = 0301) anoest=  1;          /* Primaria 1 */
+      when (nivelano = 0302) anoest=  2;          /* Primaria 2 */
+      when (nivelano = 0303) anoest=  3;          /* Primaria 3 */
+      when (nivelano = 0304) anoest=  4;          /* Primaria 4 */
+      when (nivelano = 0305) anoest=  5;          /* Primaria 5 */
+      when (nivelano = 0306) anoest=  6;          /* Primaria 6 */
+      when (nivelano = 0401) anoest=  7;          /* Secundaria 1 */
+      when (nivelano = 0402) anoest=  8;          /* Secundaria 2 */
+      when (nivelano = 0403) anoest=  9;          /* Secundaria 3 */
+      when (nivelano = 0404) anoest= 10;          /* Secundaria 4 */
+      when (nivelano = 0405) anoest= 11;          /* Secundaria 5 */
+      when (nivelano = 0501) anoest=  7;          /* Tec. Basico 1 */
+      when (nivelano = 0502) anoest=  8;          /* Tec. Basico 2 */
+      when (nivelano = 0503) anoest=  9;          /* Tec. Basico 3 */
+      when (nivelano = 0601) anoest= 10;          /* Tec. Medio 1 */
+      when (nivelano = 0602) anoest= 11;          /* Tec. Medio 2 */
+      when (nivelano = 0603) anoest= 12;          /* Tec. Medio 3 */
+      when (nivelano = 0701) anoest=  7;          /* Form. Docente 1 */
+      when (nivelano = 0702) anoest=  8;          /* Form. Docente 2 */
+      when (nivelano = 0703) anoest=  9;          /* Form. Docente 3 */
+      when (nivelano = 0704) anoest= 10;          /* Form. Docente 4 */
+      when (nivelano = 0705) anoest= 11;          /* Form. Docente 5 */
+      when (nivelano = 0706) anoest= 12;          /* Form. Docente 6 */
+      when (nivelano = 0801) anoest= 12;          /* Tec. Superior 1 */
+      when (nivelano = 0802) anoest= 13;          /* Tec. Superior 2 */
+      when (nivelano = 0803) anoest= 14;          /* Tec. Superior 3 */
+      when (nivelano = 0901) anoest= 12;          /* Universitaria 1 */
+      when (nivelano = 0902) anoest= 13;          /* Universitaria 2 */
+      when (nivelano = 0903) anoest= 14;          /* Universitaria 3 */
+      when (nivelano = 0904) anoest= 15;          /* Universitaria 4 */
+      when (nivelano = 0905) anoest= 16;          /* Universitaria 5 */
+      when (nivelano = 0906) anoest= 17;          /* Universitaria 6 */
+      when (nivelano = 0907) anoest= 17;          /* Universitaria 7 */
+      when (nivelano = 0908) anoest= 19;          /* Universitaria 8 */
+      when (nivelano = 1001) anoest= 18;          /* Maestria 1 */
+      when (nivelano = 1002) anoest= 19;          /* Maestria 2 */
+      when (nivelano = 1003) anoest= 20;          /* Maestria 3 */
+      when (nivelano = 1101) anoest= 21;          /* Doctorado 1 */
+      when (nivelano = 1102) anoest= 22;          /* Doctorado 2 */
+      when (nivelano = 1103) anoest= 23;          /* Doctorado 3 */
+      when (nivelano = 1104) anoest= 24;          /* Doctorado 4 */
+      when (nivelano = 1105) anoest= 25;          /* Doctorado 5 */
+      when (s4p12a = 12)     anoest= 99;          /* Educacion Especial */
+      otherwise do;                               /* Caso no considerado */
+
+         put "***ERROR: Problema al crear ANOEST "
+             (id_hogar id_pers edad miembro s4p12a s4p12b nivelano) (=);
+
+      end;
+   end;
+
+   drop nivelano;

@@ -1,0 +1,34 @@
+	/* Anoest*/
+	
+	gen anoest = cond(e6a >=1 & e6a<=4, 0,.)												/*Nunca asistió, jardin/sala cuna, kinder/prekinder (e6a = 1, 2, 3,4)*/
+		replace anoest = 99 if e6a == 5														/*Educación diferencial*/
+		replace anoest = e6b if e6a == 6 & e6b>=1 & e6b<=6 & anoest == .					/*Primaria*/
+		replace anoest = e6b if e6a == 7 & e6b>=1 & e6b<=8 & anoest == .					/*Educación básica*/
+		replace anoest = 99 if (e6a == 6 | e6a == 7) & e6b == 99 & anoest == .
+		replace anoest = 6 + e6b if e6a == 8 & e6b>=1 & e6b<=6 & anoest == .				/*Secundaria*/
+		replace anoest = 6 if e6a == 8 & e6b == 99 & anoest == .
+		replace anoest = 8 + e6b if e6a == 9 & e6b>=1 & e6b<=4 & anoest == .				/*Educación media*/
+		replace anoest = 8 if e6a == 9 & e6b == 99 & anoest == .
+		replace anoest = 6 + e6b if e6a == 10 & e6b>=1 & e6b<=6 & anoest == .				/*Técnica comercial, industrial o normalista*/
+		replace anoest = 6 if e6a == 10 & (e6b == 99 | e6b>6) & anoest == .
+		replace anoest = 8 + e6b if e6a == 11 & e6b>=1 & e6b<=5 & anoest == .				/*Educación media técnica profesional*/
+		replace anoest = 8 if e6a == 11 & e6b == 99 & anoest == .
+		replace anoest = 12 + e6b if e6a>= 12 & e6a<=14 & e6b>=1 & e6b<=8 & anoest == .		/*Técnico nivel superior, profesional incompleto*/
+		replace anoest = 12 if e6a>= 12 & e6a<=14 & (e6b == 99 | e6b >= 9) & anoest == .
+		replace anoest = 12 + e6b if e6a>= 15 & e6a<=17 & e6b>=1 & e6b<=8 & anoest == .
+		replace anoest = 17 if e6a>= 15 & e6a<=17 & (e6b == 99 | e6b >= 8) & anoest == .	/*Profesional completo, postgrado*/
+		replace anoest = 99 if e6a == 99
+		replace anoest = anoest - 1 if e2 == 1 & anoest>0 & anoest<99 & ((inlist(e6a, 7)/*
+			*/& anoest>0 & anoest<=8 & anoest!= 99) |(inlist(e6a, 8,10) & anoest>6 & anoest!=99)/*
+			*/|(inlist(e6a, 9, 11) & anoest>8 & anoest!=99)| (inlist(e6a,12,13,14,15,16,17) & anoest>12 & anoest!= 99))
+		/*cambia asistencia a un establecimiento educacional (e3 2017) por asistencia a clases virtuales o presenciales (e2 2020)*/
+
+	
+	tab anoest e6a, miss
+
+	do "C:\Users\Rocio\Desktop\CEPAL 2020\PROCESO EH\_labels_N.do"
+	
+	save "chl20dn02a", replace
+
+log close
+	

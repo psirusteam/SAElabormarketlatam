@@ -1,0 +1,96 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,28,"BOL","Bolivia",1,"Chuquisaca",1,"Belisario Boeto","Provincia","Province",NA,"B. Boeto"
+2,28,"BOL","Bolivia",1,"Chuquisaca",2,"Hernando Siles","Provincia","Province",NA,NA
+3,28,"BOL","Bolivia",1,"Chuquisaca",3,"Jaime Zudáñez","Provincia","Province",NA,"Zudáñez"
+4,28,"BOL","Bolivia",1,"Chuquisaca",4,"Juana Azurduay de Padilla","Provincia","Province",NA,"Azurduy"
+5,28,"BOL","Bolivia",1,"Chuquisaca",5,"Luis Calvo","Provincia","Province",NA,NA
+6,28,"BOL","Bolivia",1,"Chuquisaca",6,"Nor Cinti","Provincia","Province",NA,NA
+7,28,"BOL","Bolivia",1,"Chuquisaca",7,"Oropeza","Provincia","Province",NA,NA
+8,28,"BOL","Bolivia",1,"Chuquisaca",8,"Sud Cinti","Provincia","Province",NA,NA
+9,28,"BOL","Bolivia",1,"Chuquisaca",9,"Tomina","Provincia","Province",NA,NA
+10,28,"BOL","Bolivia",1,"Chuquisaca",10,"Yamparáez","Provincia","Province",NA,NA
+11,28,"BOL","Bolivia",2,"Cochabamba",11,"Arani","Provincia","Province",NA,NA
+12,28,"BOL","Bolivia",2,"Cochabamba",12,"Arque","Provincia","Province",NA,NA
+13,28,"BOL","Bolivia",2,"Cochabamba",13,"Ayopaya","Provincia","Province",NA,NA
+14,28,"BOL","Bolivia",2,"Cochabamba",14,"Capinota","Provincia","Province",NA,NA
+15,28,"BOL","Bolivia",2,"Cochabamba",15,"Carrasco","Provincia","Province",NA,"Totora"
+16,28,"BOL","Bolivia",2,"Cochabamba",16,"Cercado","Provincia","Province",NA,NA
+17,28,"BOL","Bolivia",2,"Cochabamba",17,"Chapare","Provincia","Province",NA,NA
+18,28,"BOL","Bolivia",2,"Cochabamba",18,"Esteban Arce","Provincia","Province",NA,"Arce|Tarata"
+19,28,"BOL","Bolivia",2,"Cochabamba",19,"Germán Jordán","Provincia","Province",NA,"Jordan|Cliza"
+20,28,"BOL","Bolivia",2,"Cochabamba",20,"Mizque","Provincia","Province",NA,NA
+21,28,"BOL","Bolivia",2,"Cochabamba",21,"Narciso Campero","Provincia","Province",NA,"Campero|Campero"
+22,28,"BOL","Bolivia",2,"Cochabamba",22,"Punata","Provincia","Province",NA,NA
+23,28,"BOL","Bolivia",2,"Cochabamba",23,"Quillacollo","Provincia","Province",NA,NA
+24,28,"BOL","Bolivia",2,"Cochabamba",24,"Tapacarí","Provincia","Province",NA,NA
+25,28,"BOL","Bolivia",3,"El Beni",25,"Cercado","Provincia","Province",NA,NA
+26,28,"BOL","Bolivia",3,"El Beni",26,"José Ballivián","Provincia","Province",NA,"General José Ballivian"
+27,28,"BOL","Bolivia",3,"El Beni",27,"Mamoré","Provincia","Province",NA,NA
+28,28,"BOL","Bolivia",3,"El Beni",28,"Marbán","Provincia","Province",NA,NA
+29,28,"BOL","Bolivia",3,"El Beni",29,"Moxos","Provincia","Province",NA,"Mojos"
+30,28,"BOL","Bolivia",3,"El Beni",30,"Vaca Díez","Provincia","Province",NA,NA
+31,28,"BOL","Bolivia",3,"El Beni",31,"Yacuma","Provincia","Province",NA,NA
+32,28,"BOL","Bolivia",4,"La Paz",32,"Abel Iturralde","Provincia","Province",NA,NA
+33,28,"BOL","Bolivia",4,"La Paz",33,"Aroma","Provincia","Province",NA,NA
+34,28,"BOL","Bolivia",4,"La Paz",34,"Bautista Saavedra","Provincia","Province",NA,"Saavedra"
+35,28,"BOL","Bolivia",4,"La Paz",35,"Eliodoro Camacho","Provincia","Province",NA,"Camacho"
+36,28,"BOL","Bolivia",4,"La Paz",36,"Franz Tamayo","Provincia","Province",NA,NA
+37,28,"BOL","Bolivia",4,"La Paz",37,"Gualberto Villarroel","Provincia","Province",NA,"G. Villarroel"
+38,28,"BOL","Bolivia",4,"La Paz",38,"Ingavi","Provincia","Province",NA,NA
+39,28,"BOL","Bolivia",4,"La Paz",39,"Inquisivi","Provincia","Province",NA,NA
+40,28,"BOL","Bolivia",4,"La Paz",40,"Larecaja","Provincia","Province",NA,NA
+41,28,"BOL","Bolivia",4,"La Paz",41,"Loayza","Provincia","Province",NA,"Ioayza"
+42,28,"BOL","Bolivia",4,"La Paz",42,"Los Andes","Provincia","Province",NA,NA
+43,28,"BOL","Bolivia",4,"La Paz",43,"Manco Kapac","Provincia","Province",NA,NA
+44,28,"BOL","Bolivia",4,"La Paz",44,"Muñecas","Provincia","Province",NA,NA
+45,28,"BOL","Bolivia",4,"La Paz",45,"Nor Yungas","Provincia","Province",NA,NA
+46,28,"BOL","Bolivia",4,"La Paz",46,"Omasuyos","Provincia","Province",NA,NA
+47,28,"BOL","Bolivia",4,"La Paz",47,"Pacajes","Provincia","Province",NA,NA
+48,28,"BOL","Bolivia",4,"La Paz",48,"Pedro Domingo Murillo","Provincia","Province",NA,"Murillo"
+49,28,"BOL","Bolivia",4,"La Paz",49,"Sud Yungas","Provincia","Province",NA,NA
+50,28,"BOL","Bolivia",5,"Oruro",50,"Atahuallpa","Provincia","Province",NA,NA
+51,28,"BOL","Bolivia",5,"Oruro",51,"Carangas","Provincia","Province",NA,NA
+52,28,"BOL","Bolivia",5,"Oruro",52,"Cercado","Provincia","Province",NA,NA
+53,28,"BOL","Bolivia",5,"Oruro",53,"Eduardo Avaroa","Provincia","Province",NA,"Avaroa"
+54,28,"BOL","Bolivia",5,"Oruro",54,"Ladislao Cabrera","Provincia","Province",NA,NA
+55,28,"BOL","Bolivia",5,"Oruro",55,"Litoral","Provincia","Province",NA,NA
+56,28,"BOL","Bolivia",5,"Oruro",56,"Pantaleón Dalence","Provincia","Province",NA,"Dalence"
+57,28,"BOL","Bolivia",5,"Oruro",57,"Poopó","Provincia","Province",NA,NA
+58,28,"BOL","Bolivia",5,"Oruro",58,"Sajama","Provincia","Province",NA,NA
+59,28,"BOL","Bolivia",5,"Oruro",59,"Saucarí","Provincia","Province",NA,NA
+60,28,"BOL","Bolivia",6,"Pando",60,"Federico Román","Provincia","Province",NA,"Gral. Federico Poma|General Federico Román"
+61,28,"BOL","Bolivia",6,"Pando",61,"Madre de Dios","Provincia","Province",NA,NA
+62,28,"BOL","Bolivia",6,"Pando",62,"Manuripi","Provincia","Province",NA,NA
+63,28,"BOL","Bolivia",7,"Potosí",63,"Alonso de Ibáñez","Provincia","Province",NA,"Ibanez"
+64,28,"BOL","Bolivia",7,"Potosí",64,"Antonio Quijarro","Provincia","Province",NA,"Quijarro"
+65,28,"BOL","Bolivia",7,"Potosí",65,"Bernardino Bilbao","Provincia","Province",NA,"Bilbao|General Bilbao"
+66,28,"BOL","Bolivia",7,"Potosí",66,"Charcas","Provincia","Province",NA,NA
+67,28,"BOL","Bolivia",7,"Potosí",67,"Chayanta","Provincia","Province",NA,NA
+68,28,"BOL","Bolivia",7,"Potosí",68,"Cornelio Saavedra","Provincia","Province",NA,"Saavedra"
+69,28,"BOL","Bolivia",7,"Potosí",69,"Daniel Campos","Provincia","Province",NA,NA
+70,28,"BOL","Bolivia",7,"Potosí",70,"José María Linares","Provincia","Province",NA,"Linares"
+71,28,"BOL","Bolivia",7,"Potosí",71,"Modesto Omiste","Provincia","Province",NA,NA
+72,28,"BOL","Bolivia",7,"Potosí",72,"Nor Chichas","Provincia","Province",NA,NA
+73,28,"BOL","Bolivia",7,"Potosí",73,"Nor Lípez","Provincia","Province",NA,"Nor Lipez"
+74,28,"BOL","Bolivia",7,"Potosí",74,"Rafael Bustillo","Provincia","Province",NA,"Bustillos"
+75,28,"BOL","Bolivia",7,"Potosí",75,"Sud Chichas","Provincia","Province",NA,NA
+76,28,"BOL","Bolivia",7,"Potosí",76,"Sud Lípez","Provincia","Province",NA,NA
+77,28,"BOL","Bolivia",7,"Potosí",77,"Tomás Frías","Provincia","Province",NA,NA
+78,28,"BOL","Bolivia",8,"Santa Cruz",78,"Ñuflo de Chávez","Provincia","Province",NA,NA
+79,28,"BOL","Bolivia",8,"Santa Cruz",79,"Andrés Ibáñez","Provincia","Province",NA,NA
+80,28,"BOL","Bolivia",8,"Santa Cruz",80,"Chiquitos","Provincia","Province",NA,NA
+81,28,"BOL","Bolivia",8,"Santa Cruz",81,"Cordillera","Provincia","Province",NA,NA
+82,28,"BOL","Bolivia",8,"Santa Cruz",82,"Florida","Provincia","Province",NA,NA
+83,28,"BOL","Bolivia",8,"Santa Cruz",83,"Ichilo","Provincia","Province",NA,NA
+84,28,"BOL","Bolivia",8,"Santa Cruz",84,"Ignacio Warnes","Provincia","Province",NA,"Warnes"
+85,28,"BOL","Bolivia",8,"Santa Cruz",85,"José Miguel de Velasco","Provincia","Province",NA,"Velasco"
+86,28,"BOL","Bolivia",8,"Santa Cruz",86,"Manuel María Caballero","Provincia","Province",NA,"Caballero"
+87,28,"BOL","Bolivia",8,"Santa Cruz",87,"Obispo Santistevan","Provincia","Province",NA,"Santiesteban|Obispo Santiesteban|Obispo Santiestevan"
+88,28,"BOL","Bolivia",8,"Santa Cruz",88,"Sara","Provincia","Province",NA,"Gutierrez|Sarah|Gutierrez"
+89,28,"BOL","Bolivia",8,"Santa Cruz",89,"Vallegrande","Provincia","Province",NA,"Valle Grande"
+90,28,"BOL","Bolivia",9,"Tarija",90,"Aniceto Arce","Provincia","Province",NA,"Arce"
+91,28,"BOL","Bolivia",9,"Tarija",91,"Burnet O'Connor","Provincia","Province",NA,"Oconnor|O'Connor"
+92,28,"BOL","Bolivia",9,"Tarija",92,"Cercado","Provincia","Province",NA,NA
+93,28,"BOL","Bolivia",9,"Tarija",93,"Eustaquio Méndez","Provincia","Province",NA,"Méndez"
+94,28,"BOL","Bolivia",9,"Tarija",94,"Gran Chaco","Provincia","Province",NA,NA
+95,28,"BOL","Bolivia",9,"Tarija",95,"José María Avilés","Provincia","Province",NA,"Avilez|Aviléz"

@@ -1,0 +1,22 @@
+
+/* Usa anos de estudio del pais para ANOEST */
+
+generate anoest= aproba1 if edad >= 4
+replace  anoest= -1      if edad <  4
+
+quietly: count if anoest == .
+if r(N) {
+   display in red _newline(1) ///
+           "***ATENCION: Problema al crear ANOEST en " r(N) " observaciones."
+
+   list edad nivel_ultimo_ano_aprobado ultimo_ano_aprobado ///
+        if anoest == ., nolabel abbreviate(32)
+
+   display in red _newline(1) "***ERROR: Proceso cancelado"
+   exit 20006
+}
+
+label define ANOEST -1 "NA"    ///
+                    99 "NS/NR"
+label value anoest ANOEST
+

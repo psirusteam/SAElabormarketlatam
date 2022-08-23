@@ -1,0 +1,51 @@
+/* Anoest */	
+
+	/* Se programa medida propia de CEPAL debido a la poca consistencia del cálculo del país. */
+	/* Inicia generando variables auxiliares que recogen nivel y grado, debido al constante cambio de nombre de las variables del país. */
+	/* Deben revisarse año a año, cambiando el nombre de la variable de la base que representa cada nivel, así como también los códigos de los niveles que suelen cambiar */
+	
+	gen niv_max = s03a_02a 			/* máximo nivel alcanzado */
+	gen gra_max = s03a_02c			/* grado alcanzado en nivel máximo */	
+	gen niv_req = s03a_03a 			/* nivel requerido para acceder a cursos técnicos */
+	gen gra_req = s03a_03c			/* grado en nivel requerido para acceder a cursos técnicos */	
+	gen niv_cur = s03a_05a 			/* nivel en el que se ha anotado */
+	gen gra_cur = s03a_05c			/* grado en el nivel en que se ha anotado */
+
+	recode niv_max (11 12 13 21 31 41 51 61 62 64 65 = 0) (22 = 5) (32 = 8) (42 = 6) ///
+					(52 = 6) (63 = 6) (23 = 8) (71/72= 12) (73/75 = 16) (76 = 12) (77/81 = 0), g(anoest)
+	gen grado_i = gra_max
+	replace grado_i = gra_cur if niv_cur == niv_max & gra_cur < gra_max /*corrijo errores de consistencia entre año cursado y máximo alcanzado*/
+	replace anoest = anoest + grado_i if niv_max >= 21 & niv_max < 71 & gra_max != .
+	replace anoest = anoest + grado_i if niv_max >= 71 & niv_max <= 76 & gra_max < 5 & gra_max != .
+	replace anoest = anoest + 4 if inlist(niv_max, 71, 72) & (gra_max == 5 | gra_max == 8)
+	replace anoest = anoest + 1 if inlist(niv_max, 73) & (gra_max == 5 | gra_max == 8)
+	replace anoest = anoest + 2 if inlist(niv_max, 74) & (gra_max == 5 | gra_max == 8)
+	replace anoest = anoest + 4 if inlist(niv_max, 75) & (gra_max == 5 | gra_max == 8)
+	replace anoest = anoest + 4 if inlist(niv_max, 76) & (gra_max == 5 | gra_max == 8)
+	/*calculo los años de estudio para el curso previo requerido para entrar a cursos del 77/80*/
+	recode niv_req (11 12 13 21 31 41 51 61 62 64 65 = 0) (22 = 5) (32 = 8) (42 = 6) ///
+					(52 = 6) (63 = 6) (23 = 8) (71/72= 12) (73/75 = 16) (76 = 12) (77/81 = 0), g(anoest_i)
+	replace anoest_i = anoest_i + gra_req if niv_req < 71 & gra_req != .
+	replace anoest_i = anoest_i + gra_req if niv_req >= 71 & niv_req <= 76 & gra_req < 5 & gra_req != .
+	replace anoest_i = anoest_i + 4 if inlist(niv_req, 71, 72) & (gra_req == 5 | gra_req == 8)
+	replace anoest_i = anoest_i + 1 if inlist(niv_req, 73) & (gra_req == 5 | gra_req == 8)
+	replace anoest_i = anoest_i + 2 if inlist(niv_req, 74) & (gra_req == 5 | gra_req == 8)
+	replace anoest_i = anoest_i + 4 if inlist(niv_req, 75) & (gra_req == 5 | gra_req == 8)
+	replace anoest_i = anoest_i + 4 if inlist(niv_req, 76) & (gra_req == 5 | gra_req == 8)
+	/*reemplazo los años de estudio = 0 de cursos 77/80 por requerimiento + años cursados*/
+	replace anoest = anoest_i + gra_max if niv_max >= 77 & niv_max <= 81 & gra_max != .
+	/*impongo filtro por edad, debido a las inconsistencias entre los grados declarados y los requisitos de edad de ingreso por nivel*/
+	/*subsana problemas de la base de datos*/
+	replace anoest = edad - 5 if anoest>0 & anoest != 99 & (edad - anoest) < 5
+
+	replace anoest = -1 if edad <= 4
+	replace anoest = 99 if anoest == .
+	
+	label define ANOEST -1"NA" 99"NS/SR", modify
+	label values anoest ANOEST
+
+	drop anoest_i grado_i niv_* gra_*
+	
+save "bol\bol20n\DATA\bol20dn02a.dta", replace
+
+log close

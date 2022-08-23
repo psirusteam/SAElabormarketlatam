@@ -1,0 +1,63 @@
+/* ANOEST */
+
+generate _aux= nivel_ultimo_ano_aprobado * 10 + ultimo_ano_aprobado
+
+generate anoest=  0 if _aux ==  11
+replace  anoest=  0 if _aux ==  12
+replace  anoest=  0 if _aux ==  13
+replace  anoest=  1 if _aux ==  21
+replace  anoest=  2 if _aux ==  22
+replace  anoest=  3 if _aux ==  23
+replace  anoest=  4 if _aux ==  24
+replace  anoest=  5 if _aux ==  25
+replace  anoest=  6 if _aux ==  26
+replace  anoest=  7 if _aux ==  27
+replace  anoest=  8 if _aux ==  28
+replace  anoest=  9 if _aux ==  31
+replace  anoest= 10 if _aux ==  32
+replace  anoest= 11 if _aux ==  33
+replace  anoest= 12 if _aux ==  34
+replace  anoest=  9 if _aux ==  41
+replace  anoest= 10 if _aux ==  42
+replace  anoest= 11 if _aux ==  43
+replace  anoest= 12 if _aux ==  44
+replace  anoest= 13 if _aux ==  51
+replace  anoest= 14 if _aux ==  52
+replace  anoest= 15 if _aux ==  53
+replace  anoest= 16 if _aux ==  54
+replace  anoest= 17 if _aux ==  55
+replace  anoest= 18 if _aux ==  56
+replace  anoest= 19 if _aux ==  61
+replace  anoest= 20 if _aux ==  62
+replace  anoest= 21 if _aux ==  63
+replace  anoest= 22 if _aux ==  64
+replace  anoest= 19 if _aux ==  71
+replace  anoest= 20 if _aux ==  72
+replace  anoest= 21 if _aux ==  73
+replace  anoest= 22 if _aux ==  74
+replace  anoest= 21 if _aux ==  81
+replace  anoest= 22 if _aux ==  82
+replace  anoest= 23 if _aux ==  83
+replace  anoest= 24 if _aux ==  84
+replace  anoest=  0 if _aux ==  90
+replace  anoest= 99 if _aux == 101
+replace  anoest= 99 if _aux == 102
+replace  anoest= 99 if _aux == 103
+replace  anoest= 99 if _aux ==   .
+replace  anoest= -1 if edad < 3
+
+quietly: count if anoest == .
+if r(N) {
+   display in red _newline(1) ///
+           "***ATENCION: Problema al crear ANOEST en " r(N) " observaciones."
+
+   list edad nivel_ultimo_ano_aprobado ultimo_ano_aprobado ///
+        if anoest == ., nolabel abbreviate(32)
+
+   display in red _newline(1) "***ERROR: Proceso cancelado"
+   exit 20006
+}
+
+label define ANOEST 99 "NS/NR"
+label value anoest ANOEST
+

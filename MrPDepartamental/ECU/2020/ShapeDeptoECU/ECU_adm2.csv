@@ -1,0 +1,200 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,68,"ECU","Ecuador",1,"Azuay",1,"Chordeleg","Canton","Canton",NA,NA
+2,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca","Canton","Canton",NA,NA
+3,68,"ECU","Ecuador",1,"Azuay",3,"El Pan","Canton","Canton",NA,NA
+4,68,"ECU","Ecuador",1,"Azuay",4,"Girón","Canton","Canton",NA,"Giron"
+5,68,"ECU","Ecuador",1,"Azuay",5,"Gualaceo","Canton","Canton",NA,NA
+6,68,"ECU","Ecuador",1,"Azuay",6,"Nabón","Canton","Canton",NA,"Nabon"
+7,68,"ECU","Ecuador",1,"Azuay",7,"Oña","Canton","Canton",NA,NA
+8,68,"ECU","Ecuador",1,"Azuay",8,"Paute","Canton","Canton",NA,NA
+9,68,"ECU","Ecuador",1,"Azuay",9,"Pucará","Canton","Canton",NA,"Pucara"
+10,68,"ECU","Ecuador",1,"Azuay",10,"San Fernando","Canton","Canton",NA,NA
+11,68,"ECU","Ecuador",1,"Azuay",11,"Santa Isabel","Canton","Canton",NA,NA
+12,68,"ECU","Ecuador",1,"Azuay",12,"Sevilla de Oro","Canton","Canton",NA,NA
+13,68,"ECU","Ecuador",1,"Azuay",13,"Sigsig","Canton","Canton",NA,"Sissig"
+14,68,"ECU","Ecuador",2,"Bolivar",14,"Caluma","Canton","Canton",NA,NA
+15,68,"ECU","Ecuador",2,"Bolivar",15,"Chillanes","Canton","Canton",NA,NA
+16,68,"ECU","Ecuador",2,"Bolivar",16,"Chimbo","Canton","Canton",NA,NA
+17,68,"ECU","Ecuador",2,"Bolivar",17,"Echeandía","Canton","Canton",NA,"Echeandia"
+18,68,"ECU","Ecuador",2,"Bolivar",18,"Guaranda","Canton","Canton",NA,NA
+19,68,"ECU","Ecuador",2,"Bolivar",19,"Las Naves","Canton","Canton",NA,NA
+20,68,"ECU","Ecuador",2,"Bolivar",20,"San Miguel","Canton","Canton",NA,NA
+21,68,"ECU","Ecuador",3,"Cañar",21,"Azogues","Canton","Canton",NA,NA
+22,68,"ECU","Ecuador",3,"Cañar",22,"Biblián","Canton","Canton",NA,"Biblian"
+23,68,"ECU","Ecuador",3,"Cañar",23,"Cañar","Canton","Canton",NA,NA
+24,68,"ECU","Ecuador",3,"Cañar",24,"Déleg","Canton","Canton",NA,"Deleg"
+25,68,"ECU","Ecuador",3,"Cañar",25,"El Tambo","Canton","Canton",NA,NA
+26,68,"ECU","Ecuador",3,"Cañar",26,"La Troncal","Canton","Canton",NA,NA
+27,68,"ECU","Ecuador",3,"Cañar",27,"No Delimitado","Canton","Canton",NA,NA
+28,68,"ECU","Ecuador",4,"Carchi",28,"Bolívar","Canton","Canton",NA,"Bolivar"
+29,68,"ECU","Ecuador",4,"Carchi",29,"Espejo","Canton","Canton",NA,NA
+30,68,"ECU","Ecuador",4,"Carchi",30,"Mira","Canton","Canton",NA,NA
+31,68,"ECU","Ecuador",4,"Carchi",31,"Montúfar","Canton","Canton",NA,"Montufar"
+32,68,"ECU","Ecuador",4,"Carchi",32,"Tulcán","Canton","Canton",NA,"Tulcan"
+33,68,"ECU","Ecuador",5,"Chimborazo",33,"Alausí","Canton","Canton",NA,"Alausi"
+34,68,"ECU","Ecuador",5,"Chimborazo",34,"Chambo","Canton","Canton",NA,NA
+35,68,"ECU","Ecuador",5,"Chimborazo",35,"Chunchi","Canton","Canton",NA,NA
+36,68,"ECU","Ecuador",5,"Chimborazo",36,"Colta","Canton","Canton",NA,NA
+37,68,"ECU","Ecuador",5,"Chimborazo",37,"Cumandá","Canton","Canton",NA,"Cumanda"
+38,68,"ECU","Ecuador",5,"Chimborazo",38,"Guamote","Canton","Canton",NA,NA
+39,68,"ECU","Ecuador",5,"Chimborazo",39,"Guano","Canton","Canton",NA,NA
+40,68,"ECU","Ecuador",5,"Chimborazo",40,"Pallatanga","Canton","Canton",NA,NA
+41,68,"ECU","Ecuador",5,"Chimborazo",41,"Penipe","Canton","Canton",NA,NA
+42,68,"ECU","Ecuador",5,"Chimborazo",42,"Riobamba","Canton","Canton",NA,NA
+43,68,"ECU","Ecuador",6,"Cotopaxi",43,"La Maná","Canton","Canton",NA,"La Mana"
+44,68,"ECU","Ecuador",6,"Cotopaxi",44,"Latacunga","Canton","Canton",NA,NA
+45,68,"ECU","Ecuador",6,"Cotopaxi",45,"Pangua","Canton","Canton",NA,NA
+46,68,"ECU","Ecuador",6,"Cotopaxi",46,"Pujilí","Canton","Canton",NA,"Pujili"
+47,68,"ECU","Ecuador",6,"Cotopaxi",47,"Salcedo","Canton","Canton",NA,NA
+48,68,"ECU","Ecuador",6,"Cotopaxi",48,"Saquisilí","Canton","Canton",NA,NA
+49,68,"ECU","Ecuador",6,"Cotopaxi",49,"Sigchos","Canton","Canton",NA,NA
+50,68,"ECU","Ecuador",7,"El Oro",50,"Arenillas","Canton","Canton",NA,NA
+51,68,"ECU","Ecuador",7,"El Oro",51,"Atahualpa","Canton","Canton",NA,NA
+52,68,"ECU","Ecuador",7,"El Oro",52,"Balsas","Canton","Canton",NA,NA
+53,68,"ECU","Ecuador",7,"El Oro",53,"Chilla","Canton","Canton",NA,NA
+54,68,"ECU","Ecuador",7,"El Oro",54,"El Guabo","Canton","Canton",NA,NA
+55,68,"ECU","Ecuador",7,"El Oro",55,"Huaquillas","Canton","Canton",NA,NA
+56,68,"ECU","Ecuador",7,"El Oro",56,"Las Lajas","Canton","Canton",NA,NA
+57,68,"ECU","Ecuador",7,"El Oro",57,"Machala","Canton","Canton",NA,NA
+58,68,"ECU","Ecuador",7,"El Oro",58,"Marcabelí","Canton","Canton",NA,"Marcabeli"
+59,68,"ECU","Ecuador",7,"El Oro",59,"Pasaje","Canton","Canton",NA,NA
+60,68,"ECU","Ecuador",7,"El Oro",60,"Piñas","Canton","Canton",NA,NA
+61,68,"ECU","Ecuador",7,"El Oro",61,"Portovelo","Canton","Canton",NA,NA
+62,68,"ECU","Ecuador",7,"El Oro",62,"Santa Rosa","Canton","Canton",NA,NA
+63,68,"ECU","Ecuador",7,"El Oro",63,"Zaruma","Canton","Canton",NA,NA
+64,68,"ECU","Ecuador",8,"Esmeraldas",64,"Atacames","Canton","Canton",NA,NA
+65,68,"ECU","Ecuador",8,"Esmeraldas",65,"Eloy Alfaro","Canton","Canton",NA,NA
+66,68,"ECU","Ecuador",8,"Esmeraldas",66,"Esmeraldas","Canton","Canton",NA,NA
+67,68,"ECU","Ecuador",8,"Esmeraldas",67,"Muisne","Canton","Canton",NA,NA
+68,68,"ECU","Ecuador",8,"Esmeraldas",68,"Quinindé","Canton","Canton",NA,"Quininde"
+69,68,"ECU","Ecuador",8,"Esmeraldas",69,"San Lorenzo","Canton","Canton",NA,NA
+70,68,"ECU","Ecuador",9,"Galápagos",70,"Isabela","Canton","Canton",NA,NA
+71,68,"ECU","Ecuador",9,"Galápagos",71,"San Cristóbal","Canton","Canton",NA,NA
+72,68,"ECU","Ecuador",9,"Galápagos",72,"Santa Cruz","Canton","Canton",NA,NA
+73,68,"ECU","Ecuador",10,"Guayas",73,"Alfredo Baquerizo Moreno","Canton","Canton",NA,"Alfredo Baquerizo Mor"
+74,68,"ECU","Ecuador",10,"Guayas",74,"Balao","Canton","Canton",NA,NA
+75,68,"ECU","Ecuador",10,"Guayas",75,"Balzar","Canton","Canton",NA,NA
+76,68,"ECU","Ecuador",10,"Guayas",76,"Colimes","Canton","Canton",NA,NA
+77,68,"ECU","Ecuador",10,"Guayas",77,"Coronel Marcelino Maridueña","Canton","Canton",NA,"Crnel. Marcelino Mari"
+78,68,"ECU","Ecuador",10,"Guayas",78,"Daule","Canton","Canton",NA,NA
+79,68,"ECU","Ecuador",10,"Guayas",79,"Durán","Canton","Canton",NA,"Duran"
+80,68,"ECU","Ecuador",10,"Guayas",80,"El Empalme","Canton","Canton",NA,NA
+81,68,"ECU","Ecuador",10,"Guayas",81,"General Antonio Elizalde","Canton","Canton",NA,"Gnral. Antonio Elizal"
+82,68,"ECU","Ecuador",10,"Guayas",82,"Guayaquil","Canton","Canton",NA,NA
+83,68,"ECU","Ecuador",10,"Guayas",83,"Lomas de Sargentillo","Canton","Canton",NA,NA
+84,68,"ECU","Ecuador",10,"Guayas",84,"Milagro","Canton","Canton",NA,NA
+85,68,"ECU","Ecuador",10,"Guayas",85,"Naranjal","Canton","Canton",NA,NA
+86,68,"ECU","Ecuador",10,"Guayas",86,"Naranjito","Canton","Canton",NA,NA
+87,68,"ECU","Ecuador",10,"Guayas",87,"Nobol","Canton","Canton",NA,NA
+88,68,"ECU","Ecuador",10,"Guayas",88,"Palestina","Canton","Canton",NA,NA
+89,68,"ECU","Ecuador",10,"Guayas",89,"Pedro Carbo","Canton","Canton",NA,NA
+90,68,"ECU","Ecuador",10,"Guayas",90,"Playas","Canton","Canton",NA,NA
+91,68,"ECU","Ecuador",10,"Guayas",91,"Samborondón","Canton","Canton",NA,"Samborondon"
+92,68,"ECU","Ecuador",10,"Guayas",92,"San Jacinto de Yaguac","Canton","Canton",NA,NA
+93,68,"ECU","Ecuador",10,"Guayas",93,"Santa Lucia","Canton","Canton",NA,NA
+94,68,"ECU","Ecuador",10,"Guayas",94,"Simon Bolivar","Canton","Canton",NA,NA
+95,68,"ECU","Ecuador",10,"Guayas",95,"Urbina Jado","Canton","Canton",NA,NA
+96,68,"ECU","Ecuador",11,"Imbabura",96,"Antonio Ante","Canton","Canton",NA,NA
+97,68,"ECU","Ecuador",11,"Imbabura",97,"Cotacachi","Canton","Canton",NA,NA
+98,68,"ECU","Ecuador",11,"Imbabura",98,"Ibarra","Canton","Canton",NA,NA
+99,68,"ECU","Ecuador",11,"Imbabura",99,"No Delimitado","Canton","Canton",NA,NA
+100,68,"ECU","Ecuador",11,"Imbabura",100,"Otavalo","Canton","Canton",NA,NA
+101,68,"ECU","Ecuador",11,"Imbabura",101,"Pimampiro","Canton","Canton",NA,NA
+102,68,"ECU","Ecuador",11,"Imbabura",102,"San Miguel de Urcuquí","Canton","Canton",NA,NA
+103,68,"ECU","Ecuador",12,"Loja",103,"Calvas","Canton","Canton",NA,NA
+104,68,"ECU","Ecuador",12,"Loja",104,"Catamayo","Canton","Canton",NA,NA
+105,68,"ECU","Ecuador",12,"Loja",105,"Celica","Canton","Canton",NA,NA
+106,68,"ECU","Ecuador",12,"Loja",106,"Chaguarpamba","Canton","Canton",NA,NA
+107,68,"ECU","Ecuador",12,"Loja",107,"Espíndola","Canton","Canton",NA,"Espindola"
+108,68,"ECU","Ecuador",12,"Loja",108,"Gonzanamá","Canton","Canton",NA,"Gonzanama"
+109,68,"ECU","Ecuador",12,"Loja",109,"Loja","Canton","Canton",NA,NA
+110,68,"ECU","Ecuador",12,"Loja",110,"Macará","Canton","Canton",NA,"Macara"
+111,68,"ECU","Ecuador",12,"Loja",111,"Paltas","Canton","Canton",NA,NA
+112,68,"ECU","Ecuador",12,"Loja",112,"Pindal","Canton","Canton",NA,NA
+113,68,"ECU","Ecuador",12,"Loja",113,"Puyango","Canton","Canton",NA,NA
+114,68,"ECU","Ecuador",12,"Loja",114,"Quilanga","Canton","Canton",NA,NA
+115,68,"ECU","Ecuador",12,"Loja",115,"Saraguro","Canton","Canton",NA,NA
+116,68,"ECU","Ecuador",12,"Loja",116,"Sozoranga","Canton","Canton",NA,NA
+117,68,"ECU","Ecuador",12,"Loja",117,"Zapotillo","Canton","Canton",NA,NA
+118,68,"ECU","Ecuador",13,"Los Rios",118,"Baba","Canton","Canton",NA,NA
+119,68,"ECU","Ecuador",13,"Los Rios",119,"Babahoyo","Canton","Canton",NA,NA
+120,68,"ECU","Ecuador",13,"Los Rios",120,"Buena Fé","Canton","Canton",NA,NA
+121,68,"ECU","Ecuador",13,"Los Rios",121,"Montalvo","Canton","Canton",NA,NA
+122,68,"ECU","Ecuador",13,"Los Rios",122,"Palenque","Canton","Canton",NA,NA
+123,68,"ECU","Ecuador",13,"Los Rios",123,"Pueblo Viejo","Canton","Canton",NA,"Puebloviejo"
+124,68,"ECU","Ecuador",13,"Los Rios",124,"Quevedo","Canton","Canton",NA,NA
+125,68,"ECU","Ecuador",13,"Los Rios",125,"Urdaneta","Canton","Canton",NA,NA
+126,68,"ECU","Ecuador",13,"Los Rios",126,"Ventanas","Canton","Canton",NA,NA
+127,68,"ECU","Ecuador",13,"Los Rios",127,"Vinces","Canton","Canton",NA,NA
+128,68,"ECU","Ecuador",14,"Manabi",128,"Bolívar","Canton","Canton",NA,"Bolivar"
+129,68,"ECU","Ecuador",14,"Manabi",129,"Chone","Canton","Canton",NA,NA
+130,68,"ECU","Ecuador",14,"Manabi",130,"El Carmen","Canton","Canton",NA,NA
+131,68,"ECU","Ecuador",14,"Manabi",131,"Flavio Alfaro","Canton","Canton",NA,NA
+132,68,"ECU","Ecuador",14,"Manabi",132,"Jipijapa","Canton","Canton",NA,NA
+133,68,"ECU","Ecuador",14,"Manabi",133,"Junín","Canton","Canton",NA,"Junin"
+134,68,"ECU","Ecuador",14,"Manabi",134,"Manta","Canton","Canton",NA,NA
+135,68,"ECU","Ecuador",14,"Manabi",135,"Montecristi","Canton","Canton",NA,NA
+136,68,"ECU","Ecuador",14,"Manabi",136,"No Delimitado","Canton","Canton",NA,NA
+137,68,"ECU","Ecuador",14,"Manabi",137,"Paján","Canton","Canton",NA,"Pajan"
+138,68,"ECU","Ecuador",14,"Manabi",138,"Pedernales","Canton","Canton",NA,NA
+139,68,"ECU","Ecuador",14,"Manabi",139,"Pichincha","Canton","Canton",NA,NA
+140,68,"ECU","Ecuador",14,"Manabi",140,"Portoviejo","Canton","Canton",NA,NA
+141,68,"ECU","Ecuador",14,"Manabi",141,"Puerto López","Canton","Canton",NA,"Puerto Lopez"
+142,68,"ECU","Ecuador",14,"Manabi",142,"Rocafuerte","Canton","Canton",NA,NA
+143,68,"ECU","Ecuador",14,"Manabi",143,"Santa Ana","Canton","Canton",NA,NA
+144,68,"ECU","Ecuador",14,"Manabi",144,"Sucre","Canton","Canton",NA,NA
+145,68,"ECU","Ecuador",14,"Manabi",145,"Tosagua","Canton","Canton",NA,NA
+146,68,"ECU","Ecuador",14,"Manabi",146,"Veinticuatro de Mayo","Canton","Canton",NA,"24 de Mayo"
+147,68,"ECU","Ecuador",15,"Morona Santiago",147,"Gualaquiza","Canton","Canton",NA,NA
+148,68,"ECU","Ecuador",15,"Morona Santiago",148,"Huamboya","Canton","Canton",NA,NA
+149,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona","Canton","Canton",NA,NA
+150,68,"ECU","Ecuador",15,"Morona Santiago",150,"Palora","Canton","Canton",NA,NA
+151,68,"ECU","Ecuador",15,"Morona Santiago",151,"San Juan Bosco","Canton","Canton",NA,NA
+152,68,"ECU","Ecuador",15,"Morona Santiago",152,"Santiago","Canton","Canton",NA,NA
+153,68,"ECU","Ecuador",15,"Morona Santiago",153,"Sucúa","Canton","Canton",NA,"Sucua"
+154,68,"ECU","Ecuador",16,"Napo",154,"Archidona","Canton","Canton",NA,NA
+155,68,"ECU","Ecuador",16,"Napo",155,"El Chaco","Canton","Canton",NA,NA
+156,68,"ECU","Ecuador",16,"Napo",156,"Quijos","Canton","Canton",NA,NA
+157,68,"ECU","Ecuador",16,"Napo",157,"Tena","Canton","Canton",NA,NA
+158,68,"ECU","Ecuador",17,"Orellana",158,"Aguarico","Canton","Canton",NA,NA
+159,68,"ECU","Ecuador",17,"Orellana",159,"Joya de los Sachas","Canton","Canton",NA,"La Joya De Los Sachas"
+160,68,"ECU","Ecuador",17,"Orellana",160,"Loreto","Canton","Canton",NA,NA
+161,68,"ECU","Ecuador",17,"Orellana",161,"Orellana","Canton","Canton",NA,NA
+162,68,"ECU","Ecuador",18,"Pastaza",162,"Mera","Canton","Canton",NA,NA
+163,68,"ECU","Ecuador",18,"Pastaza",163,"Pastaza","Canton","Canton",NA,NA
+164,68,"ECU","Ecuador",18,"Pastaza",164,"Santa Clara","Canton","Canton",NA,NA
+165,68,"ECU","Ecuador",19,"Pichincha",165,"Cayambe","Canton","Canton",NA,NA
+166,68,"ECU","Ecuador",19,"Pichincha",166,"Mejía","Canton","Canton",NA,"Mejia"
+167,68,"ECU","Ecuador",19,"Pichincha",167,"Pedro Moncayo","Canton","Canton",NA,NA
+168,68,"ECU","Ecuador",19,"Pichincha",168,"Pedro Vicente Maldonado","Canton","Canton",NA,"Pedro Vicente Maldona"
+169,68,"ECU","Ecuador",19,"Pichincha",169,"Quito","Canton","Canton",NA,NA
+170,68,"ECU","Ecuador",19,"Pichincha",170,"Rumiñahui","Canton","Canton",NA,NA
+171,68,"ECU","Ecuador",19,"Pichincha",171,"San Miguel de los Bancos","Canton","Canton",NA,NA
+172,68,"ECU","Ecuador",20,"Santa Elena",172,"La Libertad","Canton","Canton",NA,NA
+173,68,"ECU","Ecuador",20,"Santa Elena",173,"Salinas","Canton","Canton",NA,NA
+174,68,"ECU","Ecuador",20,"Santa Elena",174,"Santa Elena","Canton","Canton",NA,NA
+175,68,"ECU","Ecuador",21,"Santo Domingo de los Tsáchilas",175,"No Delimitado","Canton","Canton",NA,NA
+176,68,"ECU","Ecuador",21,"Santo Domingo de los Tsáchilas",176,"San Miguel de los Bancos","Canton","Canton",NA,NA
+177,68,"ECU","Ecuador",21,"Santo Domingo de los Tsáchilas",177,"Santo Domingo de los Colorados","Canton","Canton",NA,"Santo Domingo"
+178,68,"ECU","Ecuador",22,"Sucumbios",178,"Cascales","Canton","Canton",NA,NA
+179,68,"ECU","Ecuador",22,"Sucumbios",179,"Cuyabeno","Canton","Canton",NA,NA
+180,68,"ECU","Ecuador",22,"Sucumbios",180,"Gonzalo Pizarro","Canton","Canton",NA,NA
+181,68,"ECU","Ecuador",22,"Sucumbios",181,"Lago Agrio","Canton","Canton",NA,NA
+182,68,"ECU","Ecuador",22,"Sucumbios",182,"Putumayo","Canton","Canton",NA,NA
+183,68,"ECU","Ecuador",22,"Sucumbios",183,"Shushufindi","Canton","Canton",NA,NA
+184,68,"ECU","Ecuador",22,"Sucumbios",184,"Sucumbíos","Canton","Canton",NA,"Sucumbios"
+185,68,"ECU","Ecuador",23,"Tungurahua",185,"Ambato","Canton","Canton",NA,NA
+186,68,"ECU","Ecuador",23,"Tungurahua",186,"Baños","Canton","Canton",NA,NA
+187,68,"ECU","Ecuador",23,"Tungurahua",187,"Cevallos","Canton","Canton",NA,NA
+188,68,"ECU","Ecuador",23,"Tungurahua",188,"Mocha","Canton","Canton",NA,NA
+189,68,"ECU","Ecuador",23,"Tungurahua",189,"Patate","Canton","Canton",NA,NA
+190,68,"ECU","Ecuador",23,"Tungurahua",190,"Quero","Canton","Canton",NA,NA
+191,68,"ECU","Ecuador",23,"Tungurahua",191,"San Pedro de Pelileo","Canton","Canton",NA,NA
+192,68,"ECU","Ecuador",23,"Tungurahua",192,"Santiago de Pillaro","Canton","Canton",NA,NA
+193,68,"ECU","Ecuador",23,"Tungurahua",193,"Tisaleo","Canton","Canton",NA,NA
+194,68,"ECU","Ecuador",24,"Zamora Chinchipe",194,"Chinchipe","Canton","Canton",NA,NA
+195,68,"ECU","Ecuador",24,"Zamora Chinchipe",195,"El Pangui","Canton","Canton",NA,NA
+196,68,"ECU","Ecuador",24,"Zamora Chinchipe",196,"Nangaritza","Canton","Canton",NA,NA
+197,68,"ECU","Ecuador",24,"Zamora Chinchipe",197,"Yacuambi","Canton","Canton",NA,NA
+198,68,"ECU","Ecuador",24,"Zamora Chinchipe",198,"Yanzatza","Canton","Canton",NA,"Yantzaza"
+199,68,"ECU","Ecuador",24,"Zamora Chinchipe",199,"Zamora","Canton","Canton",NA,NA

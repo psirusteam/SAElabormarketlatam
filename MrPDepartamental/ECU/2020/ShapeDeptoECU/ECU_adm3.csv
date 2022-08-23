@@ -1,0 +1,992 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","ID_3","NAME_3","TYPE_3","ENGTYPE_3","NL_NAME_3","VARNAME_3"
+1,68,"ECU","Ecuador",1,"Azuay",1,"Chordeleg",1,"Chordeleg","Parroquia","Parish",NA,NA
+2,68,"ECU","Ecuador",1,"Azuay",1,"Chordeleg",2,"La Union","Parroquia","Parish",NA,NA
+3,68,"ECU","Ecuador",1,"Azuay",1,"Chordeleg",3,"Luis Galarza Orellana","Parroquia","Parish",NA,NA
+4,68,"ECU","Ecuador",1,"Azuay",1,"Chordeleg",4,"Principal","Parroquia","Parish",NA,NA
+5,68,"ECU","Ecuador",1,"Azuay",1,"Chordeleg",5,"San Martin de Puzhio","Parroquia","Parish",NA,NA
+6,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",6,"Baños","Parroquia","Parish",NA,NA
+7,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",7,"Chaucha","Parroquia","Parish",NA,NA
+8,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",8,"Checa","Parroquia","Parish",NA,NA
+9,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",9,"Chiquintad","Parroquia","Parish",NA,NA
+10,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",10,"Cuenca","Parroquia","Parish",NA,NA
+11,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",11,"Cumbe","Parroquia","Parish",NA,NA
+12,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",12,"Llacao","Parroquia","Parish",NA,NA
+13,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",13,"Molleturo","Parroquia","Parish",NA,NA
+14,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",14,"Nulti","Parroquia","Parish",NA,NA
+15,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",15,"Octavio Cordero","Parroquia","Parish",NA,NA
+16,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",16,"Paccha","Parroquia","Parish",NA,NA
+17,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",17,"Quingeo","Parroquia","Parish",NA,NA
+18,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",18,"Ricaurte","Parroquia","Parish",NA,NA
+19,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",19,"San Joaquin","Parroquia","Parish",NA,NA
+20,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",20,"Santa Ana","Parroquia","Parish",NA,NA
+21,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",21,"Sayausi","Parroquia","Parish",NA,NA
+22,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",22,"Sidcay","Parroquia","Parish",NA,NA
+23,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",23,"Sinicay","Parroquia","Parish",NA,NA
+24,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",24,"Tarqui","Parroquia","Parish",NA,NA
+25,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",25,"Turi","Parroquia","Parish",NA,NA
+26,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",26,"Valle","Parroquia","Parish",NA,NA
+27,68,"ECU","Ecuador",1,"Azuay",2,"Cuenca",27,"Victoria del Portete","Parroquia","Parish",NA,NA
+28,68,"ECU","Ecuador",1,"Azuay",3,"El Pan",28,"El Pan","Parroquia","Parish",NA,NA
+29,68,"ECU","Ecuador",1,"Azuay",3,"El Pan",29,"San Vicente","Parroquia","Parish",NA,NA
+30,68,"ECU","Ecuador",1,"Azuay",4,"Girón",30,"Asuncion","Parroquia","Parish",NA,NA
+31,68,"ECU","Ecuador",1,"Azuay",4,"Girón",31,"Giron","Parroquia","Parish",NA,NA
+32,68,"ECU","Ecuador",1,"Azuay",4,"Girón",32,"San Gerardo","Parroquia","Parish",NA,NA
+33,68,"ECU","Ecuador",1,"Azuay",5,"Gualaceo",33,"Daniel Cordova","Parroquia","Parish",NA,NA
+34,68,"ECU","Ecuador",1,"Azuay",5,"Gualaceo",34,"Gualaceo","Parroquia","Parish",NA,NA
+35,68,"ECU","Ecuador",1,"Azuay",5,"Gualaceo",35,"Jadan","Parroquia","Parish",NA,NA
+36,68,"ECU","Ecuador",1,"Azuay",5,"Gualaceo",36,"Luis Cordero Vega","Parroquia","Parish",NA,NA
+37,68,"ECU","Ecuador",1,"Azuay",5,"Gualaceo",37,"Mariano Moreno","Parroquia","Parish",NA,NA
+38,68,"ECU","Ecuador",1,"Azuay",5,"Gualaceo",38,"Remigio Crespo Toral","Parroquia","Parish",NA,NA
+39,68,"ECU","Ecuador",1,"Azuay",5,"Gualaceo",39,"San Juan","Parroquia","Parish",NA,NA
+40,68,"ECU","Ecuador",1,"Azuay",5,"Gualaceo",40,"Zhidmad","Parroquia","Parish",NA,NA
+41,68,"ECU","Ecuador",1,"Azuay",6,"Nabón",41,"Cochapata","Parroquia","Parish",NA,NA
+42,68,"ECU","Ecuador",1,"Azuay",6,"Nabón",42,"El Progreso","Parroquia","Parish",NA,NA
+43,68,"ECU","Ecuador",1,"Azuay",6,"Nabón",43,"Las Nieves","Parroquia","Parish",NA,NA
+44,68,"ECU","Ecuador",1,"Azuay",6,"Nabón",44,"Nabon","Parroquia","Parish",NA,NA
+45,68,"ECU","Ecuador",1,"Azuay",7,"Oña",45,"San Felipe de Oña","Parroquia","Parish",NA,NA
+46,68,"ECU","Ecuador",1,"Azuay",7,"Oña",46,"Susudel","Parroquia","Parish",NA,NA
+47,68,"ECU","Ecuador",1,"Azuay",8,"Paute",47,"Bulan","Parroquia","Parish",NA,NA
+48,68,"ECU","Ecuador",1,"Azuay",8,"Paute",48,"Chican","Parroquia","Parish",NA,NA
+49,68,"ECU","Ecuador",1,"Azuay",8,"Paute",49,"Dug Dug","Parroquia","Parish",NA,NA
+50,68,"ECU","Ecuador",1,"Azuay",8,"Paute",50,"El Cabo","Parroquia","Parish",NA,NA
+51,68,"ECU","Ecuador",1,"Azuay",8,"Paute",51,"Guachapala","Parroquia","Parish",NA,NA
+52,68,"ECU","Ecuador",1,"Azuay",8,"Paute",52,"Guarainag","Parroquia","Parish",NA,NA
+53,68,"ECU","Ecuador",1,"Azuay",8,"Paute",53,"Paute","Parroquia","Parish",NA,NA
+54,68,"ECU","Ecuador",1,"Azuay",8,"Paute",54,"San Cristobal","Parroquia","Parish",NA,NA
+55,68,"ECU","Ecuador",1,"Azuay",8,"Paute",55,"Tomebamba","Parroquia","Parish",NA,NA
+56,68,"ECU","Ecuador",1,"Azuay",9,"Pucará",56,"Camilo Ponce Enriquez","Parroquia","Parish",NA,NA
+57,68,"ECU","Ecuador",1,"Azuay",9,"Pucará",57,"Pucara","Parroquia","Parish",NA,NA
+58,68,"ECU","Ecuador",1,"Azuay",9,"Pucará",58,"San Rafael de Sharug","Parroquia","Parish",NA,NA
+59,68,"ECU","Ecuador",1,"Azuay",10,"San Fernando",59,"Chumblin","Parroquia","Parish",NA,NA
+60,68,"ECU","Ecuador",1,"Azuay",10,"San Fernando",60,"San Fernando","Parroquia","Parish",NA,NA
+61,68,"ECU","Ecuador",1,"Azuay",11,"Santa Isabel",61,"Abdon Calderon","Parroquia","Parish",NA,NA
+62,68,"ECU","Ecuador",1,"Azuay",11,"Santa Isabel",62,"El Carmen de Pijili","Parroquia","Parish",NA,NA
+63,68,"ECU","Ecuador",1,"Azuay",11,"Santa Isabel",63,"Santa Isabel","Parroquia","Parish",NA,NA
+64,68,"ECU","Ecuador",1,"Azuay",11,"Santa Isabel",64,"Zhaglli","Parroquia","Parish",NA,NA
+65,68,"ECU","Ecuador",1,"Azuay",12,"Sevilla de Oro",65,"Amaluza","Parroquia","Parish",NA,NA
+66,68,"ECU","Ecuador",1,"Azuay",12,"Sevilla de Oro",66,"Palmas","Parroquia","Parish",NA,NA
+67,68,"ECU","Ecuador",1,"Azuay",12,"Sevilla de Oro",67,"Sevilla de Oro","Parroquia","Parish",NA,NA
+68,68,"ECU","Ecuador",1,"Azuay",13,"Sigsig",68,"Cuchil","Parroquia","Parish",NA,NA
+69,68,"ECU","Ecuador",1,"Azuay",13,"Sigsig",69,"Gima","Parroquia","Parish",NA,NA
+70,68,"ECU","Ecuador",1,"Azuay",13,"Sigsig",70,"Guel","Parroquia","Parish",NA,NA
+71,68,"ECU","Ecuador",1,"Azuay",13,"Sigsig",71,"Ludo","Parroquia","Parish",NA,NA
+72,68,"ECU","Ecuador",1,"Azuay",13,"Sigsig",72,"San Bartolome","Parroquia","Parish",NA,NA
+73,68,"ECU","Ecuador",1,"Azuay",13,"Sigsig",73,"San Jose de Raranga","Parroquia","Parish",NA,NA
+74,68,"ECU","Ecuador",1,"Azuay",13,"Sigsig",74,"Sigsig","Parroquia","Parish",NA,NA
+75,68,"ECU","Ecuador",2,"Bolivar",14,"Caluma",75,"Caluma","Parroquia","Parish",NA,NA
+76,68,"ECU","Ecuador",2,"Bolivar",15,"Chillanes",76,"Chillanes","Parroquia","Parish",NA,NA
+77,68,"ECU","Ecuador",2,"Bolivar",15,"Chillanes",77,"San Jose del Tambo","Parroquia","Parish",NA,NA
+78,68,"ECU","Ecuador",2,"Bolivar",16,"Chimbo",78,"Asuncion","Parroquia","Parish",NA,NA
+79,68,"ECU","Ecuador",2,"Bolivar",16,"Chimbo",79,"Magdalena","Parroquia","Parish",NA,NA
+80,68,"ECU","Ecuador",2,"Bolivar",16,"Chimbo",80,"San Jose de Chimbo","Parroquia","Parish",NA,NA
+81,68,"ECU","Ecuador",2,"Bolivar",16,"Chimbo",81,"San Sebastian","Parroquia","Parish",NA,NA
+82,68,"ECU","Ecuador",2,"Bolivar",16,"Chimbo",82,"Telimbela","Parroquia","Parish",NA,NA
+83,68,"ECU","Ecuador",2,"Bolivar",17,"Echeandía",83,"Echeandia","Parroquia","Parish",NA,NA
+84,68,"ECU","Ecuador",2,"Bolivar",18,"Guaranda",84,"Facundo Vela","Parroquia","Parish",NA,NA
+85,68,"ECU","Ecuador",2,"Bolivar",18,"Guaranda",85,"Guanujo","Parroquia","Parish",NA,NA
+86,68,"ECU","Ecuador",2,"Bolivar",18,"Guaranda",86,"Guaranda","Parroquia","Parish",NA,NA
+87,68,"ECU","Ecuador",2,"Bolivar",18,"Guaranda",87,"Julio E. Moreno","Parroquia","Parish",NA,NA
+88,68,"ECU","Ecuador",2,"Bolivar",18,"Guaranda",88,"Salinas","Parroquia","Parish",NA,NA
+89,68,"ECU","Ecuador",2,"Bolivar",18,"Guaranda",89,"San Lorenzo","Parroquia","Parish",NA,NA
+90,68,"ECU","Ecuador",2,"Bolivar",18,"Guaranda",90,"San Luis de Pambil","Parroquia","Parish",NA,NA
+91,68,"ECU","Ecuador",2,"Bolivar",18,"Guaranda",91,"San Simon","Parroquia","Parish",NA,NA
+92,68,"ECU","Ecuador",2,"Bolivar",18,"Guaranda",92,"Santa Fe","Parroquia","Parish",NA,NA
+93,68,"ECU","Ecuador",2,"Bolivar",18,"Guaranda",93,"Simiatug","Parroquia","Parish",NA,NA
+94,68,"ECU","Ecuador",2,"Bolivar",19,"Las Naves",94,"Las Naves","Parroquia","Parish",NA,NA
+95,68,"ECU","Ecuador",2,"Bolivar",20,"San Miguel",95,"Balsapamba","Parroquia","Parish",NA,NA
+96,68,"ECU","Ecuador",2,"Bolivar",20,"San Miguel",96,"Bilovan","Parroquia","Parish",NA,NA
+97,68,"ECU","Ecuador",2,"Bolivar",20,"San Miguel",97,"Regulo de Mora","Parroquia","Parish",NA,NA
+98,68,"ECU","Ecuador",2,"Bolivar",20,"San Miguel",98,"San Miguel","Parroquia","Parish",NA,NA
+99,68,"ECU","Ecuador",2,"Bolivar",20,"San Miguel",99,"San Pablo de Atenas","Parroquia","Parish",NA,NA
+100,68,"ECU","Ecuador",2,"Bolivar",20,"San Miguel",100,"San Vicente","Parroquia","Parish",NA,NA
+101,68,"ECU","Ecuador",2,"Bolivar",20,"San Miguel",101,"Santiago","Parroquia","Parish",NA,NA
+102,68,"ECU","Ecuador",3,"Cañar",21,"Azogues",102,"Azogues","Parroquia","Parish",NA,NA
+103,68,"ECU","Ecuador",3,"Cañar",21,"Azogues",103,"Cojitambo","Parroquia","Parish",NA,NA
+104,68,"ECU","Ecuador",3,"Cañar",21,"Azogues",104,"Guapan","Parroquia","Parish",NA,NA
+105,68,"ECU","Ecuador",3,"Cañar",21,"Azogues",105,"Javier Loyola","Parroquia","Parish",NA,NA
+106,68,"ECU","Ecuador",3,"Cañar",21,"Azogues",106,"Luis Cordero","Parroquia","Parish",NA,NA
+107,68,"ECU","Ecuador",3,"Cañar",21,"Azogues",107,"Pindilig","Parroquia","Parish",NA,NA
+108,68,"ECU","Ecuador",3,"Cañar",21,"Azogues",108,"Rivera","Parroquia","Parish",NA,NA
+109,68,"ECU","Ecuador",3,"Cañar",21,"Azogues",109,"San Miguel","Parroquia","Parish",NA,NA
+110,68,"ECU","Ecuador",3,"Cañar",21,"Azogues",110,"Taday","Parroquia","Parish",NA,NA
+111,68,"ECU","Ecuador",3,"Cañar",22,"Biblián",111,"Biblian","Parroquia","Parish",NA,NA
+112,68,"ECU","Ecuador",3,"Cañar",22,"Biblián",112,"Jerusalen","Parroquia","Parish",NA,NA
+113,68,"ECU","Ecuador",3,"Cañar",22,"Biblián",113,"Nazon","Parroquia","Parish",NA,NA
+114,68,"ECU","Ecuador",3,"Cañar",22,"Biblián",114,"San Fco. de Sageo","Parroquia","Parish",NA,NA
+115,68,"ECU","Ecuador",3,"Cañar",22,"Biblián",115,"Turupamba","Parroquia","Parish",NA,NA
+116,68,"ECU","Ecuador",3,"Cañar",23,"Cañar",116,"Cañar","Parroquia","Parish",NA,NA
+117,68,"ECU","Ecuador",3,"Cañar",23,"Cañar",117,"Chontamarca","Parroquia","Parish",NA,NA
+118,68,"ECU","Ecuador",3,"Cañar",23,"Cañar",118,"Chorocopte","Parroquia","Parish",NA,NA
+119,68,"ECU","Ecuador",3,"Cañar",23,"Cañar",119,"Ducur","Parroquia","Parish",NA,NA
+120,68,"ECU","Ecuador",3,"Cañar",23,"Cañar",120,"General Morales","Parroquia","Parish",NA,NA
+121,68,"ECU","Ecuador",3,"Cañar",23,"Cañar",121,"Gualleturo","Parroquia","Parish",NA,NA
+122,68,"ECU","Ecuador",3,"Cañar",23,"Cañar",122,"Honorato Vasquez","Parroquia","Parish",NA,NA
+123,68,"ECU","Ecuador",3,"Cañar",23,"Cañar",123,"Ingapirca","Parroquia","Parish",NA,NA
+124,68,"ECU","Ecuador",3,"Cañar",23,"Cañar",124,"Juncal","Parroquia","Parish",NA,NA
+125,68,"ECU","Ecuador",3,"Cañar",23,"Cañar",125,"San Antonio","Parroquia","Parish",NA,NA
+126,68,"ECU","Ecuador",3,"Cañar",23,"Cañar",126,"Suscal","Parroquia","Parish",NA,NA
+127,68,"ECU","Ecuador",3,"Cañar",23,"Cañar",127,"Ventura","Parroquia","Parish",NA,NA
+128,68,"ECU","Ecuador",3,"Cañar",23,"Cañar",128,"Zhud","Parroquia","Parish",NA,NA
+129,68,"ECU","Ecuador",3,"Cañar",24,"Déleg",129,"Deleg","Parroquia","Parish",NA,NA
+130,68,"ECU","Ecuador",3,"Cañar",24,"Déleg",130,"Solano","Parroquia","Parish",NA,NA
+131,68,"ECU","Ecuador",3,"Cañar",25,"El Tambo",131,"El Tambo","Parroquia","Parish",NA,NA
+132,68,"ECU","Ecuador",3,"Cañar",26,"La Troncal",132,"La Troncal","Parroquia","Parish",NA,NA
+133,68,"ECU","Ecuador",3,"Cañar",26,"La Troncal",133,"Manuel J. Calle","Parroquia","Parish",NA,NA
+134,68,"ECU","Ecuador",3,"Cañar",26,"La Troncal",134,"Pancho Negro","Parroquia","Parish",NA,NA
+135,68,"ECU","Ecuador",3,"Cañar",27,"No Delimitado",135,"El Piedrero","Parroquia","Parish",NA,NA
+136,68,"ECU","Ecuador",4,"Carchi",28,"Bolívar",136,"Bolivar","Parroquia","Parish",NA,NA
+137,68,"ECU","Ecuador",4,"Carchi",28,"Bolívar",137,"Garcia Moreno","Parroquia","Parish",NA,NA
+138,68,"ECU","Ecuador",4,"Carchi",28,"Bolívar",138,"Los Andes","Parroquia","Parish",NA,NA
+139,68,"ECU","Ecuador",4,"Carchi",28,"Bolívar",139,"Monte Olivo","Parroquia","Parish",NA,NA
+140,68,"ECU","Ecuador",4,"Carchi",28,"Bolívar",140,"San Rafael","Parroquia","Parish",NA,NA
+141,68,"ECU","Ecuador",4,"Carchi",28,"Bolívar",141,"San Vicente de Pusir","Parroquia","Parish",NA,NA
+142,68,"ECU","Ecuador",4,"Carchi",29,"Espejo",142,"El Angel","Parroquia","Parish",NA,NA
+143,68,"ECU","Ecuador",4,"Carchi",29,"Espejo",143,"El Goaltal","Parroquia","Parish",NA,NA
+144,68,"ECU","Ecuador",4,"Carchi",29,"Espejo",144,"La Libertad","Parroquia","Parish",NA,NA
+145,68,"ECU","Ecuador",4,"Carchi",29,"Espejo",145,"San Isidro","Parroquia","Parish",NA,NA
+146,68,"ECU","Ecuador",4,"Carchi",30,"Mira",146,"Concepcion","Parroquia","Parish",NA,NA
+147,68,"ECU","Ecuador",4,"Carchi",30,"Mira",147,"Jijon Y Caamaño","Parroquia","Parish",NA,NA
+148,68,"ECU","Ecuador",4,"Carchi",30,"Mira",148,"Juan Montalvo","Parroquia","Parish",NA,NA
+149,68,"ECU","Ecuador",4,"Carchi",30,"Mira",149,"Mira","Parroquia","Parish",NA,NA
+150,68,"ECU","Ecuador",4,"Carchi",31,"Montúfar",150,"Chitan de Navarrete","Parroquia","Parish",NA,NA
+151,68,"ECU","Ecuador",4,"Carchi",31,"Montúfar",151,"Cristoval Colon","Parroquia","Parish",NA,NA
+152,68,"ECU","Ecuador",4,"Carchi",31,"Montúfar",152,"Fernandez Salvador","Parroquia","Parish",NA,NA
+153,68,"ECU","Ecuador",4,"Carchi",31,"Montúfar",153,"La Paz","Parroquia","Parish",NA,NA
+154,68,"ECU","Ecuador",4,"Carchi",31,"Montúfar",154,"Piartal","Parroquia","Parish",NA,NA
+155,68,"ECU","Ecuador",4,"Carchi",31,"Montúfar",155,"San Gabriel","Parroquia","Parish",NA,NA
+156,68,"ECU","Ecuador",4,"Carchi",32,"Tulcán",156,"El Carmelo","Parroquia","Parish",NA,NA
+157,68,"ECU","Ecuador",4,"Carchi",32,"Tulcán",157,"El Chical","Parroquia","Parish",NA,NA
+158,68,"ECU","Ecuador",4,"Carchi",32,"Tulcán",158,"Huaca","Parroquia","Parish",NA,NA
+159,68,"ECU","Ecuador",4,"Carchi",32,"Tulcán",159,"Julio Andrade","Parroquia","Parish",NA,NA
+160,68,"ECU","Ecuador",4,"Carchi",32,"Tulcán",160,"Maldonado","Parroquia","Parish",NA,NA
+161,68,"ECU","Ecuador",4,"Carchi",32,"Tulcán",161,"Mariscal Sucre","Parroquia","Parish",NA,NA
+162,68,"ECU","Ecuador",4,"Carchi",32,"Tulcán",162,"Pioter","Parroquia","Parish",NA,NA
+163,68,"ECU","Ecuador",4,"Carchi",32,"Tulcán",163,"Santa Martha de Cuba","Parroquia","Parish",NA,NA
+164,68,"ECU","Ecuador",4,"Carchi",32,"Tulcán",164,"Tobar Donoso","Parroquia","Parish",NA,NA
+165,68,"ECU","Ecuador",4,"Carchi",32,"Tulcán",165,"Tufiño","Parroquia","Parish",NA,NA
+166,68,"ECU","Ecuador",4,"Carchi",32,"Tulcán",166,"Tulcan","Parroquia","Parish",NA,NA
+167,68,"ECU","Ecuador",4,"Carchi",32,"Tulcán",167,"Urbina","Parroquia","Parish",NA,NA
+168,68,"ECU","Ecuador",5,"Chimborazo",33,"Alausí",168,"Achupallas","Parroquia","Parish",NA,NA
+169,68,"ECU","Ecuador",5,"Chimborazo",33,"Alausí",169,"Alausi","Parroquia","Parish",NA,NA
+170,68,"ECU","Ecuador",5,"Chimborazo",33,"Alausí",170,"Guasuntos","Parroquia","Parish",NA,NA
+171,68,"ECU","Ecuador",5,"Chimborazo",33,"Alausí",171,"Huigra","Parroquia","Parish",NA,NA
+172,68,"ECU","Ecuador",5,"Chimborazo",33,"Alausí",172,"Multitud","Parroquia","Parish",NA,NA
+173,68,"ECU","Ecuador",5,"Chimborazo",33,"Alausí",173,"Pistishi","Parroquia","Parish",NA,NA
+174,68,"ECU","Ecuador",5,"Chimborazo",33,"Alausí",174,"Pumallacta","Parroquia","Parish",NA,NA
+175,68,"ECU","Ecuador",5,"Chimborazo",33,"Alausí",175,"Sevilla","Parroquia","Parish",NA,NA
+176,68,"ECU","Ecuador",5,"Chimborazo",33,"Alausí",176,"Sibambe","Parroquia","Parish",NA,NA
+177,68,"ECU","Ecuador",5,"Chimborazo",33,"Alausí",177,"Tixan","Parroquia","Parish",NA,NA
+178,68,"ECU","Ecuador",5,"Chimborazo",34,"Chambo",178,"Chambo","Parroquia","Parish",NA,NA
+179,68,"ECU","Ecuador",5,"Chimborazo",35,"Chunchi",179,"Capzol","Parroquia","Parish",NA,NA
+180,68,"ECU","Ecuador",5,"Chimborazo",35,"Chunchi",180,"Chunchi","Parroquia","Parish",NA,NA
+181,68,"ECU","Ecuador",5,"Chimborazo",35,"Chunchi",181,"Compud","Parroquia","Parish",NA,NA
+182,68,"ECU","Ecuador",5,"Chimborazo",35,"Chunchi",182,"Gonzol","Parroquia","Parish",NA,NA
+183,68,"ECU","Ecuador",5,"Chimborazo",35,"Chunchi",183,"Llagos","Parroquia","Parish",NA,NA
+184,68,"ECU","Ecuador",5,"Chimborazo",36,"Colta",184,"Cañi","Parroquia","Parish",NA,NA
+185,68,"ECU","Ecuador",5,"Chimborazo",36,"Colta",185,"Columbe","Parroquia","Parish",NA,NA
+186,68,"ECU","Ecuador",5,"Chimborazo",36,"Colta",186,"Juan de Velasco","Parroquia","Parish",NA,NA
+187,68,"ECU","Ecuador",5,"Chimborazo",36,"Colta",187,"Santiago de Quito","Parroquia","Parish",NA,NA
+188,68,"ECU","Ecuador",5,"Chimborazo",36,"Colta",188,"Villa La Union","Parroquia","Parish",NA,NA
+189,68,"ECU","Ecuador",5,"Chimborazo",37,"Cumandá",189,"Cumanda","Parroquia","Parish",NA,NA
+190,68,"ECU","Ecuador",5,"Chimborazo",38,"Guamote",190,"Cebadas","Parroquia","Parish",NA,NA
+191,68,"ECU","Ecuador",5,"Chimborazo",38,"Guamote",191,"Guamote","Parroquia","Parish",NA,NA
+192,68,"ECU","Ecuador",5,"Chimborazo",38,"Guamote",192,"Palmira","Parroquia","Parish",NA,NA
+193,68,"ECU","Ecuador",5,"Chimborazo",39,"Guano",193,"Guanando","Parroquia","Parish",NA,NA
+194,68,"ECU","Ecuador",5,"Chimborazo",39,"Guano",194,"Guano","Parroquia","Parish",NA,NA
+195,68,"ECU","Ecuador",5,"Chimborazo",39,"Guano",195,"La Providencia","Parroquia","Parish",NA,NA
+196,68,"ECU","Ecuador",5,"Chimborazo",39,"Guano",196,"Llapo","Parroquia","Parish",NA,NA
+197,68,"ECU","Ecuador",5,"Chimborazo",39,"Guano",197,"San Andres","Parroquia","Parish",NA,NA
+198,68,"ECU","Ecuador",5,"Chimborazo",39,"Guano",198,"San Gerardo de Pacaicaguan","Parroquia","Parish",NA,NA
+199,68,"ECU","Ecuador",5,"Chimborazo",39,"Guano",199,"San Isidro de Patulu","Parroquia","Parish",NA,NA
+200,68,"ECU","Ecuador",5,"Chimborazo",39,"Guano",200,"San Jose del Chazo","Parroquia","Parish",NA,NA
+201,68,"ECU","Ecuador",5,"Chimborazo",39,"Guano",201,"Santa Fe de Galan","Parroquia","Parish",NA,NA
+202,68,"ECU","Ecuador",5,"Chimborazo",39,"Guano",202,"Valparaiso","Parroquia","Parish",NA,NA
+203,68,"ECU","Ecuador",5,"Chimborazo",40,"Pallatanga",203,"Pallatanga","Parroquia","Parish",NA,NA
+204,68,"ECU","Ecuador",5,"Chimborazo",41,"Penipe",204,"Bilbao","Parroquia","Parish",NA,NA
+205,68,"ECU","Ecuador",5,"Chimborazo",41,"Penipe",205,"El Altar","Parroquia","Parish",NA,NA
+206,68,"ECU","Ecuador",5,"Chimborazo",41,"Penipe",206,"La Candelaria","Parroquia","Parish",NA,NA
+207,68,"ECU","Ecuador",5,"Chimborazo",41,"Penipe",207,"Matus","Parroquia","Parish",NA,NA
+208,68,"ECU","Ecuador",5,"Chimborazo",41,"Penipe",208,"Penipe","Parroquia","Parish",NA,NA
+209,68,"ECU","Ecuador",5,"Chimborazo",41,"Penipe",209,"Puela","Parroquia","Parish",NA,NA
+210,68,"ECU","Ecuador",5,"Chimborazo",41,"Penipe",210,"San Antonio de Bayushig","Parroquia","Parish",NA,NA
+211,68,"ECU","Ecuador",5,"Chimborazo",42,"Riobamba",211,"Cacha","Parroquia","Parish",NA,NA
+212,68,"ECU","Ecuador",5,"Chimborazo",42,"Riobamba",212,"Calpi","Parroquia","Parish",NA,NA
+213,68,"ECU","Ecuador",5,"Chimborazo",42,"Riobamba",213,"Cubijies","Parroquia","Parish",NA,NA
+214,68,"ECU","Ecuador",5,"Chimborazo",42,"Riobamba",214,"Flores","Parroquia","Parish",NA,NA
+215,68,"ECU","Ecuador",5,"Chimborazo",42,"Riobamba",215,"Lican","Parroquia","Parish",NA,NA
+216,68,"ECU","Ecuador",5,"Chimborazo",42,"Riobamba",216,"Licto","Parroquia","Parish",NA,NA
+217,68,"ECU","Ecuador",5,"Chimborazo",42,"Riobamba",217,"Pungala","Parroquia","Parish",NA,NA
+218,68,"ECU","Ecuador",5,"Chimborazo",42,"Riobamba",218,"Punin","Parroquia","Parish",NA,NA
+219,68,"ECU","Ecuador",5,"Chimborazo",42,"Riobamba",219,"Quimiag","Parroquia","Parish",NA,NA
+220,68,"ECU","Ecuador",5,"Chimborazo",42,"Riobamba",220,"Riobamba","Parroquia","Parish",NA,NA
+221,68,"ECU","Ecuador",5,"Chimborazo",42,"Riobamba",221,"San Juan","Parroquia","Parish",NA,NA
+222,68,"ECU","Ecuador",5,"Chimborazo",42,"Riobamba",222,"San Luis","Parroquia","Parish",NA,NA
+223,68,"ECU","Ecuador",6,"Cotopaxi",43,"La Maná",223,"Guasaganda","Parroquia","Parish",NA,NA
+224,68,"ECU","Ecuador",6,"Cotopaxi",43,"La Maná",224,"La Mana","Parroquia","Parish",NA,NA
+225,68,"ECU","Ecuador",6,"Cotopaxi",43,"La Maná",225,"Pucayacu","Parroquia","Parish",NA,NA
+226,68,"ECU","Ecuador",6,"Cotopaxi",44,"Latacunga",226,"11 de Noviembre","Parroquia","Parish",NA,NA
+227,68,"ECU","Ecuador",6,"Cotopaxi",44,"Latacunga",227,"Alaques","Parroquia","Parish",NA,NA
+228,68,"ECU","Ecuador",6,"Cotopaxi",44,"Latacunga",228,"Belisario Quevedo","Parroquia","Parish",NA,NA
+229,68,"ECU","Ecuador",6,"Cotopaxi",44,"Latacunga",229,"Guaitacama","Parroquia","Parish",NA,NA
+230,68,"ECU","Ecuador",6,"Cotopaxi",44,"Latacunga",230,"Joseguango Bajo","Parroquia","Parish",NA,NA
+231,68,"ECU","Ecuador",6,"Cotopaxi",44,"Latacunga",231,"Latacunga","Parroquia","Parish",NA,NA
+232,68,"ECU","Ecuador",6,"Cotopaxi",44,"Latacunga",232,"Mulalo","Parroquia","Parish",NA,NA
+233,68,"ECU","Ecuador",6,"Cotopaxi",44,"Latacunga",233,"Poalo","Parroquia","Parish",NA,NA
+234,68,"ECU","Ecuador",6,"Cotopaxi",44,"Latacunga",234,"San Juan de Pastocalle","Parroquia","Parish",NA,NA
+235,68,"ECU","Ecuador",6,"Cotopaxi",44,"Latacunga",235,"Tanicuchi","Parroquia","Parish",NA,NA
+236,68,"ECU","Ecuador",6,"Cotopaxi",44,"Latacunga",236,"Toacaso","Parroquia","Parish",NA,NA
+237,68,"ECU","Ecuador",6,"Cotopaxi",45,"Pangua",237,"El Corazon","Parroquia","Parish",NA,NA
+238,68,"ECU","Ecuador",6,"Cotopaxi",45,"Pangua",238,"Moraspungo","Parroquia","Parish",NA,NA
+239,68,"ECU","Ecuador",6,"Cotopaxi",45,"Pangua",239,"Pinllopata","Parroquia","Parish",NA,NA
+240,68,"ECU","Ecuador",6,"Cotopaxi",45,"Pangua",240,"Ramon Campaña","Parroquia","Parish",NA,NA
+241,68,"ECU","Ecuador",6,"Cotopaxi",46,"Pujilí",241,"Angamarca","Parroquia","Parish",NA,NA
+242,68,"ECU","Ecuador",6,"Cotopaxi",46,"Pujilí",242,"Guangaje","Parroquia","Parish",NA,NA
+243,68,"ECU","Ecuador",6,"Cotopaxi",46,"Pujilí",243,"La Victoria","Parroquia","Parish",NA,NA
+244,68,"ECU","Ecuador",6,"Cotopaxi",46,"Pujilí",244,"Pilalo","Parroquia","Parish",NA,NA
+245,68,"ECU","Ecuador",6,"Cotopaxi",46,"Pujilí",245,"Pujili","Parroquia","Parish",NA,NA
+246,68,"ECU","Ecuador",6,"Cotopaxi",46,"Pujilí",246,"Tingo","Parroquia","Parish",NA,NA
+247,68,"ECU","Ecuador",6,"Cotopaxi",46,"Pujilí",247,"Zumbahua","Parroquia","Parish",NA,NA
+248,68,"ECU","Ecuador",6,"Cotopaxi",47,"Salcedo",248,"Antonio Jose Holguin","Parroquia","Parish",NA,NA
+249,68,"ECU","Ecuador",6,"Cotopaxi",47,"Salcedo",249,"Cusubamba","Parroquia","Parish",NA,NA
+250,68,"ECU","Ecuador",6,"Cotopaxi",47,"Salcedo",250,"Mulalillo","Parroquia","Parish",NA,NA
+251,68,"ECU","Ecuador",6,"Cotopaxi",47,"Salcedo",251,"Mulliquindil","Parroquia","Parish",NA,NA
+252,68,"ECU","Ecuador",6,"Cotopaxi",47,"Salcedo",252,"Pansaleo","Parroquia","Parish",NA,NA
+253,68,"ECU","Ecuador",6,"Cotopaxi",47,"Salcedo",253,"San Miguel","Parroquia","Parish",NA,NA
+254,68,"ECU","Ecuador",6,"Cotopaxi",48,"Saquisilí",254,"Canchagua","Parroquia","Parish",NA,NA
+255,68,"ECU","Ecuador",6,"Cotopaxi",48,"Saquisilí",255,"Chantilin","Parroquia","Parish",NA,NA
+256,68,"ECU","Ecuador",6,"Cotopaxi",48,"Saquisilí",256,"Cochapamba","Parroquia","Parish",NA,NA
+257,68,"ECU","Ecuador",6,"Cotopaxi",48,"Saquisilí",257,"Saquisili","Parroquia","Parish",NA,NA
+258,68,"ECU","Ecuador",6,"Cotopaxi",49,"Sigchos",258,"Chugchillan","Parroquia","Parish",NA,NA
+259,68,"ECU","Ecuador",6,"Cotopaxi",49,"Sigchos",259,"Isinlivi","Parroquia","Parish",NA,NA
+260,68,"ECU","Ecuador",6,"Cotopaxi",49,"Sigchos",260,"Las Pampas","Parroquia","Parish",NA,NA
+261,68,"ECU","Ecuador",6,"Cotopaxi",49,"Sigchos",261,"Palo Quemado","Parroquia","Parish",NA,NA
+262,68,"ECU","Ecuador",6,"Cotopaxi",49,"Sigchos",262,"Sigchos","Parroquia","Parish",NA,NA
+263,68,"ECU","Ecuador",7,"El Oro",50,"Arenillas",263,"Arenillas","Parroquia","Parish",NA,NA
+264,68,"ECU","Ecuador",7,"El Oro",50,"Arenillas",264,"Carcabon","Parroquia","Parish",NA,NA
+265,68,"ECU","Ecuador",7,"El Oro",50,"Arenillas",265,"Chacras","Parroquia","Parish",NA,NA
+266,68,"ECU","Ecuador",7,"El Oro",50,"Arenillas",266,"Palmales","Parroquia","Parish",NA,NA
+267,68,"ECU","Ecuador",7,"El Oro",51,"Atahualpa",267,"Ayapamba","Parroquia","Parish",NA,NA
+268,68,"ECU","Ecuador",7,"El Oro",51,"Atahualpa",268,"Cordoncillo","Parroquia","Parish",NA,NA
+269,68,"ECU","Ecuador",7,"El Oro",51,"Atahualpa",269,"Milagro","Parroquia","Parish",NA,NA
+270,68,"ECU","Ecuador",7,"El Oro",51,"Atahualpa",270,"Paccha","Parroquia","Parish",NA,NA
+271,68,"ECU","Ecuador",7,"El Oro",51,"Atahualpa",271,"San Jose","Parroquia","Parish",NA,NA
+272,68,"ECU","Ecuador",7,"El Oro",51,"Atahualpa",272,"San Juan de Cerro Azul","Parroquia","Parish",NA,NA
+273,68,"ECU","Ecuador",7,"El Oro",52,"Balsas",273,"Balsas","Parroquia","Parish",NA,NA
+274,68,"ECU","Ecuador",7,"El Oro",52,"Balsas",274,"Bellamaria","Parroquia","Parish",NA,NA
+275,68,"ECU","Ecuador",7,"El Oro",53,"Chilla",275,"Chilla","Parroquia","Parish",NA,NA
+276,68,"ECU","Ecuador",7,"El Oro",54,"El Guabo",276,"Barbones","Parroquia","Parish",NA,NA
+277,68,"ECU","Ecuador",7,"El Oro",54,"El Guabo",277,"El Guabo","Parroquia","Parish",NA,NA
+278,68,"ECU","Ecuador",7,"El Oro",54,"El Guabo",278,"La Iberia","Parroquia","Parish",NA,NA
+279,68,"ECU","Ecuador",7,"El Oro",54,"El Guabo",279,"Tendales","Parroquia","Parish",NA,NA
+280,68,"ECU","Ecuador",7,"El Oro",55,"Huaquillas",280,"Huaquillas","Parroquia","Parish",NA,NA
+281,68,"ECU","Ecuador",7,"El Oro",56,"Las Lajas",281,"El Paraiso","Parroquia","Parish",NA,NA
+282,68,"ECU","Ecuador",7,"El Oro",56,"Las Lajas",282,"La Libertad","Parroquia","Parish",NA,NA
+283,68,"ECU","Ecuador",7,"El Oro",56,"Las Lajas",283,"La Victoria","Parroquia","Parish",NA,NA
+284,68,"ECU","Ecuador",7,"El Oro",56,"Las Lajas",284,"San Isidro","Parroquia","Parish",NA,NA
+285,68,"ECU","Ecuador",7,"El Oro",57,"Machala",285,"El Cambio","Parroquia","Parish",NA,NA
+286,68,"ECU","Ecuador",7,"El Oro",57,"Machala",286,"El Retiro","Parroquia","Parish",NA,NA
+287,68,"ECU","Ecuador",7,"El Oro",57,"Machala",287,"Machala","Parroquia","Parish",NA,NA
+288,68,"ECU","Ecuador",7,"El Oro",58,"Marcabelí",288,"El Ingenio","Parroquia","Parish",NA,NA
+289,68,"ECU","Ecuador",7,"El Oro",58,"Marcabelí",289,"Marcabeli","Parroquia","Parish",NA,NA
+290,68,"ECU","Ecuador",7,"El Oro",59,"Pasaje",290,"Buenavista","Parroquia","Parish",NA,NA
+291,68,"ECU","Ecuador",7,"El Oro",59,"Pasaje",291,"Cañaquemada","Parroquia","Parish",NA,NA
+292,68,"ECU","Ecuador",7,"El Oro",59,"Pasaje",292,"Casacay","Parroquia","Parish",NA,NA
+293,68,"ECU","Ecuador",7,"El Oro",59,"Pasaje",293,"La Peaña","Parroquia","Parish",NA,NA
+294,68,"ECU","Ecuador",7,"El Oro",59,"Pasaje",294,"Pasaje","Parroquia","Parish",NA,NA
+295,68,"ECU","Ecuador",7,"El Oro",59,"Pasaje",295,"Progreso","Parroquia","Parish",NA,NA
+296,68,"ECU","Ecuador",7,"El Oro",59,"Pasaje",296,"Uzhcurrumi","Parroquia","Parish",NA,NA
+297,68,"ECU","Ecuador",7,"El Oro",60,"Piñas",297,"Capiro","Parroquia","Parish",NA,NA
+298,68,"ECU","Ecuador",7,"El Oro",60,"Piñas",298,"La Bocana","Parroquia","Parish",NA,NA
+299,68,"ECU","Ecuador",7,"El Oro",60,"Piñas",299,"Moromoro","Parroquia","Parish",NA,NA
+300,68,"ECU","Ecuador",7,"El Oro",60,"Piñas",300,"Piñas","Parroquia","Parish",NA,NA
+301,68,"ECU","Ecuador",7,"El Oro",60,"Piñas",301,"Piedras","Parroquia","Parish",NA,NA
+302,68,"ECU","Ecuador",7,"El Oro",60,"Piñas",302,"San Roque","Parroquia","Parish",NA,NA
+303,68,"ECU","Ecuador",7,"El Oro",60,"Piñas",303,"Saracay","Parroquia","Parish",NA,NA
+304,68,"ECU","Ecuador",7,"El Oro",61,"Portovelo",304,"Curtincapa","Parroquia","Parish",NA,NA
+305,68,"ECU","Ecuador",7,"El Oro",61,"Portovelo",305,"Morales","Parroquia","Parish",NA,NA
+306,68,"ECU","Ecuador",7,"El Oro",61,"Portovelo",306,"Portovelo","Parroquia","Parish",NA,NA
+307,68,"ECU","Ecuador",7,"El Oro",61,"Portovelo",307,"Salati","Parroquia","Parish",NA,NA
+308,68,"ECU","Ecuador",7,"El Oro",62,"Santa Rosa",308,"Bellamaria","Parroquia","Parish",NA,NA
+309,68,"ECU","Ecuador",7,"El Oro",62,"Santa Rosa",309,"Bellavista","Parroquia","Parish",NA,NA
+310,68,"ECU","Ecuador",7,"El Oro",62,"Santa Rosa",310,"Jambeli","Parroquia","Parish",NA,NA
+311,68,"ECU","Ecuador",7,"El Oro",62,"Santa Rosa",311,"La Avanzada","Parroquia","Parish",NA,NA
+312,68,"ECU","Ecuador",7,"El Oro",62,"Santa Rosa",312,"La Victoria","Parroquia","Parish",NA,NA
+313,68,"ECU","Ecuador",7,"El Oro",62,"Santa Rosa",313,"San Antonio","Parroquia","Parish",NA,NA
+314,68,"ECU","Ecuador",7,"El Oro",62,"Santa Rosa",314,"Santa Rosa","Parroquia","Parish",NA,NA
+315,68,"ECU","Ecuador",7,"El Oro",62,"Santa Rosa",315,"Torata","Parroquia","Parish",NA,NA
+316,68,"ECU","Ecuador",7,"El Oro",63,"Zaruma",316,"Abañin","Parroquia","Parish",NA,NA
+317,68,"ECU","Ecuador",7,"El Oro",63,"Zaruma",317,"Arcapamba","Parroquia","Parish",NA,NA
+318,68,"ECU","Ecuador",7,"El Oro",63,"Zaruma",318,"Guanazan","Parroquia","Parish",NA,NA
+319,68,"ECU","Ecuador",7,"El Oro",63,"Zaruma",319,"Guizhaguiña","Parroquia","Parish",NA,NA
+320,68,"ECU","Ecuador",7,"El Oro",63,"Zaruma",320,"Huertas","Parroquia","Parish",NA,NA
+321,68,"ECU","Ecuador",7,"El Oro",63,"Zaruma",321,"Malvas","Parroquia","Parish",NA,NA
+322,68,"ECU","Ecuador",7,"El Oro",63,"Zaruma",322,"Muluncay Grande","Parroquia","Parish",NA,NA
+323,68,"ECU","Ecuador",7,"El Oro",63,"Zaruma",323,"Salvias","Parroquia","Parish",NA,NA
+324,68,"ECU","Ecuador",7,"El Oro",63,"Zaruma",324,"Sinsao","Parroquia","Parish",NA,NA
+325,68,"ECU","Ecuador",7,"El Oro",63,"Zaruma",325,"Zaruma","Parroquia","Parish",NA,NA
+326,68,"ECU","Ecuador",8,"Esmeraldas",64,"Atacames",326,"Atacames","Parroquia","Parish",NA,NA
+327,68,"ECU","Ecuador",8,"Esmeraldas",64,"Atacames",327,"La Union","Parroquia","Parish",NA,NA
+328,68,"ECU","Ecuador",8,"Esmeraldas",64,"Atacames",328,"Sua","Parroquia","Parish",NA,NA
+329,68,"ECU","Ecuador",8,"Esmeraldas",64,"Atacames",329,"Tonchigue","Parroquia","Parish",NA,NA
+330,68,"ECU","Ecuador",8,"Esmeraldas",64,"Atacames",330,"Tonsupa","Parroquia","Parish",NA,NA
+331,68,"ECU","Ecuador",8,"Esmeraldas",65,"Eloy Alfaro",331,"Anchayacu","Parroquia","Parish",NA,NA
+332,68,"ECU","Ecuador",8,"Esmeraldas",65,"Eloy Alfaro",332,"Atahualpa","Parroquia","Parish",NA,NA
+333,68,"ECU","Ecuador",8,"Esmeraldas",65,"Eloy Alfaro",333,"Borbon","Parroquia","Parish",NA,NA
+334,68,"ECU","Ecuador",8,"Esmeraldas",65,"Eloy Alfaro",334,"Colon Eloy del Maria","Parroquia","Parish",NA,NA
+335,68,"ECU","Ecuador",8,"Esmeraldas",65,"Eloy Alfaro",335,"La Tola","Parroquia","Parish",NA,NA
+336,68,"ECU","Ecuador",8,"Esmeraldas",65,"Eloy Alfaro",336,"Luis Vargas Torres","Parroquia","Parish",NA,NA
+337,68,"ECU","Ecuador",8,"Esmeraldas",65,"Eloy Alfaro",337,"Maldonado","Parroquia","Parish",NA,NA
+338,68,"ECU","Ecuador",8,"Esmeraldas",65,"Eloy Alfaro",338,"San Francisco de Onzole","Parroquia","Parish",NA,NA
+339,68,"ECU","Ecuador",8,"Esmeraldas",65,"Eloy Alfaro",339,"San Jose de Cayapas","Parroquia","Parish",NA,NA
+340,68,"ECU","Ecuador",8,"Esmeraldas",65,"Eloy Alfaro",340,"Santo Domingo de Onzole","Parroquia","Parish",NA,NA
+341,68,"ECU","Ecuador",8,"Esmeraldas",65,"Eloy Alfaro",341,"Selva Alegre","Parroquia","Parish",NA,NA
+342,68,"ECU","Ecuador",8,"Esmeraldas",65,"Eloy Alfaro",342,"Telembi","Parroquia","Parish",NA,NA
+343,68,"ECU","Ecuador",8,"Esmeraldas",65,"Eloy Alfaro",343,"Timbire","Parroquia","Parish",NA,NA
+344,68,"ECU","Ecuador",8,"Esmeraldas",65,"Eloy Alfaro",344,"Valdez","Parroquia","Parish",NA,NA
+345,68,"ECU","Ecuador",8,"Esmeraldas",66,"Esmeraldas",345,"Camarones","Parroquia","Parish",NA,NA
+346,68,"ECU","Ecuador",8,"Esmeraldas",66,"Esmeraldas",346,"Chinca","Parroquia","Parish",NA,NA
+347,68,"ECU","Ecuador",8,"Esmeraldas",66,"Esmeraldas",347,"Chontaduro","Parroquia","Parish",NA,NA
+348,68,"ECU","Ecuador",8,"Esmeraldas",66,"Esmeraldas",348,"Chumunde","Parroquia","Parish",NA,NA
+349,68,"ECU","Ecuador",8,"Esmeraldas",66,"Esmeraldas",349,"Crnel. Carlos Concha Torres","Parroquia","Parish",NA,NA
+350,68,"ECU","Ecuador",8,"Esmeraldas",66,"Esmeraldas",350,"Esmeraldas","Parroquia","Parish",NA,NA
+351,68,"ECU","Ecuador",8,"Esmeraldas",66,"Esmeraldas",351,"Lagarto","Parroquia","Parish",NA,NA
+352,68,"ECU","Ecuador",8,"Esmeraldas",66,"Esmeraldas",352,"Majua","Parroquia","Parish",NA,NA
+353,68,"ECU","Ecuador",8,"Esmeraldas",66,"Esmeraldas",353,"Montalvo","Parroquia","Parish",NA,NA
+354,68,"ECU","Ecuador",8,"Esmeraldas",66,"Esmeraldas",354,"Rio Verde","Parroquia","Parish",NA,NA
+355,68,"ECU","Ecuador",8,"Esmeraldas",66,"Esmeraldas",355,"Rocafuerte","Parroquia","Parish",NA,NA
+356,68,"ECU","Ecuador",8,"Esmeraldas",66,"Esmeraldas",356,"San Mateo","Parroquia","Parish",NA,NA
+357,68,"ECU","Ecuador",8,"Esmeraldas",66,"Esmeraldas",357,"Tabiazo","Parroquia","Parish",NA,NA
+358,68,"ECU","Ecuador",8,"Esmeraldas",66,"Esmeraldas",358,"Tachina","Parroquia","Parish",NA,NA
+359,68,"ECU","Ecuador",8,"Esmeraldas",66,"Esmeraldas",359,"Vuelta Larga","Parroquia","Parish",NA,NA
+360,68,"ECU","Ecuador",8,"Esmeraldas",67,"Muisne",360,"Bolivar","Parroquia","Parish",NA,NA
+361,68,"ECU","Ecuador",8,"Esmeraldas",67,"Muisne",361,"Daule","Parroquia","Parish",NA,NA
+362,68,"ECU","Ecuador",8,"Esmeraldas",67,"Muisne",362,"Galera","Parroquia","Parish",NA,NA
+363,68,"ECU","Ecuador",8,"Esmeraldas",67,"Muisne",363,"Muisne","Parroquia","Parish",NA,NA
+364,68,"ECU","Ecuador",8,"Esmeraldas",67,"Muisne",364,"Quingue","Parroquia","Parish",NA,NA
+365,68,"ECU","Ecuador",8,"Esmeraldas",67,"Muisne",365,"San Francisco","Parroquia","Parish",NA,NA
+366,68,"ECU","Ecuador",8,"Esmeraldas",67,"Muisne",366,"San Gregorio","Parroquia","Parish",NA,NA
+367,68,"ECU","Ecuador",8,"Esmeraldas",67,"Muisne",367,"San Jose de Chamanga","Parroquia","Parish",NA,NA
+368,68,"ECU","Ecuador",8,"Esmeraldas",68,"Quinindé",368,"Chura","Parroquia","Parish",NA,NA
+369,68,"ECU","Ecuador",8,"Esmeraldas",68,"Quinindé",369,"Cube","Parroquia","Parish",NA,NA
+370,68,"ECU","Ecuador",8,"Esmeraldas",68,"Quinindé",370,"La Union","Parroquia","Parish",NA,NA
+371,68,"ECU","Ecuador",8,"Esmeraldas",68,"Quinindé",371,"Malimpia","Parroquia","Parish",NA,NA
+372,68,"ECU","Ecuador",8,"Esmeraldas",68,"Quinindé",372,"Rosa Zarate","Parroquia","Parish",NA,NA
+373,68,"ECU","Ecuador",8,"Esmeraldas",68,"Quinindé",373,"Viche","Parroquia","Parish",NA,NA
+374,68,"ECU","Ecuador",8,"Esmeraldas",69,"San Lorenzo",374,"5 de Junio","Parroquia","Parish",NA,NA
+375,68,"ECU","Ecuador",8,"Esmeraldas",69,"San Lorenzo",375,"Alto Tambo","Parroquia","Parish",NA,NA
+376,68,"ECU","Ecuador",8,"Esmeraldas",69,"San Lorenzo",376,"Ancon","Parroquia","Parish",NA,NA
+377,68,"ECU","Ecuador",8,"Esmeraldas",69,"San Lorenzo",377,"Calderon","Parroquia","Parish",NA,NA
+378,68,"ECU","Ecuador",8,"Esmeraldas",69,"San Lorenzo",378,"Carondelet","Parroquia","Parish",NA,NA
+379,68,"ECU","Ecuador",8,"Esmeraldas",69,"San Lorenzo",379,"Concepcion","Parroquia","Parish",NA,NA
+380,68,"ECU","Ecuador",8,"Esmeraldas",69,"San Lorenzo",380,"Mataje","Parroquia","Parish",NA,NA
+381,68,"ECU","Ecuador",8,"Esmeraldas",69,"San Lorenzo",381,"San Javier de Cachavi","Parroquia","Parish",NA,NA
+382,68,"ECU","Ecuador",8,"Esmeraldas",69,"San Lorenzo",382,"San Lorenzo","Parroquia","Parish",NA,NA
+383,68,"ECU","Ecuador",8,"Esmeraldas",69,"San Lorenzo",383,"Santa Rita","Parroquia","Parish",NA,NA
+384,68,"ECU","Ecuador",8,"Esmeraldas",69,"San Lorenzo",384,"Tambillo","Parroquia","Parish",NA,NA
+385,68,"ECU","Ecuador",8,"Esmeraldas",69,"San Lorenzo",385,"Tululbi","Parroquia","Parish",NA,NA
+386,68,"ECU","Ecuador",8,"Esmeraldas",69,"San Lorenzo",386,"Urbina","Parroquia","Parish",NA,NA
+387,68,"ECU","Ecuador",9,"Galápagos",70,"Isabela",387,NA,NA,NA,NA,NA
+388,68,"ECU","Ecuador",9,"Galápagos",71,"San Cristóbal",388,NA,NA,NA,NA,NA
+389,68,"ECU","Ecuador",9,"Galápagos",72,"Santa Cruz",389,NA,NA,NA,NA,NA
+390,68,"ECU","Ecuador",10,"Guayas",73,"Alfredo Baquerizo Moreno",390,"Alfredo Baquerizo Moreno","Parroquia","Parish",NA,NA
+391,68,"ECU","Ecuador",10,"Guayas",74,"Balao",391,"Balao","Parroquia","Parish",NA,NA
+392,68,"ECU","Ecuador",10,"Guayas",75,"Balzar",392,"Balzar","Parroquia","Parish",NA,NA
+393,68,"ECU","Ecuador",10,"Guayas",76,"Colimes",393,"Colimes","Parroquia","Parish",NA,NA
+394,68,"ECU","Ecuador",10,"Guayas",77,"Coronel Marcelino Maridueña",394,"Crnel. Marcelino Maridueña","Parroquia","Parish",NA,NA
+395,68,"ECU","Ecuador",10,"Guayas",77,"Coronel Marcelino Maridueña",395,"El Triunfo","Parroquia","Parish",NA,NA
+396,68,"ECU","Ecuador",10,"Guayas",78,"Daule",396,"Daule","Parroquia","Parish",NA,NA
+397,68,"ECU","Ecuador",10,"Guayas",78,"Daule",397,"Juan Bautista Aguirre","Parroquia","Parish",NA,NA
+398,68,"ECU","Ecuador",10,"Guayas",78,"Daule",398,"Laurel","Parroquia","Parish",NA,NA
+399,68,"ECU","Ecuador",10,"Guayas",78,"Daule",399,"Limonal","Parroquia","Parish",NA,NA
+400,68,"ECU","Ecuador",10,"Guayas",78,"Daule",400,"Los Lojas","Parroquia","Parish",NA,NA
+401,68,"ECU","Ecuador",10,"Guayas",79,"Durán",401,"Eloy Alfaro","Parroquia","Parish",NA,NA
+402,68,"ECU","Ecuador",10,"Guayas",80,"El Empalme",402,"El Rosario","Parroquia","Parish",NA,NA
+403,68,"ECU","Ecuador",10,"Guayas",80,"El Empalme",403,"Guayas","Parroquia","Parish",NA,NA
+404,68,"ECU","Ecuador",10,"Guayas",80,"El Empalme",404,"Velasco Ibarra","Parroquia","Parish",NA,NA
+405,68,"ECU","Ecuador",10,"Guayas",81,"General Antonio Elizalde",405,"Gnral. Antonio Elizalde","Parroquia","Parish",NA,NA
+406,68,"ECU","Ecuador",10,"Guayas",82,"Guayaquil",406,"Guayaquil","Parroquia","Parish",NA,NA
+407,68,"ECU","Ecuador",10,"Guayas",82,"Guayaquil",407,"Juan Gomez Rendon","Parroquia","Parish",NA,NA
+408,68,"ECU","Ecuador",10,"Guayas",82,"Guayaquil",408,"Morro","Parroquia","Parish",NA,NA
+409,68,"ECU","Ecuador",10,"Guayas",82,"Guayaquil",409,"Posorja","Parroquia","Parish",NA,NA
+410,68,"ECU","Ecuador",10,"Guayas",82,"Guayaquil",410,"Puna","Parroquia","Parish",NA,NA
+411,68,"ECU","Ecuador",10,"Guayas",82,"Guayaquil",411,"Tenguel","Parroquia","Parish",NA,NA
+412,68,"ECU","Ecuador",10,"Guayas",83,"Lomas de Sargentillo",412,"Isidro Ayora","Parroquia","Parish",NA,NA
+413,68,"ECU","Ecuador",10,"Guayas",83,"Lomas de Sargentillo",413,"Lomas de Sargentillo","Parroquia","Parish",NA,NA
+414,68,"ECU","Ecuador",10,"Guayas",84,"Milagro",414,"Chobo","Parroquia","Parish",NA,NA
+415,68,"ECU","Ecuador",10,"Guayas",84,"Milagro",415,"Mariscal Sucre","Parroquia","Parish",NA,NA
+416,68,"ECU","Ecuador",10,"Guayas",84,"Milagro",416,"Milagro","Parroquia","Parish",NA,NA
+417,68,"ECU","Ecuador",10,"Guayas",84,"Milagro",417,"Roberto Astudillo","Parroquia","Parish",NA,NA
+418,68,"ECU","Ecuador",10,"Guayas",85,"Naranjal",418,"Jesus Maria","Parroquia","Parish",NA,NA
+419,68,"ECU","Ecuador",10,"Guayas",85,"Naranjal",419,"Naranjal","Parroquia","Parish",NA,NA
+420,68,"ECU","Ecuador",10,"Guayas",85,"Naranjal",420,"San Carlos","Parroquia","Parish",NA,NA
+421,68,"ECU","Ecuador",10,"Guayas",85,"Naranjal",421,"Santa Rosa de Flandes","Parroquia","Parish",NA,NA
+422,68,"ECU","Ecuador",10,"Guayas",85,"Naranjal",422,"Taura","Parroquia","Parish",NA,NA
+423,68,"ECU","Ecuador",10,"Guayas",86,"Naranjito",423,"Naranjito","Parroquia","Parish",NA,NA
+424,68,"ECU","Ecuador",10,"Guayas",87,"Nobol",424,"Narcisa de Jesus","Parroquia","Parish",NA,NA
+425,68,"ECU","Ecuador",10,"Guayas",88,"Palestina",425,"Palestina","Parroquia","Parish",NA,NA
+426,68,"ECU","Ecuador",10,"Guayas",89,"Pedro Carbo",426,"Pedro Carbo","Parroquia","Parish",NA,NA
+427,68,"ECU","Ecuador",10,"Guayas",89,"Pedro Carbo",427,"Sabanilla","Parroquia","Parish",NA,NA
+428,68,"ECU","Ecuador",10,"Guayas",89,"Pedro Carbo",428,"Valle de la Virgen","Parroquia","Parish",NA,NA
+429,68,"ECU","Ecuador",10,"Guayas",90,"Playas",429,"General Villamil","Parroquia","Parish",NA,NA
+430,68,"ECU","Ecuador",10,"Guayas",91,"Samborondón",430,"Samborondon","Parroquia","Parish",NA,NA
+431,68,"ECU","Ecuador",10,"Guayas",91,"Samborondón",431,"Tarifa","Parroquia","Parish",NA,NA
+432,68,"ECU","Ecuador",10,"Guayas",92,"San Jacinto de Yaguac",432,"Gral. Pedro J. Montero","Parroquia","Parish",NA,NA
+433,68,"ECU","Ecuador",10,"Guayas",92,"San Jacinto de Yaguac",433,"San Jacinto de Yaguachi","Parroquia","Parish",NA,NA
+434,68,"ECU","Ecuador",10,"Guayas",92,"San Jacinto de Yaguac",434,"Virgen de Fatima","Parroquia","Parish",NA,NA
+435,68,"ECU","Ecuador",10,"Guayas",92,"San Jacinto de Yaguac",435,"Yaguachi Viejo","Parroquia","Parish",NA,NA
+436,68,"ECU","Ecuador",10,"Guayas",93,"Santa Lucia",436,"Santa Lucia","Parroquia","Parish",NA,NA
+437,68,"ECU","Ecuador",10,"Guayas",94,"Simon Bolivar",437,"Crnel. Lorenzo de Garaicoa","Parroquia","Parish",NA,NA
+438,68,"ECU","Ecuador",10,"Guayas",94,"Simon Bolivar",438,"Simon Bolivar","Parroquia","Parish",NA,NA
+439,68,"ECU","Ecuador",10,"Guayas",95,"Urbina Jado",439,"El Salitre","Parroquia","Parish",NA,NA
+440,68,"ECU","Ecuador",10,"Guayas",95,"Urbina Jado",440,"Gral. Vernaza","Parroquia","Parish",NA,NA
+441,68,"ECU","Ecuador",10,"Guayas",95,"Urbina Jado",441,"Junquillal","Parroquia","Parish",NA,NA
+442,68,"ECU","Ecuador",10,"Guayas",95,"Urbina Jado",442,"La Victoria","Parroquia","Parish",NA,NA
+443,68,"ECU","Ecuador",11,"Imbabura",96,"Antonio Ante",443,"Atuntaqui","Parroquia","Parish",NA,NA
+444,68,"ECU","Ecuador",11,"Imbabura",96,"Antonio Ante",444,"Imbaya","Parroquia","Parish",NA,NA
+445,68,"ECU","Ecuador",11,"Imbabura",96,"Antonio Ante",445,"San Fco. de Natabuela","Parroquia","Parish",NA,NA
+446,68,"ECU","Ecuador",11,"Imbabura",96,"Antonio Ante",446,"San Jose de Chaltura","Parroquia","Parish",NA,NA
+447,68,"ECU","Ecuador",11,"Imbabura",96,"Antonio Ante",447,"San Roque","Parroquia","Parish",NA,NA
+448,68,"ECU","Ecuador",11,"Imbabura",97,"Cotacachi",448,"6 de Julio de Cuellaje","Parroquia","Parish",NA,NA
+449,68,"ECU","Ecuador",11,"Imbabura",97,"Cotacachi",449,"Apuela","Parroquia","Parish",NA,NA
+450,68,"ECU","Ecuador",11,"Imbabura",97,"Cotacachi",450,"Cotacachi","Parroquia","Parish",NA,NA
+451,68,"ECU","Ecuador",11,"Imbabura",97,"Cotacachi",451,"Garcia Moreno","Parroquia","Parish",NA,NA
+452,68,"ECU","Ecuador",11,"Imbabura",97,"Cotacachi",452,"Imantag","Parroquia","Parish",NA,NA
+453,68,"ECU","Ecuador",11,"Imbabura",97,"Cotacachi",453,"Peñaherrera","Parroquia","Parish",NA,NA
+454,68,"ECU","Ecuador",11,"Imbabura",97,"Cotacachi",454,"Plaza Gutierrez","Parroquia","Parish",NA,NA
+455,68,"ECU","Ecuador",11,"Imbabura",97,"Cotacachi",455,"Quiroga","Parroquia","Parish",NA,NA
+456,68,"ECU","Ecuador",11,"Imbabura",97,"Cotacachi",456,"Vacas Galindo","Parroquia","Parish",NA,NA
+457,68,"ECU","Ecuador",11,"Imbabura",98,"Ibarra",457,"Ambuqui","Parroquia","Parish",NA,NA
+458,68,"ECU","Ecuador",11,"Imbabura",98,"Ibarra",458,"Angochagua","Parroquia","Parish",NA,NA
+459,68,"ECU","Ecuador",11,"Imbabura",98,"Ibarra",459,"Carolina","Parroquia","Parish",NA,NA
+460,68,"ECU","Ecuador",11,"Imbabura",98,"Ibarra",460,"Ibarra","Parroquia","Parish",NA,NA
+461,68,"ECU","Ecuador",11,"Imbabura",98,"Ibarra",461,"La Esperanza","Parroquia","Parish",NA,NA
+462,68,"ECU","Ecuador",11,"Imbabura",98,"Ibarra",462,"Lita","Parroquia","Parish",NA,NA
+463,68,"ECU","Ecuador",11,"Imbabura",98,"Ibarra",463,"Salinas","Parroquia","Parish",NA,NA
+464,68,"ECU","Ecuador",11,"Imbabura",98,"Ibarra",464,"San Antonio","Parroquia","Parish",NA,NA
+465,68,"ECU","Ecuador",11,"Imbabura",99,"No Delimitado",465,"Las Golondrinas","Parroquia","Parish",NA,NA
+466,68,"ECU","Ecuador",11,"Imbabura",100,"Otavalo",466,"Doctor Miguel Egas","Parroquia","Parish",NA,NA
+467,68,"ECU","Ecuador",11,"Imbabura",100,"Otavalo",467,"Eugenio Espejo","Parroquia","Parish",NA,NA
+468,68,"ECU","Ecuador",11,"Imbabura",100,"Otavalo",468,"Gonzalez Suarez","Parroquia","Parish",NA,NA
+469,68,"ECU","Ecuador",11,"Imbabura",100,"Otavalo",469,"Otavalo","Parroquia","Parish",NA,NA
+470,68,"ECU","Ecuador",11,"Imbabura",100,"Otavalo",470,"Pataqui","Parroquia","Parish",NA,NA
+471,68,"ECU","Ecuador",11,"Imbabura",100,"Otavalo",471,"San Jose de Quichinche","Parroquia","Parish",NA,NA
+472,68,"ECU","Ecuador",11,"Imbabura",100,"Otavalo",472,"San Juan de Iluman","Parroquia","Parish",NA,NA
+473,68,"ECU","Ecuador",11,"Imbabura",100,"Otavalo",473,"San Pablo","Parroquia","Parish",NA,NA
+474,68,"ECU","Ecuador",11,"Imbabura",100,"Otavalo",474,"San Rafael","Parroquia","Parish",NA,NA
+475,68,"ECU","Ecuador",11,"Imbabura",100,"Otavalo",475,"Selva Alegre","Parroquia","Parish",NA,NA
+476,68,"ECU","Ecuador",11,"Imbabura",101,"Pimampiro",476,"Chuga","Parroquia","Parish",NA,NA
+477,68,"ECU","Ecuador",11,"Imbabura",101,"Pimampiro",477,"Mariano Acosta","Parroquia","Parish",NA,NA
+478,68,"ECU","Ecuador",11,"Imbabura",101,"Pimampiro",478,"Pimampiro","Parroquia","Parish",NA,NA
+479,68,"ECU","Ecuador",11,"Imbabura",101,"Pimampiro",479,"San Francisco de Sigsipamba","Parroquia","Parish",NA,NA
+480,68,"ECU","Ecuador",11,"Imbabura",102,"San Miguel de Urcuquí",480,"Cahuasqui","Parroquia","Parish",NA,NA
+481,68,"ECU","Ecuador",11,"Imbabura",102,"San Miguel de Urcuquí",481,"La Merced de Buenos Aires","Parroquia","Parish",NA,NA
+482,68,"ECU","Ecuador",11,"Imbabura",102,"San Miguel de Urcuquí",482,"Pablo Arenas","Parroquia","Parish",NA,NA
+483,68,"ECU","Ecuador",11,"Imbabura",102,"San Miguel de Urcuquí",483,"San Blas","Parroquia","Parish",NA,NA
+484,68,"ECU","Ecuador",11,"Imbabura",102,"San Miguel de Urcuquí",484,"Tumbabiro","Parroquia","Parish",NA,NA
+485,68,"ECU","Ecuador",11,"Imbabura",102,"San Miguel de Urcuquí",485,"Urcuqui","Parroquia","Parish",NA,NA
+486,68,"ECU","Ecuador",12,"Loja",103,"Calvas",486,"Cariamanga","Parroquia","Parish",NA,NA
+487,68,"ECU","Ecuador",12,"Loja",103,"Calvas",487,"Colaisaca","Parroquia","Parish",NA,NA
+488,68,"ECU","Ecuador",12,"Loja",103,"Calvas",488,"El Lucero","Parroquia","Parish",NA,NA
+489,68,"ECU","Ecuador",12,"Loja",103,"Calvas",489,"Sanguillin","Parroquia","Parish",NA,NA
+490,68,"ECU","Ecuador",12,"Loja",103,"Calvas",490,"Utuana","Parroquia","Parish",NA,NA
+491,68,"ECU","Ecuador",12,"Loja",104,"Catamayo",491,"Catamayo","Parroquia","Parish",NA,NA
+492,68,"ECU","Ecuador",12,"Loja",104,"Catamayo",492,"El Tambo","Parroquia","Parish",NA,NA
+493,68,"ECU","Ecuador",12,"Loja",104,"Catamayo",493,"Guayquichuma","Parroquia","Parish",NA,NA
+494,68,"ECU","Ecuador",12,"Loja",104,"Catamayo",494,"San Pedro de la Bendita","Parroquia","Parish",NA,NA
+495,68,"ECU","Ecuador",12,"Loja",104,"Catamayo",495,"Zambi","Parroquia","Parish",NA,NA
+496,68,"ECU","Ecuador",12,"Loja",105,"Celica",496,"Celica","Parroquia","Parish",NA,NA
+497,68,"ECU","Ecuador",12,"Loja",105,"Celica",497,"Cruzpamba","Parroquia","Parish",NA,NA
+498,68,"ECU","Ecuador",12,"Loja",105,"Celica",498,"Pozul","Parroquia","Parish",NA,NA
+499,68,"ECU","Ecuador",12,"Loja",105,"Celica",499,"Sabanilla","Parroquia","Parish",NA,NA
+500,68,"ECU","Ecuador",12,"Loja",105,"Celica",500,"Tnte. Maximiliano Rodriguez","Parroquia","Parish",NA,NA
+501,68,"ECU","Ecuador",12,"Loja",106,"Chaguarpamba",501,"Amarillos","Parroquia","Parish",NA,NA
+502,68,"ECU","Ecuador",12,"Loja",106,"Chaguarpamba",502,"Buenavista","Parroquia","Parish",NA,NA
+503,68,"ECU","Ecuador",12,"Loja",106,"Chaguarpamba",503,"Chaguarpamba","Parroquia","Parish",NA,NA
+504,68,"ECU","Ecuador",12,"Loja",106,"Chaguarpamba",504,"El Rosario","Parroquia","Parish",NA,NA
+505,68,"ECU","Ecuador",12,"Loja",106,"Chaguarpamba",505,"Santa Rufina","Parroquia","Parish",NA,NA
+506,68,"ECU","Ecuador",12,"Loja",107,"Espíndola",506,"27 de Abril","Parroquia","Parish",NA,NA
+507,68,"ECU","Ecuador",12,"Loja",107,"Espíndola",507,"Amaluza","Parroquia","Parish",NA,NA
+508,68,"ECU","Ecuador",12,"Loja",107,"Espíndola",508,"Bellavista","Parroquia","Parish",NA,NA
+509,68,"ECU","Ecuador",12,"Loja",107,"Espíndola",509,"El Airo","Parroquia","Parish",NA,NA
+510,68,"ECU","Ecuador",12,"Loja",107,"Espíndola",510,"El Ingenio","Parroquia","Parish",NA,NA
+511,68,"ECU","Ecuador",12,"Loja",107,"Espíndola",511,"Jimbura","Parroquia","Parish",NA,NA
+512,68,"ECU","Ecuador",12,"Loja",107,"Espíndola",512,"Santa Teresita","Parroquia","Parish",NA,NA
+513,68,"ECU","Ecuador",12,"Loja",108,"Gonzanamá",513,"Changaimina","Parroquia","Parish",NA,NA
+514,68,"ECU","Ecuador",12,"Loja",108,"Gonzanamá",514,"Gonzanama","Parroquia","Parish",NA,NA
+515,68,"ECU","Ecuador",12,"Loja",108,"Gonzanamá",515,"Nambacola","Parroquia","Parish",NA,NA
+516,68,"ECU","Ecuador",12,"Loja",108,"Gonzanamá",516,"Purunuma","Parroquia","Parish",NA,NA
+517,68,"ECU","Ecuador",12,"Loja",108,"Gonzanamá",517,"Sacapalca","Parroquia","Parish",NA,NA
+518,68,"ECU","Ecuador",12,"Loja",109,"Loja",518,"Chantaco","Parroquia","Parish",NA,NA
+519,68,"ECU","Ecuador",12,"Loja",109,"Loja",519,"Chuquiribamba","Parroquia","Parish",NA,NA
+520,68,"ECU","Ecuador",12,"Loja",109,"Loja",520,"El Cisne","Parroquia","Parish",NA,NA
+521,68,"ECU","Ecuador",12,"Loja",109,"Loja",521,"Gualel","Parroquia","Parish",NA,NA
+522,68,"ECU","Ecuador",12,"Loja",109,"Loja",522,"Jimbilla","Parroquia","Parish",NA,NA
+523,68,"ECU","Ecuador",12,"Loja",109,"Loja",523,"Loja","Parroquia","Parish",NA,NA
+524,68,"ECU","Ecuador",12,"Loja",109,"Loja",524,"Malacatos","Parroquia","Parish",NA,NA
+525,68,"ECU","Ecuador",12,"Loja",109,"Loja",525,"Quinara","Parroquia","Parish",NA,NA
+526,68,"ECU","Ecuador",12,"Loja",109,"Loja",526,"San Lucas","Parroquia","Parish",NA,NA
+527,68,"ECU","Ecuador",12,"Loja",109,"Loja",527,"San Pedro de Vilcabamba","Parroquia","Parish",NA,NA
+528,68,"ECU","Ecuador",12,"Loja",109,"Loja",528,"Santiago","Parroquia","Parish",NA,NA
+529,68,"ECU","Ecuador",12,"Loja",109,"Loja",529,"Taquil","Parroquia","Parish",NA,NA
+530,68,"ECU","Ecuador",12,"Loja",109,"Loja",530,"Vilcabamba","Parroquia","Parish",NA,NA
+531,68,"ECU","Ecuador",12,"Loja",109,"Loja",531,"Yangana","Parroquia","Parish",NA,NA
+532,68,"ECU","Ecuador",12,"Loja",110,"Macará",532,"La Victoria","Parroquia","Parish",NA,NA
+533,68,"ECU","Ecuador",12,"Loja",110,"Macará",533,"Larama","Parroquia","Parish",NA,NA
+534,68,"ECU","Ecuador",12,"Loja",110,"Macará",534,"Macara","Parroquia","Parish",NA,NA
+535,68,"ECU","Ecuador",12,"Loja",110,"Macará",535,"Sabiango","Parroquia","Parish",NA,NA
+536,68,"ECU","Ecuador",12,"Loja",111,"Paltas",536,"Cangonama","Parroquia","Parish",NA,NA
+537,68,"ECU","Ecuador",12,"Loja",111,"Paltas",537,"Casanga","Parroquia","Parish",NA,NA
+538,68,"ECU","Ecuador",12,"Loja",111,"Paltas",538,"Catacocha","Parroquia","Parish",NA,NA
+539,68,"ECU","Ecuador",12,"Loja",111,"Paltas",539,"Guachanama","Parroquia","Parish",NA,NA
+540,68,"ECU","Ecuador",12,"Loja",111,"Paltas",540,"La Tingue","Parroquia","Parish",NA,NA
+541,68,"ECU","Ecuador",12,"Loja",111,"Paltas",541,"Lauro Guerrero","Parroquia","Parish",NA,NA
+542,68,"ECU","Ecuador",12,"Loja",111,"Paltas",542,"Olmedo","Parroquia","Parish",NA,NA
+543,68,"ECU","Ecuador",12,"Loja",111,"Paltas",543,"Orianga","Parroquia","Parish",NA,NA
+544,68,"ECU","Ecuador",12,"Loja",111,"Paltas",544,"San Antonio","Parroquia","Parish",NA,NA
+545,68,"ECU","Ecuador",12,"Loja",111,"Paltas",545,"Yamana","Parroquia","Parish",NA,NA
+546,68,"ECU","Ecuador",12,"Loja",112,"Pindal",546,"12 de Diciembre","Parroquia","Parish",NA,NA
+547,68,"ECU","Ecuador",12,"Loja",112,"Pindal",547,"Chaquinal","Parroquia","Parish",NA,NA
+548,68,"ECU","Ecuador",12,"Loja",112,"Pindal",548,"Pindal","Parroquia","Parish",NA,NA
+549,68,"ECU","Ecuador",12,"Loja",113,"Puyango",549,"Alamor","Parroquia","Parish",NA,NA
+550,68,"ECU","Ecuador",12,"Loja",113,"Puyango",550,"Ciano","Parroquia","Parish",NA,NA
+551,68,"ECU","Ecuador",12,"Loja",113,"Puyango",551,"El Arenal","Parroquia","Parish",NA,NA
+552,68,"ECU","Ecuador",12,"Loja",113,"Puyango",552,"El Limo","Parroquia","Parish",NA,NA
+553,68,"ECU","Ecuador",12,"Loja",113,"Puyango",553,"Mercadillo","Parroquia","Parish",NA,NA
+554,68,"ECU","Ecuador",12,"Loja",113,"Puyango",554,"Vicentino","Parroquia","Parish",NA,NA
+555,68,"ECU","Ecuador",12,"Loja",114,"Quilanga",555,"Fundochamba","Parroquia","Parish",NA,NA
+556,68,"ECU","Ecuador",12,"Loja",114,"Quilanga",556,"Quilanga","Parroquia","Parish",NA,NA
+557,68,"ECU","Ecuador",12,"Loja",114,"Quilanga",557,"San Antonio de las Aradas","Parroquia","Parish",NA,NA
+558,68,"ECU","Ecuador",12,"Loja",115,"Saraguro",558,"El Paraiso de Celen","Parroquia","Parish",NA,NA
+559,68,"ECU","Ecuador",12,"Loja",115,"Saraguro",559,"El Tablon","Parroquia","Parish",NA,NA
+560,68,"ECU","Ecuador",12,"Loja",115,"Saraguro",560,"Lluzhapa","Parroquia","Parish",NA,NA
+561,68,"ECU","Ecuador",12,"Loja",115,"Saraguro",561,"Manu","Parroquia","Parish",NA,NA
+562,68,"ECU","Ecuador",12,"Loja",115,"Saraguro",562,"San Antonio de Qumbe","Parroquia","Parish",NA,NA
+563,68,"ECU","Ecuador",12,"Loja",115,"Saraguro",563,"San Pablo de Tenta","Parroquia","Parish",NA,NA
+564,68,"ECU","Ecuador",12,"Loja",115,"Saraguro",564,"San Sebastian de Yuluc","Parroquia","Parish",NA,NA
+565,68,"ECU","Ecuador",12,"Loja",115,"Saraguro",565,"Saraguro","Parroquia","Parish",NA,NA
+566,68,"ECU","Ecuador",12,"Loja",115,"Saraguro",566,"Selva Alegre","Parroquia","Parish",NA,NA
+567,68,"ECU","Ecuador",12,"Loja",115,"Saraguro",567,"Urdaneta","Parroquia","Parish",NA,NA
+568,68,"ECU","Ecuador",12,"Loja",116,"Sozoranga",568,"Nueva Fatima","Parroquia","Parish",NA,NA
+569,68,"ECU","Ecuador",12,"Loja",116,"Sozoranga",569,"Sozoranga","Parroquia","Parish",NA,NA
+570,68,"ECU","Ecuador",12,"Loja",116,"Sozoranga",570,"Tacamoros","Parroquia","Parish",NA,NA
+571,68,"ECU","Ecuador",12,"Loja",117,"Zapotillo",571,"Cazaderos","Parroquia","Parish",NA,NA
+572,68,"ECU","Ecuador",12,"Loja",117,"Zapotillo",572,"Garzareal","Parroquia","Parish",NA,NA
+573,68,"ECU","Ecuador",12,"Loja",117,"Zapotillo",573,"Limones","Parroquia","Parish",NA,NA
+574,68,"ECU","Ecuador",12,"Loja",117,"Zapotillo",574,"Paletillas","Parroquia","Parish",NA,NA
+575,68,"ECU","Ecuador",12,"Loja",117,"Zapotillo",575,"Zapotillo","Parroquia","Parish",NA,NA
+576,68,"ECU","Ecuador",13,"Los Rios",118,"Baba",576,"Baba","Parroquia","Parish",NA,NA
+577,68,"ECU","Ecuador",13,"Los Rios",118,"Baba",577,"Guare","Parroquia","Parish",NA,NA
+578,68,"ECU","Ecuador",13,"Los Rios",118,"Baba",578,"Isla de Bejucal","Parroquia","Parish",NA,NA
+579,68,"ECU","Ecuador",13,"Los Rios",119,"Babahoyo",579,"Babahoyo","Parroquia","Parish",NA,NA
+580,68,"ECU","Ecuador",13,"Los Rios",119,"Babahoyo",580,"Caracol","Parroquia","Parish",NA,NA
+581,68,"ECU","Ecuador",13,"Los Rios",119,"Babahoyo",581,"Febres Cordero","Parroquia","Parish",NA,NA
+582,68,"ECU","Ecuador",13,"Los Rios",119,"Babahoyo",582,"La Union","Parroquia","Parish",NA,NA
+583,68,"ECU","Ecuador",13,"Los Rios",119,"Babahoyo",583,"Pimocha","Parroquia","Parish",NA,NA
+584,68,"ECU","Ecuador",13,"Los Rios",120,"Buena Fé",584,"Patricia Pilar","Parroquia","Parish",NA,NA
+585,68,"ECU","Ecuador",13,"Los Rios",120,"Buena Fé",585,"San Jacinto de Buena Fe","Parroquia","Parish",NA,NA
+586,68,"ECU","Ecuador",13,"Los Rios",121,"Montalvo",586,"Montalvo","Parroquia","Parish",NA,NA
+587,68,"ECU","Ecuador",13,"Los Rios",122,"Palenque",587,"Palenque","Parroquia","Parish",NA,NA
+588,68,"ECU","Ecuador",13,"Los Rios",123,"Pueblo Viejo",588,"Puebloviejo","Parroquia","Parish",NA,NA
+589,68,"ECU","Ecuador",13,"Los Rios",123,"Pueblo Viejo",589,"Puerto Pechiche","Parroquia","Parish",NA,NA
+590,68,"ECU","Ecuador",13,"Los Rios",123,"Pueblo Viejo",590,"San Juan","Parroquia","Parish",NA,NA
+591,68,"ECU","Ecuador",13,"Los Rios",124,"Quevedo",591,"La Esperanza","Parroquia","Parish",NA,NA
+592,68,"ECU","Ecuador",13,"Los Rios",124,"Quevedo",592,"Mocache","Parroquia","Parish",NA,NA
+593,68,"ECU","Ecuador",13,"Los Rios",124,"Quevedo",593,"Quevedo","Parroquia","Parish",NA,NA
+594,68,"ECU","Ecuador",13,"Los Rios",124,"Quevedo",594,"San Carlos","Parroquia","Parish",NA,NA
+595,68,"ECU","Ecuador",13,"Los Rios",124,"Quevedo",595,"Valencia","Parroquia","Parish",NA,NA
+596,68,"ECU","Ecuador",13,"Los Rios",125,"Urdaneta",596,"Catarama","Parroquia","Parish",NA,NA
+597,68,"ECU","Ecuador",13,"Los Rios",125,"Urdaneta",597,"Ricaurte","Parroquia","Parish",NA,NA
+598,68,"ECU","Ecuador",13,"Los Rios",126,"Ventanas",598,"Quinsaloma","Parroquia","Parish",NA,NA
+599,68,"ECU","Ecuador",13,"Los Rios",126,"Ventanas",599,"Ventanas","Parroquia","Parish",NA,NA
+600,68,"ECU","Ecuador",13,"Los Rios",126,"Ventanas",600,"Zapotal","Parroquia","Parish",NA,NA
+601,68,"ECU","Ecuador",13,"Los Rios",127,"Vinces",601,"Antonio Sotomayor","Parroquia","Parish",NA,NA
+602,68,"ECU","Ecuador",13,"Los Rios",127,"Vinces",602,"Vinces","Parroquia","Parish",NA,NA
+603,68,"ECU","Ecuador",14,"Manabi",128,"Bolívar",603,"Calceta","Parroquia","Parish",NA,NA
+604,68,"ECU","Ecuador",14,"Manabi",128,"Bolívar",604,"Membrillo","Parroquia","Parish",NA,NA
+605,68,"ECU","Ecuador",14,"Manabi",128,"Bolívar",605,"Quiroga","Parroquia","Parish",NA,NA
+606,68,"ECU","Ecuador",14,"Manabi",129,"Chone",606,"Boyaca","Parroquia","Parish",NA,NA
+607,68,"ECU","Ecuador",14,"Manabi",129,"Chone",607,"Canuto","Parroquia","Parish",NA,NA
+608,68,"ECU","Ecuador",14,"Manabi",129,"Chone",608,"Chibunga","Parroquia","Parish",NA,NA
+609,68,"ECU","Ecuador",14,"Manabi",129,"Chone",609,"Chone","Parroquia","Parish",NA,NA
+610,68,"ECU","Ecuador",14,"Manabi",129,"Chone",610,"Convento","Parroquia","Parish",NA,NA
+611,68,"ECU","Ecuador",14,"Manabi",129,"Chone",611,"Eloy Alfaro","Parroquia","Parish",NA,NA
+612,68,"ECU","Ecuador",14,"Manabi",129,"Chone",612,"Ricaurte","Parroquia","Parish",NA,NA
+613,68,"ECU","Ecuador",14,"Manabi",129,"Chone",613,"San Antonio","Parroquia","Parish",NA,NA
+614,68,"ECU","Ecuador",14,"Manabi",130,"El Carmen",614,"El Carmen","Parroquia","Parish",NA,NA
+615,68,"ECU","Ecuador",14,"Manabi",130,"El Carmen",615,"San Pedro de Suma","Parroquia","Parish",NA,NA
+616,68,"ECU","Ecuador",14,"Manabi",130,"El Carmen",616,"Wilfrido Loor Moreira","Parroquia","Parish",NA,NA
+617,68,"ECU","Ecuador",14,"Manabi",131,"Flavio Alfaro",617,"Flavio Alfaro","Parroquia","Parish",NA,NA
+618,68,"ECU","Ecuador",14,"Manabi",131,"Flavio Alfaro",618,"San Fco. de Novillo","Parroquia","Parish",NA,NA
+619,68,"ECU","Ecuador",14,"Manabi",131,"Flavio Alfaro",619,"Zapallo","Parroquia","Parish",NA,NA
+620,68,"ECU","Ecuador",14,"Manabi",132,"Jipijapa",620,"America","Parroquia","Parish",NA,NA
+621,68,"ECU","Ecuador",14,"Manabi",132,"Jipijapa",621,"El Anegado","Parroquia","Parish",NA,NA
+622,68,"ECU","Ecuador",14,"Manabi",132,"Jipijapa",622,"Jipijapa","Parroquia","Parish",NA,NA
+623,68,"ECU","Ecuador",14,"Manabi",132,"Jipijapa",623,"Julcuy","Parroquia","Parish",NA,NA
+624,68,"ECU","Ecuador",14,"Manabi",132,"Jipijapa",624,"La Union","Parroquia","Parish",NA,NA
+625,68,"ECU","Ecuador",14,"Manabi",132,"Jipijapa",625,"Membrillal","Parroquia","Parish",NA,NA
+626,68,"ECU","Ecuador",14,"Manabi",132,"Jipijapa",626,"Pedro Pablo Gomez","Parroquia","Parish",NA,NA
+627,68,"ECU","Ecuador",14,"Manabi",132,"Jipijapa",627,"Puerto de Cayo","Parroquia","Parish",NA,NA
+628,68,"ECU","Ecuador",14,"Manabi",133,"Junín",628,"Junin","Parroquia","Parish",NA,NA
+629,68,"ECU","Ecuador",14,"Manabi",134,"Manta",629,"Manta","Parroquia","Parish",NA,NA
+630,68,"ECU","Ecuador",14,"Manabi",134,"Manta",630,"San Lorenzo","Parroquia","Parish",NA,NA
+631,68,"ECU","Ecuador",14,"Manabi",134,"Manta",631,"Santa Marianita","Parroquia","Parish",NA,NA
+632,68,"ECU","Ecuador",14,"Manabi",135,"Montecristi",632,"Jaramijo","Parroquia","Parish",NA,NA
+633,68,"ECU","Ecuador",14,"Manabi",135,"Montecristi",633,"La Pila","Parroquia","Parish",NA,NA
+634,68,"ECU","Ecuador",14,"Manabi",135,"Montecristi",634,"Montecristi","Parroquia","Parish",NA,NA
+635,68,"ECU","Ecuador",14,"Manabi",136,"No Delimitado",635,"Manga del Cura","Parroquia","Parish",NA,NA
+636,68,"ECU","Ecuador",14,"Manabi",137,"Paján",636,"Campozano","Parroquia","Parish",NA,NA
+637,68,"ECU","Ecuador",14,"Manabi",137,"Paján",637,"Cascol","Parroquia","Parish",NA,NA
+638,68,"ECU","Ecuador",14,"Manabi",137,"Paján",638,"Guale","Parroquia","Parish",NA,NA
+639,68,"ECU","Ecuador",14,"Manabi",137,"Paján",639,"Lascano","Parroquia","Parish",NA,NA
+640,68,"ECU","Ecuador",14,"Manabi",137,"Paján",640,"Pajan","Parroquia","Parish",NA,NA
+641,68,"ECU","Ecuador",14,"Manabi",138,"Pedernales",641,"10 de Agosto","Parroquia","Parish",NA,NA
+642,68,"ECU","Ecuador",14,"Manabi",138,"Pedernales",642,"Atahualpa","Parroquia","Parish",NA,NA
+643,68,"ECU","Ecuador",14,"Manabi",138,"Pedernales",643,"Cojimies","Parroquia","Parish",NA,NA
+644,68,"ECU","Ecuador",14,"Manabi",138,"Pedernales",644,"Pedernales","Parroquia","Parish",NA,NA
+645,68,"ECU","Ecuador",14,"Manabi",139,"Pichincha",645,"Barraganete","Parroquia","Parish",NA,NA
+646,68,"ECU","Ecuador",14,"Manabi",139,"Pichincha",646,"Pichincha","Parroquia","Parish",NA,NA
+647,68,"ECU","Ecuador",14,"Manabi",139,"Pichincha",647,"San Sebastian","Parroquia","Parish",NA,NA
+648,68,"ECU","Ecuador",14,"Manabi",140,"Portoviejo",648,"Abdon Calderon","Parroquia","Parish",NA,NA
+649,68,"ECU","Ecuador",14,"Manabi",140,"Portoviejo",649,"Alhajuela","Parroquia","Parish",NA,NA
+650,68,"ECU","Ecuador",14,"Manabi",140,"Portoviejo",650,"Chirijos","Parroquia","Parish",NA,NA
+651,68,"ECU","Ecuador",14,"Manabi",140,"Portoviejo",651,"Portoviejo","Parroquia","Parish",NA,NA
+652,68,"ECU","Ecuador",14,"Manabi",140,"Portoviejo",652,"Pueblo Nuevo","Parroquia","Parish",NA,NA
+653,68,"ECU","Ecuador",14,"Manabi",140,"Portoviejo",653,"Rio Chico","Parroquia","Parish",NA,NA
+654,68,"ECU","Ecuador",14,"Manabi",140,"Portoviejo",654,"San Placido","Parroquia","Parish",NA,NA
+655,68,"ECU","Ecuador",14,"Manabi",141,"Puerto López",655,"Machalilla","Parroquia","Parish",NA,NA
+656,68,"ECU","Ecuador",14,"Manabi",141,"Puerto López",656,"Puerto Lopez","Parroquia","Parish",NA,NA
+657,68,"ECU","Ecuador",14,"Manabi",141,"Puerto López",657,"Salango","Parroquia","Parish",NA,NA
+658,68,"ECU","Ecuador",14,"Manabi",142,"Rocafuerte",658,"Crucita","Parroquia","Parish",NA,NA
+659,68,"ECU","Ecuador",14,"Manabi",142,"Rocafuerte",659,"Rocafuerte","Parroquia","Parish",NA,NA
+660,68,"ECU","Ecuador",14,"Manabi",143,"Santa Ana",660,"Ayacucho","Parroquia","Parish",NA,NA
+661,68,"ECU","Ecuador",14,"Manabi",143,"Santa Ana",661,"Honorato Vasquez","Parroquia","Parish",NA,NA
+662,68,"ECU","Ecuador",14,"Manabi",143,"Santa Ana",662,"La Union","Parroquia","Parish",NA,NA
+663,68,"ECU","Ecuador",14,"Manabi",143,"Santa Ana",663,"Olmedo","Parroquia","Parish",NA,NA
+664,68,"ECU","Ecuador",14,"Manabi",143,"Santa Ana",664,"San Pablo","Parroquia","Parish",NA,NA
+665,68,"ECU","Ecuador",14,"Manabi",143,"Santa Ana",665,"Santa Ana de Vuelta Larga","Parroquia","Parish",NA,NA
+666,68,"ECU","Ecuador",14,"Manabi",144,"Sucre",666,"Bahia de Caraquez","Parroquia","Parish",NA,NA
+667,68,"ECU","Ecuador",14,"Manabi",144,"Sucre",667,"Canoa","Parroquia","Parish",NA,NA
+668,68,"ECU","Ecuador",14,"Manabi",144,"Sucre",668,"Charapoto","Parroquia","Parish",NA,NA
+669,68,"ECU","Ecuador",14,"Manabi",144,"Sucre",669,"Jama","Parroquia","Parish",NA,NA
+670,68,"ECU","Ecuador",14,"Manabi",144,"Sucre",670,"San Isidro","Parroquia","Parish",NA,NA
+671,68,"ECU","Ecuador",14,"Manabi",144,"Sucre",671,"San Vicente","Parroquia","Parish",NA,NA
+672,68,"ECU","Ecuador",14,"Manabi",145,"Tosagua",672,"Bachillero","Parroquia","Parish",NA,NA
+673,68,"ECU","Ecuador",14,"Manabi",145,"Tosagua",673,"La Estancilla","Parroquia","Parish",NA,NA
+674,68,"ECU","Ecuador",14,"Manabi",145,"Tosagua",674,"Tosagua","Parroquia","Parish",NA,NA
+675,68,"ECU","Ecuador",14,"Manabi",146,"Veinticuatro de Mayo",675,"Arq. Sixto Duran Ballen","Parroquia","Parish",NA,NA
+676,68,"ECU","Ecuador",14,"Manabi",146,"Veinticuatro de Mayo",676,"Bellavista","Parroquia","Parish",NA,NA
+677,68,"ECU","Ecuador",14,"Manabi",146,"Veinticuatro de Mayo",677,"Noboa","Parroquia","Parish",NA,NA
+678,68,"ECU","Ecuador",14,"Manabi",146,"Veinticuatro de Mayo",678,"Sucre","Parroquia","Parish",NA,NA
+679,68,"ECU","Ecuador",15,"Morona Santiago",147,"Gualaquiza",679,"Amazonas","Parroquia","Parish",NA,NA
+680,68,"ECU","Ecuador",15,"Morona Santiago",147,"Gualaquiza",680,"Bermejos","Parroquia","Parish",NA,NA
+681,68,"ECU","Ecuador",15,"Morona Santiago",147,"Gualaquiza",681,"Bomboiza","Parroquia","Parish",NA,NA
+682,68,"ECU","Ecuador",15,"Morona Santiago",147,"Gualaquiza",682,"Chiguinda","Parroquia","Parish",NA,NA
+683,68,"ECU","Ecuador",15,"Morona Santiago",147,"Gualaquiza",683,"El Ideal","Parroquia","Parish",NA,NA
+684,68,"ECU","Ecuador",15,"Morona Santiago",147,"Gualaquiza",684,"El Rosario","Parroquia","Parish",NA,NA
+685,68,"ECU","Ecuador",15,"Morona Santiago",147,"Gualaquiza",685,"Gualaquiza","Parroquia","Parish",NA,NA
+686,68,"ECU","Ecuador",15,"Morona Santiago",147,"Gualaquiza",686,"Nueva Tarqui","Parroquia","Parish",NA,NA
+687,68,"ECU","Ecuador",15,"Morona Santiago",147,"Gualaquiza",687,"San Miguel de Cuyes","Parroquia","Parish",NA,NA
+688,68,"ECU","Ecuador",15,"Morona Santiago",148,"Huamboya",688,"Chiguaza","Parroquia","Parish",NA,NA
+689,68,"ECU","Ecuador",15,"Morona Santiago",148,"Huamboya",689,"Huamboya","Parroquia","Parish",NA,NA
+690,68,"ECU","Ecuador",15,"Morona Santiago",148,"Huamboya",690,"Pablo VI","Parroquia","Parish",NA,NA
+691,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona",691,"Alshi","Parroquia","Parish",NA,NA
+692,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona",692,"Cuchaentza","Parroquia","Parish",NA,NA
+693,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona",693,"General Proaño","Parroquia","Parish",NA,NA
+694,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona",694,"Gral. Leonidas Plaza Gutierrez","Parroquia","Parish",NA,NA
+695,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona",695,"Huasaga","Parroquia","Parish",NA,NA
+696,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona",696,"Indanza","Parroquia","Parish",NA,NA
+697,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona",697,"Macas","Parroquia","Parish",NA,NA
+698,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona",698,"Macuma","Parroquia","Parish",NA,NA
+699,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona",699,"Rio Blanco","Parroquia","Parish",NA,NA
+700,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona",700,"San Antonio","Parroquia","Parish",NA,NA
+701,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona",701,"San Isidro","Parroquia","Parish",NA,NA
+702,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona",702,"San Jose de Morona","Parroquia","Parish",NA,NA
+703,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona",703,"San Miguel de Conchay","Parroquia","Parish",NA,NA
+704,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona",704,"Santa Susana de Chiviaza","Parroquia","Parish",NA,NA
+705,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona",705,"Sevilla Don Bosco","Parroquia","Parish",NA,NA
+706,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona",706,"Sinai","Parroquia","Parish",NA,NA
+707,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona",707,"Taisha","Parroquia","Parish",NA,NA
+708,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona",708,"Tuutinentza","Parroquia","Parish",NA,NA
+709,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona",709,"Yunganza","Parroquia","Parish",NA,NA
+710,68,"ECU","Ecuador",15,"Morona Santiago",149,"Morona",710,"Zuña","Parroquia","Parish",NA,NA
+711,68,"ECU","Ecuador",15,"Morona Santiago",150,"Palora",711,"16 de Agosto","Parroquia","Parish",NA,NA
+712,68,"ECU","Ecuador",15,"Morona Santiago",150,"Palora",712,"Arapicos","Parroquia","Parish",NA,NA
+713,68,"ECU","Ecuador",15,"Morona Santiago",150,"Palora",713,"Cumanda","Parroquia","Parish",NA,NA
+714,68,"ECU","Ecuador",15,"Morona Santiago",150,"Palora",714,"Palora","Parroquia","Parish",NA,NA
+715,68,"ECU","Ecuador",15,"Morona Santiago",150,"Palora",715,"Sangay","Parroquia","Parish",NA,NA
+716,68,"ECU","Ecuador",15,"Morona Santiago",151,"San Juan Bosco",716,"Pan de Azucar","Parroquia","Parish",NA,NA
+717,68,"ECU","Ecuador",15,"Morona Santiago",151,"San Juan Bosco",717,"San Carlos de Limon","Parroquia","Parish",NA,NA
+718,68,"ECU","Ecuador",15,"Morona Santiago",151,"San Juan Bosco",718,"San Jacinto de Wakambeis","Parroquia","Parish",NA,NA
+719,68,"ECU","Ecuador",15,"Morona Santiago",151,"San Juan Bosco",719,"San Juan Bosco","Parroquia","Parish",NA,NA
+720,68,"ECU","Ecuador",15,"Morona Santiago",151,"San Juan Bosco",720,"Santiago de Pananza","Parroquia","Parish",NA,NA
+721,68,"ECU","Ecuador",15,"Morona Santiago",152,"Santiago",721,"Chupianza","Parroquia","Parish",NA,NA
+722,68,"ECU","Ecuador",15,"Morona Santiago",152,"Santiago",722,"Copal","Parroquia","Parish",NA,NA
+723,68,"ECU","Ecuador",15,"Morona Santiago",152,"Santiago",723,"Patuca","Parroquia","Parish",NA,NA
+724,68,"ECU","Ecuador",15,"Morona Santiago",152,"Santiago",724,"San Fco. de Chinimbimi","Parroquia","Parish",NA,NA
+725,68,"ECU","Ecuador",15,"Morona Santiago",152,"Santiago",725,"San Luis de El Acho","Parroquia","Parish",NA,NA
+726,68,"ECU","Ecuador",15,"Morona Santiago",152,"Santiago",726,"Santiago de Mendez","Parroquia","Parish",NA,NA
+727,68,"ECU","Ecuador",15,"Morona Santiago",152,"Santiago",727,"Santiago","Parroquia","Parish",NA,NA
+728,68,"ECU","Ecuador",15,"Morona Santiago",152,"Santiago",728,"Tayuza","Parroquia","Parish",NA,NA
+729,68,"ECU","Ecuador",15,"Morona Santiago",153,"Sucúa",729,"Asuncion","Parroquia","Parish",NA,NA
+730,68,"ECU","Ecuador",15,"Morona Santiago",153,"Sucúa",730,"Huambi","Parroquia","Parish",NA,NA
+731,68,"ECU","Ecuador",15,"Morona Santiago",153,"Sucúa",731,"Logroño","Parroquia","Parish",NA,NA
+732,68,"ECU","Ecuador",15,"Morona Santiago",153,"Sucúa",732,"Santa Marianita de Jesus","Parroquia","Parish",NA,NA
+733,68,"ECU","Ecuador",15,"Morona Santiago",153,"Sucúa",733,"Shimpis","Parroquia","Parish",NA,NA
+734,68,"ECU","Ecuador",15,"Morona Santiago",153,"Sucúa",734,"Sucua","Parroquia","Parish",NA,NA
+735,68,"ECU","Ecuador",15,"Morona Santiago",153,"Sucúa",735,"Yaupi","Parroquia","Parish",NA,NA
+736,68,"ECU","Ecuador",16,"Napo",154,"Archidona",736,"Archidona","Parroquia","Parish",NA,NA
+737,68,"ECU","Ecuador",16,"Napo",154,"Archidona",737,"Cotundo","Parroquia","Parish",NA,NA
+738,68,"ECU","Ecuador",16,"Napo",154,"Archidona",738,"San Pablo de Ushpayacu","Parroquia","Parish",NA,NA
+739,68,"ECU","Ecuador",16,"Napo",155,"El Chaco",739,"El Chaco","Parroquia","Parish",NA,NA
+740,68,"ECU","Ecuador",16,"Napo",155,"El Chaco",740,"Gonzalo Diaz de Pineda","Parroquia","Parish",NA,NA
+741,68,"ECU","Ecuador",16,"Napo",155,"El Chaco",741,"Linares","Parroquia","Parish",NA,NA
+742,68,"ECU","Ecuador",16,"Napo",155,"El Chaco",742,"Oyacachi","Parroquia","Parish",NA,NA
+743,68,"ECU","Ecuador",16,"Napo",155,"El Chaco",743,"Santa Rosa","Parroquia","Parish",NA,NA
+744,68,"ECU","Ecuador",16,"Napo",155,"El Chaco",744,"Sardinas","Parroquia","Parish",NA,NA
+745,68,"ECU","Ecuador",16,"Napo",156,"Quijos",745,"Baeza","Parroquia","Parish",NA,NA
+746,68,"ECU","Ecuador",16,"Napo",156,"Quijos",746,"Cosanga","Parroquia","Parish",NA,NA
+747,68,"ECU","Ecuador",16,"Napo",156,"Quijos",747,"Cuyuja","Parroquia","Parish",NA,NA
+748,68,"ECU","Ecuador",16,"Napo",156,"Quijos",748,"Papallacta","Parroquia","Parish",NA,NA
+749,68,"ECU","Ecuador",16,"Napo",156,"Quijos",749,"San Francisco de Borja","Parroquia","Parish",NA,NA
+750,68,"ECU","Ecuador",16,"Napo",156,"Quijos",750,"Sumaco","Parroquia","Parish",NA,NA
+751,68,"ECU","Ecuador",16,"Napo",157,"Tena",751,"Ahuano","Parroquia","Parish",NA,NA
+752,68,"ECU","Ecuador",16,"Napo",157,"Tena",752,"Carlos Julio Arosemena Tola","Parroquia","Parish",NA,NA
+753,68,"ECU","Ecuador",16,"Napo",157,"Tena",753,"Chontapunta","Parroquia","Parish",NA,NA
+754,68,"ECU","Ecuador",16,"Napo",157,"Tena",754,"Pano","Parroquia","Parish",NA,NA
+755,68,"ECU","Ecuador",16,"Napo",157,"Tena",755,"Puerto Misahualli","Parroquia","Parish",NA,NA
+756,68,"ECU","Ecuador",16,"Napo",157,"Tena",756,"Puerto Napo","Parroquia","Parish",NA,NA
+757,68,"ECU","Ecuador",16,"Napo",157,"Tena",757,"Talag","Parroquia","Parish",NA,NA
+758,68,"ECU","Ecuador",16,"Napo",157,"Tena",758,"Tena","Parroquia","Parish",NA,NA
+759,68,"ECU","Ecuador",17,"Orellana",158,"Aguarico",759,"Cap. Augusto Rivadeneyra","Parroquia","Parish",NA,NA
+760,68,"ECU","Ecuador",17,"Orellana",158,"Aguarico",760,"Cononaco","Parroquia","Parish",NA,NA
+761,68,"ECU","Ecuador",17,"Orellana",158,"Aguarico",761,"Nuevo Rocafuerte","Parroquia","Parish",NA,NA
+762,68,"ECU","Ecuador",17,"Orellana",158,"Aguarico",762,"Santa Maria de Huiririma","Parroquia","Parish",NA,NA
+763,68,"ECU","Ecuador",17,"Orellana",158,"Aguarico",763,"Tiputini","Parroquia","Parish",NA,NA
+764,68,"ECU","Ecuador",17,"Orellana",158,"Aguarico",764,"Yasuni","Parroquia","Parish",NA,NA
+765,68,"ECU","Ecuador",17,"Orellana",159,"Joya de los Sachas",765,"Enokanqui","Parroquia","Parish",NA,NA
+766,68,"ECU","Ecuador",17,"Orellana",159,"Joya de los Sachas",766,"La Joya de Los Sachas","Parroquia","Parish",NA,NA
+767,68,"ECU","Ecuador",17,"Orellana",159,"Joya de los Sachas",767,"Pompeya","Parroquia","Parish",NA,NA
+768,68,"ECU","Ecuador",17,"Orellana",159,"Joya de los Sachas",768,"San Carlos","Parroquia","Parish",NA,NA
+769,68,"ECU","Ecuador",17,"Orellana",159,"Joya de los Sachas",769,"San Sebastian del Coca","Parroquia","Parish",NA,NA
+770,68,"ECU","Ecuador",17,"Orellana",160,"Loreto",770,"Avila","Parroquia","Parish",NA,NA
+771,68,"ECU","Ecuador",17,"Orellana",160,"Loreto",771,"Loreto","Parroquia","Parish",NA,NA
+772,68,"ECU","Ecuador",17,"Orellana",160,"Loreto",772,"Puerto Murialdo","Parroquia","Parish",NA,NA
+773,68,"ECU","Ecuador",17,"Orellana",160,"Loreto",773,"San Jose de Dahuano","Parroquia","Parish",NA,NA
+774,68,"ECU","Ecuador",17,"Orellana",160,"Loreto",774,"San Jose de Payamino","Parroquia","Parish",NA,NA
+775,68,"ECU","Ecuador",17,"Orellana",160,"Loreto",775,"San Vicente de Huaticocha","Parroquia","Parish",NA,NA
+776,68,"ECU","Ecuador",17,"Orellana",161,"Orellana",776,"Dayuma","Parroquia","Parish",NA,NA
+777,68,"ECU","Ecuador",17,"Orellana",161,"Orellana",777,"Puerto Fco. de Orellana","Parroquia","Parish",NA,NA
+778,68,"ECU","Ecuador",17,"Orellana",161,"Orellana",778,"Taracoa","Parroquia","Parish",NA,NA
+779,68,"ECU","Ecuador",18,"Pastaza",162,"Mera",779,"Madre Tierra","Parroquia","Parish",NA,NA
+780,68,"ECU","Ecuador",18,"Pastaza",162,"Mera",780,"Mera","Parroquia","Parish",NA,NA
+781,68,"ECU","Ecuador",18,"Pastaza",162,"Mera",781,"Shell","Parroquia","Parish",NA,NA
+782,68,"ECU","Ecuador",18,"Pastaza",163,"Pastaza",782,"Arajuno","Parroquia","Parish",NA,NA
+783,68,"ECU","Ecuador",18,"Pastaza",163,"Pastaza",783,"Canelos","Parroquia","Parish",NA,NA
+784,68,"ECU","Ecuador",18,"Pastaza",163,"Pastaza",784,"Curaray","Parroquia","Parish",NA,NA
+785,68,"ECU","Ecuador",18,"Pastaza",163,"Pastaza",785,"Diez de Agosto","Parroquia","Parish",NA,NA
+786,68,"ECU","Ecuador",18,"Pastaza",163,"Pastaza",786,"El Triunfo","Parroquia","Parish",NA,NA
+787,68,"ECU","Ecuador",18,"Pastaza",163,"Pastaza",787,"Fatima","Parroquia","Parish",NA,NA
+788,68,"ECU","Ecuador",18,"Pastaza",163,"Pastaza",788,"Montalvo","Parroquia","Parish",NA,NA
+789,68,"ECU","Ecuador",18,"Pastaza",163,"Pastaza",789,"Pomona","Parroquia","Parish",NA,NA
+790,68,"ECU","Ecuador",18,"Pastaza",163,"Pastaza",790,"Puyo","Parroquia","Parish",NA,NA
+791,68,"ECU","Ecuador",18,"Pastaza",163,"Pastaza",791,"Rio Corrientes","Parroquia","Parish",NA,NA
+792,68,"ECU","Ecuador",18,"Pastaza",163,"Pastaza",792,"Rio Tigre","Parroquia","Parish",NA,NA
+793,68,"ECU","Ecuador",18,"Pastaza",163,"Pastaza",793,"Sarayacu","Parroquia","Parish",NA,NA
+794,68,"ECU","Ecuador",18,"Pastaza",163,"Pastaza",794,"Simon Bolivar","Parroquia","Parish",NA,NA
+795,68,"ECU","Ecuador",18,"Pastaza",163,"Pastaza",795,"Tarqui","Parroquia","Parish",NA,NA
+796,68,"ECU","Ecuador",18,"Pastaza",163,"Pastaza",796,"Teniente Hugo Ortiz","Parroquia","Parish",NA,NA
+797,68,"ECU","Ecuador",18,"Pastaza",163,"Pastaza",797,"Veracruz","Parroquia","Parish",NA,NA
+798,68,"ECU","Ecuador",18,"Pastaza",164,"Santa Clara",798,"Santa Clara","Parroquia","Parish",NA,NA
+799,68,"ECU","Ecuador",19,"Pichincha",165,"Cayambe",799,"Ascazubi","Parroquia","Parish",NA,NA
+800,68,"ECU","Ecuador",19,"Pichincha",165,"Cayambe",800,"Cangahua","Parroquia","Parish",NA,NA
+801,68,"ECU","Ecuador",19,"Pichincha",165,"Cayambe",801,"Cayambe","Parroquia","Parish",NA,NA
+802,68,"ECU","Ecuador",19,"Pichincha",165,"Cayambe",802,"Olmedo","Parroquia","Parish",NA,NA
+803,68,"ECU","Ecuador",19,"Pichincha",165,"Cayambe",803,"Oton","Parroquia","Parish",NA,NA
+804,68,"ECU","Ecuador",19,"Pichincha",165,"Cayambe",804,"Santa Rosa de Cuzubamba","Parroquia","Parish",NA,NA
+805,68,"ECU","Ecuador",19,"Pichincha",166,"Mejía",805,"Aloag","Parroquia","Parish",NA,NA
+806,68,"ECU","Ecuador",19,"Pichincha",166,"Mejía",806,"Aloasi","Parroquia","Parish",NA,NA
+807,68,"ECU","Ecuador",19,"Pichincha",166,"Mejía",807,"Cutuglahua","Parroquia","Parish",NA,NA
+808,68,"ECU","Ecuador",19,"Pichincha",166,"Mejía",808,"El Chaupi","Parroquia","Parish",NA,NA
+809,68,"ECU","Ecuador",19,"Pichincha",166,"Mejía",809,"Machachi","Parroquia","Parish",NA,NA
+810,68,"ECU","Ecuador",19,"Pichincha",166,"Mejía",810,"Manual Cornejo Astorga","Parroquia","Parish",NA,NA
+811,68,"ECU","Ecuador",19,"Pichincha",166,"Mejía",811,"Tambillo","Parroquia","Parish",NA,NA
+812,68,"ECU","Ecuador",19,"Pichincha",166,"Mejía",812,"Uyumbicho","Parroquia","Parish",NA,NA
+813,68,"ECU","Ecuador",19,"Pichincha",167,"Pedro Moncayo",813,"La Esperanza","Parroquia","Parish",NA,NA
+814,68,"ECU","Ecuador",19,"Pichincha",167,"Pedro Moncayo",814,"Malchingui","Parroquia","Parish",NA,NA
+815,68,"ECU","Ecuador",19,"Pichincha",167,"Pedro Moncayo",815,"Tabacundo","Parroquia","Parish",NA,NA
+816,68,"ECU","Ecuador",19,"Pichincha",167,"Pedro Moncayo",816,"Tocachi","Parroquia","Parish",NA,NA
+817,68,"ECU","Ecuador",19,"Pichincha",167,"Pedro Moncayo",817,"Tupigachi","Parroquia","Parish",NA,NA
+818,68,"ECU","Ecuador",19,"Pichincha",168,"Pedro Vicente Maldonado",818,"Pedro Vicente Maldonado","Parroquia","Parish",NA,NA
+819,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",819,"Alangasi","Parroquia","Parish",NA,NA
+820,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",820,"Amaguaña","Parroquia","Parish",NA,NA
+821,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",821,"Atahualpa","Parroquia","Parish",NA,NA
+822,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",822,"Calacali","Parroquia","Parish",NA,NA
+823,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",823,"Calderon","Parroquia","Parish",NA,NA
+824,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",824,"Chavezpamba","Parroquia","Parish",NA,NA
+825,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",825,"Checa","Parroquia","Parish",NA,NA
+826,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",826,"Conocoto","Parroquia","Parish",NA,NA
+827,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",827,"Cumbaya","Parroquia","Parish",NA,NA
+828,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",828,"El Quinche","Parroquia","Parish",NA,NA
+829,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",829,"Gualea","Parroquia","Parish",NA,NA
+830,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",830,"Guangopolo","Parroquia","Parish",NA,NA
+831,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",831,"Guayllabamba","Parroquia","Parish",NA,NA
+832,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",832,"La Merced","Parroquia","Parish",NA,NA
+833,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",833,"Llano Chico","Parroquia","Parish",NA,NA
+834,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",834,"Lloa","Parroquia","Parish",NA,NA
+835,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",835,"Nanegalito","Parroquia","Parish",NA,NA
+836,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",836,"Nanegal","Parroquia","Parish",NA,NA
+837,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",837,"Nayon","Parroquia","Parish",NA,NA
+838,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",838,"Nono","Parroquia","Parish",NA,NA
+839,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",839,"Pacto","Parroquia","Parish",NA,NA
+840,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",840,"Perucho","Parroquia","Parish",NA,NA
+841,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",841,"Pifo","Parroquia","Parish",NA,NA
+842,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",842,"Pintag","Parroquia","Parish",NA,NA
+843,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",843,"Pomasqui","Parroquia","Parish",NA,NA
+844,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",844,"Puellaro","Parroquia","Parish",NA,NA
+845,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",845,"Puembo","Parroquia","Parish",NA,NA
+846,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",846,"Quito","Parroquia","Parish",NA,NA
+847,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",847,"San Antonio","Parroquia","Parish",NA,NA
+848,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",848,"San Jose de Minas","Parroquia","Parish",NA,NA
+849,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",849,"Tababela","Parroquia","Parish",NA,NA
+850,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",850,"Tumbaco","Parroquia","Parish",NA,NA
+851,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",851,"Yaruqui","Parroquia","Parish",NA,NA
+852,68,"ECU","Ecuador",19,"Pichincha",169,"Quito",852,"Zambiza","Parroquia","Parish",NA,NA
+853,68,"ECU","Ecuador",19,"Pichincha",170,"Rumiñahui",853,"Cotogchoa","Parroquia","Parish",NA,NA
+854,68,"ECU","Ecuador",19,"Pichincha",170,"Rumiñahui",854,"Rumipamba","Parroquia","Parish",NA,NA
+855,68,"ECU","Ecuador",19,"Pichincha",170,"Rumiñahui",855,"Sangolqui","Parroquia","Parish",NA,NA
+856,68,"ECU","Ecuador",19,"Pichincha",171,"San Miguel de los Bancos",856,"Mindo","Parroquia","Parish",NA,NA
+857,68,"ECU","Ecuador",19,"Pichincha",171,"San Miguel de los Bancos",857,"Puerto Quito","Parroquia","Parish",NA,NA
+858,68,"ECU","Ecuador",19,"Pichincha",171,"San Miguel de los Bancos",858,"San Miguel de Los Bancos","Parroquia","Parish",NA,NA
+859,68,"ECU","Ecuador",20,"Santa Elena",172,"La Libertad",859,"La Libertad","Parroquia","Parish",NA,NA
+860,68,"ECU","Ecuador",20,"Santa Elena",173,"Salinas",860,"Anconcito","Parroquia","Parish",NA,NA
+861,68,"ECU","Ecuador",20,"Santa Elena",173,"Salinas",861,"Jose Luis Tamayo","Parroquia","Parish",NA,NA
+862,68,"ECU","Ecuador",20,"Santa Elena",173,"Salinas",862,"Salinas","Parroquia","Parish",NA,NA
+863,68,"ECU","Ecuador",20,"Santa Elena",174,"Santa Elena",863,"Atahualpa","Parroquia","Parish",NA,NA
+864,68,"ECU","Ecuador",20,"Santa Elena",174,"Santa Elena",864,"Chanduy","Parroquia","Parish",NA,NA
+865,68,"ECU","Ecuador",20,"Santa Elena",174,"Santa Elena",865,"Colonche","Parroquia","Parish",NA,NA
+866,68,"ECU","Ecuador",20,"Santa Elena",174,"Santa Elena",866,"Manglaralto","Parroquia","Parish",NA,NA
+867,68,"ECU","Ecuador",20,"Santa Elena",174,"Santa Elena",867,"Santa Elena","Parroquia","Parish",NA,NA
+868,68,"ECU","Ecuador",20,"Santa Elena",174,"Santa Elena",868,"Simon Bolivar","Parroquia","Parish",NA,NA
+869,68,"ECU","Ecuador",21,"Santo Domingo de los Tsáchilas",175,"No Delimitado",869,"La Concordia","Parroquia","Parish",NA,NA
+870,68,"ECU","Ecuador",21,"Santo Domingo de los Tsáchilas",176,"San Miguel de los Bancos",870,"Valle Hermoso","Parroquia","Parish",NA,NA
+871,68,"ECU","Ecuador",21,"Santo Domingo de los Tsáchilas",177,"Santo Domingo de los Colorados",871,"Alluriquin","Parroquia","Parish",NA,NA
+872,68,"ECU","Ecuador",21,"Santo Domingo de los Tsáchilas",177,"Santo Domingo de los Colorados",872,"Luz de America","Parroquia","Parish",NA,NA
+873,68,"ECU","Ecuador",21,"Santo Domingo de los Tsáchilas",177,"Santo Domingo de los Colorados",873,"Puerto Limon","Parroquia","Parish",NA,NA
+874,68,"ECU","Ecuador",21,"Santo Domingo de los Tsáchilas",177,"Santo Domingo de los Colorados",874,"San Jacinto del Bua","Parroquia","Parish",NA,NA
+875,68,"ECU","Ecuador",21,"Santo Domingo de los Tsáchilas",177,"Santo Domingo de los Colorados",875,"Santo Domingo","Parroquia","Parish",NA,NA
+876,68,"ECU","Ecuador",22,"Sucumbios",178,"Cascales",876,"El Dorado de Cascales","Parroquia","Parish",NA,NA
+877,68,"ECU","Ecuador",22,"Sucumbios",178,"Cascales",877,"Santa Rosa de Sucumbios","Parroquia","Parish",NA,NA
+878,68,"ECU","Ecuador",22,"Sucumbios",178,"Cascales",878,"Sevilla","Parroquia","Parish",NA,NA
+879,68,"ECU","Ecuador",22,"Sucumbios",179,"Cuyabeno",879,"Aguas Negras","Parroquia","Parish",NA,NA
+880,68,"ECU","Ecuador",22,"Sucumbios",179,"Cuyabeno",880,"Cuyabeno","Parroquia","Parish",NA,NA
+881,68,"ECU","Ecuador",22,"Sucumbios",179,"Cuyabeno",881,"Tarapoa","Parroquia","Parish",NA,NA
+882,68,"ECU","Ecuador",22,"Sucumbios",180,"Gonzalo Pizarro",882,"El Reventador","Parroquia","Parish",NA,NA
+883,68,"ECU","Ecuador",22,"Sucumbios",180,"Gonzalo Pizarro",883,"Gonzalo Pizarro","Parroquia","Parish",NA,NA
+884,68,"ECU","Ecuador",22,"Sucumbios",180,"Gonzalo Pizarro",884,"Lumbaqui","Parroquia","Parish",NA,NA
+885,68,"ECU","Ecuador",22,"Sucumbios",180,"Gonzalo Pizarro",885,"Puerto Libre","Parroquia","Parish",NA,NA
+886,68,"ECU","Ecuador",22,"Sucumbios",181,"Lago Agrio",886,"Dureno","Parroquia","Parish",NA,NA
+887,68,"ECU","Ecuador",22,"Sucumbios",181,"Lago Agrio",887,"El Eno","Parroquia","Parish",NA,NA
+888,68,"ECU","Ecuador",22,"Sucumbios",181,"Lago Agrio",888,"General Farfan","Parroquia","Parish",NA,NA
+889,68,"ECU","Ecuador",22,"Sucumbios",181,"Lago Agrio",889,"Jambeli","Parroquia","Parish",NA,NA
+890,68,"ECU","Ecuador",22,"Sucumbios",181,"Lago Agrio",890,"Nueva Loja","Parroquia","Parish",NA,NA
+891,68,"ECU","Ecuador",22,"Sucumbios",181,"Lago Agrio",891,"Pacayacu","Parroquia","Parish",NA,NA
+892,68,"ECU","Ecuador",22,"Sucumbios",181,"Lago Agrio",892,"Santa Cecilia","Parroquia","Parish",NA,NA
+893,68,"ECU","Ecuador",22,"Sucumbios",182,"Putumayo",893,"Palma Roja","Parroquia","Parish",NA,NA
+894,68,"ECU","Ecuador",22,"Sucumbios",182,"Putumayo",894,"Puerto Bolivar","Parroquia","Parish",NA,NA
+895,68,"ECU","Ecuador",22,"Sucumbios",182,"Putumayo",895,"Puerto El Carmen del Putumayo","Parroquia","Parish",NA,NA
+896,68,"ECU","Ecuador",22,"Sucumbios",182,"Putumayo",896,"Puerto Rodriguez","Parroquia","Parish",NA,NA
+897,68,"ECU","Ecuador",22,"Sucumbios",182,"Putumayo",897,"Santa Elena","Parroquia","Parish",NA,NA
+898,68,"ECU","Ecuador",22,"Sucumbios",183,"Shushufindi",898,"Limoncocha","Parroquia","Parish",NA,NA
+899,68,"ECU","Ecuador",22,"Sucumbios",183,"Shushufindi",899,"Pañacocha","Parroquia","Parish",NA,NA
+900,68,"ECU","Ecuador",22,"Sucumbios",183,"Shushufindi",900,"San Pedro de Los Cafanes","Parroquia","Parish",NA,NA
+901,68,"ECU","Ecuador",22,"Sucumbios",183,"Shushufindi",901,"San Roque","Parroquia","Parish",NA,NA
+902,68,"ECU","Ecuador",22,"Sucumbios",183,"Shushufindi",902,"Shushufindi","Parroquia","Parish",NA,NA
+903,68,"ECU","Ecuador",22,"Sucumbios",183,"Shushufindi",903,"Siete de Julio","Parroquia","Parish",NA,NA
+904,68,"ECU","Ecuador",22,"Sucumbios",184,"Sucumbíos",904,"El Playon de San Fco.","Parroquia","Parish",NA,NA
+905,68,"ECU","Ecuador",22,"Sucumbios",184,"Sucumbíos",905,"La Bonita","Parroquia","Parish",NA,NA
+906,68,"ECU","Ecuador",22,"Sucumbios",184,"Sucumbíos",906,"La Sofia","Parroquia","Parish",NA,NA
+907,68,"ECU","Ecuador",22,"Sucumbios",184,"Sucumbíos",907,"Rosa Florida","Parroquia","Parish",NA,NA
+908,68,"ECU","Ecuador",22,"Sucumbios",184,"Sucumbíos",908,"Santa Barbara","Parroquia","Parish",NA,NA
+909,68,"ECU","Ecuador",23,"Tungurahua",185,"Ambato",909,"Ambatillo","Parroquia","Parish",NA,NA
+910,68,"ECU","Ecuador",23,"Tungurahua",185,"Ambato",910,"Ambato","Parroquia","Parish",NA,NA
+911,68,"ECU","Ecuador",23,"Tungurahua",185,"Ambato",911,"Atahualpa","Parroquia","Parish",NA,NA
+912,68,"ECU","Ecuador",23,"Tungurahua",185,"Ambato",912,"Augusto N. Martinez","Parroquia","Parish",NA,NA
+913,68,"ECU","Ecuador",23,"Tungurahua",185,"Ambato",913,"Constatino Fernandez","Parroquia","Parish",NA,NA
+914,68,"ECU","Ecuador",23,"Tungurahua",185,"Ambato",914,"Cunchibamba","Parroquia","Parish",NA,NA
+915,68,"ECU","Ecuador",23,"Tungurahua",185,"Ambato",915,"Huachi Grande","Parroquia","Parish",NA,NA
+916,68,"ECU","Ecuador",23,"Tungurahua",185,"Ambato",916,"Izamba","Parroquia","Parish",NA,NA
+917,68,"ECU","Ecuador",23,"Tungurahua",185,"Ambato",917,"Juan Benigno Vela","Parroquia","Parish",NA,NA
+918,68,"ECU","Ecuador",23,"Tungurahua",185,"Ambato",918,"Montalvo","Parroquia","Parish",NA,NA
+919,68,"ECU","Ecuador",23,"Tungurahua",185,"Ambato",919,"Pasa","Parroquia","Parish",NA,NA
+920,68,"ECU","Ecuador",23,"Tungurahua",185,"Ambato",920,"Picaigua","Parroquia","Parish",NA,NA
+921,68,"ECU","Ecuador",23,"Tungurahua",185,"Ambato",921,"Pilaguin","Parroquia","Parish",NA,NA
+922,68,"ECU","Ecuador",23,"Tungurahua",185,"Ambato",922,"Quisapincha","Parroquia","Parish",NA,NA
+923,68,"ECU","Ecuador",23,"Tungurahua",185,"Ambato",923,"San Bartolome de Pinllo","Parroquia","Parish",NA,NA
+924,68,"ECU","Ecuador",23,"Tungurahua",185,"Ambato",924,"San Fernando","Parroquia","Parish",NA,NA
+925,68,"ECU","Ecuador",23,"Tungurahua",185,"Ambato",925,"Santa Rosa","Parroquia","Parish",NA,NA
+926,68,"ECU","Ecuador",23,"Tungurahua",185,"Ambato",926,"Totoras","Parroquia","Parish",NA,NA
+927,68,"ECU","Ecuador",23,"Tungurahua",185,"Ambato",927,"Unamuncho","Parroquia","Parish",NA,NA
+928,68,"ECU","Ecuador",23,"Tungurahua",186,"Baños",928,"Baños de Agua Santa","Parroquia","Parish",NA,NA
+929,68,"ECU","Ecuador",23,"Tungurahua",186,"Baños",929,"Lligua","Parroquia","Parish",NA,NA
+930,68,"ECU","Ecuador",23,"Tungurahua",186,"Baños",930,"Rio Negro","Parroquia","Parish",NA,NA
+931,68,"ECU","Ecuador",23,"Tungurahua",186,"Baños",931,"Rio Verde","Parroquia","Parish",NA,NA
+932,68,"ECU","Ecuador",23,"Tungurahua",186,"Baños",932,"Ulba","Parroquia","Parish",NA,NA
+933,68,"ECU","Ecuador",23,"Tungurahua",187,"Cevallos",933,"Cevallos","Parroquia","Parish",NA,NA
+934,68,"ECU","Ecuador",23,"Tungurahua",188,"Mocha",934,"Mocha","Parroquia","Parish",NA,NA
+935,68,"ECU","Ecuador",23,"Tungurahua",188,"Mocha",935,"Pinguili","Parroquia","Parish",NA,NA
+936,68,"ECU","Ecuador",23,"Tungurahua",189,"Patate",936,"El Triunfo","Parroquia","Parish",NA,NA
+937,68,"ECU","Ecuador",23,"Tungurahua",189,"Patate",937,"Los Andes","Parroquia","Parish",NA,NA
+938,68,"ECU","Ecuador",23,"Tungurahua",189,"Patate",938,"Patate","Parroquia","Parish",NA,NA
+939,68,"ECU","Ecuador",23,"Tungurahua",189,"Patate",939,"Sucre","Parroquia","Parish",NA,NA
+940,68,"ECU","Ecuador",23,"Tungurahua",190,"Quero",940,"Quero","Parroquia","Parish",NA,NA
+941,68,"ECU","Ecuador",23,"Tungurahua",190,"Quero",941,"Rumipamba","Parroquia","Parish",NA,NA
+942,68,"ECU","Ecuador",23,"Tungurahua",190,"Quero",942,"Yanayacu","Parroquia","Parish",NA,NA
+943,68,"ECU","Ecuador",23,"Tungurahua",191,"San Pedro de Pelileo",943,"Benitez","Parroquia","Parish",NA,NA
+944,68,"ECU","Ecuador",23,"Tungurahua",191,"San Pedro de Pelileo",944,"Bolivar","Parroquia","Parish",NA,NA
+945,68,"ECU","Ecuador",23,"Tungurahua",191,"San Pedro de Pelileo",945,"Chiquicha","Parroquia","Parish",NA,NA
+946,68,"ECU","Ecuador",23,"Tungurahua",191,"San Pedro de Pelileo",946,"Cotalo","Parroquia","Parish",NA,NA
+947,68,"ECU","Ecuador",23,"Tungurahua",191,"San Pedro de Pelileo",947,"El Rosario","Parroquia","Parish",NA,NA
+948,68,"ECU","Ecuador",23,"Tungurahua",191,"San Pedro de Pelileo",948,"Garcia Moreno","Parroquia","Parish",NA,NA
+949,68,"ECU","Ecuador",23,"Tungurahua",191,"San Pedro de Pelileo",949,"Huambalo","Parroquia","Parish",NA,NA
+950,68,"ECU","Ecuador",23,"Tungurahua",191,"San Pedro de Pelileo",950,"Pelileo","Parroquia","Parish",NA,NA
+951,68,"ECU","Ecuador",23,"Tungurahua",191,"San Pedro de Pelileo",951,"Salasaca","Parroquia","Parish",NA,NA
+952,68,"ECU","Ecuador",23,"Tungurahua",192,"Santiago de Pillaro",952,"Baquerizo Moreno","Parroquia","Parish",NA,NA
+953,68,"ECU","Ecuador",23,"Tungurahua",192,"Santiago de Pillaro",953,"Emilio Maria Teran","Parroquia","Parish",NA,NA
+954,68,"ECU","Ecuador",23,"Tungurahua",192,"Santiago de Pillaro",954,"Marcos Espinel","Parroquia","Parish",NA,NA
+955,68,"ECU","Ecuador",23,"Tungurahua",192,"Santiago de Pillaro",955,"Pillaro","Parroquia","Parish",NA,NA
+956,68,"ECU","Ecuador",23,"Tungurahua",192,"Santiago de Pillaro",956,"Presidente Urbina","Parroquia","Parish",NA,NA
+957,68,"ECU","Ecuador",23,"Tungurahua",192,"Santiago de Pillaro",957,"San Andres","Parroquia","Parish",NA,NA
+958,68,"ECU","Ecuador",23,"Tungurahua",192,"Santiago de Pillaro",958,"San Jose de Poalo","Parroquia","Parish",NA,NA
+959,68,"ECU","Ecuador",23,"Tungurahua",192,"Santiago de Pillaro",959,"San Miguelito","Parroquia","Parish",NA,NA
+960,68,"ECU","Ecuador",23,"Tungurahua",193,"Tisaleo",960,"Quinchicoto","Parroquia","Parish",NA,NA
+961,68,"ECU","Ecuador",23,"Tungurahua",193,"Tisaleo",961,"Tisaleo","Parroquia","Parish",NA,NA
+962,68,"ECU","Ecuador",24,"Zamora Chinchipe",194,"Chinchipe",962,"Chito","Parroquia","Parish",NA,NA
+963,68,"ECU","Ecuador",24,"Zamora Chinchipe",194,"Chinchipe",963,"El Chorro","Parroquia","Parish",NA,NA
+964,68,"ECU","Ecuador",24,"Zamora Chinchipe",194,"Chinchipe",964,"El Porvenir del Carmen","Parroquia","Parish",NA,NA
+965,68,"ECU","Ecuador",24,"Zamora Chinchipe",194,"Chinchipe",965,"La Chonta","Parroquia","Parish",NA,NA
+966,68,"ECU","Ecuador",24,"Zamora Chinchipe",194,"Chinchipe",966,"Palanda","Parroquia","Parish",NA,NA
+967,68,"ECU","Ecuador",24,"Zamora Chinchipe",194,"Chinchipe",967,"Pucapamba","Parroquia","Parish",NA,NA
+968,68,"ECU","Ecuador",24,"Zamora Chinchipe",194,"Chinchipe",968,"San Francisco del Vergel","Parroquia","Parish",NA,NA
+969,68,"ECU","Ecuador",24,"Zamora Chinchipe",194,"Chinchipe",969,"Valladolid","Parroquia","Parish",NA,NA
+970,68,"ECU","Ecuador",24,"Zamora Chinchipe",194,"Chinchipe",970,"Zumba","Parroquia","Parish",NA,NA
+971,68,"ECU","Ecuador",24,"Zamora Chinchipe",195,"El Pangui",971,"El Guisme","Parroquia","Parish",NA,NA
+972,68,"ECU","Ecuador",24,"Zamora Chinchipe",195,"El Pangui",972,"El Pangui","Parroquia","Parish",NA,NA
+973,68,"ECU","Ecuador",24,"Zamora Chinchipe",195,"El Pangui",973,"Pachicutza","Parroquia","Parish",NA,NA
+974,68,"ECU","Ecuador",24,"Zamora Chinchipe",195,"El Pangui",974,"Tundayme","Parroquia","Parish",NA,NA
+975,68,"ECU","Ecuador",24,"Zamora Chinchipe",196,"Nangaritza",975,"Guayzimi","Parroquia","Parish",NA,NA
+976,68,"ECU","Ecuador",24,"Zamora Chinchipe",196,"Nangaritza",976,"Zurmi","Parroquia","Parish",NA,NA
+977,68,"ECU","Ecuador",24,"Zamora Chinchipe",197,"Yacuambi",977,"28 de Mayo","Parroquia","Parish",NA,NA
+978,68,"ECU","Ecuador",24,"Zamora Chinchipe",197,"Yacuambi",978,"La Paz","Parroquia","Parish",NA,NA
+979,68,"ECU","Ecuador",24,"Zamora Chinchipe",197,"Yacuambi",979,"Tutupali","Parroquia","Parish",NA,NA
+980,68,"ECU","Ecuador",24,"Zamora Chinchipe",198,"Yanzatza",980,"Chicaña","Parroquia","Parish",NA,NA
+981,68,"ECU","Ecuador",24,"Zamora Chinchipe",198,"Yanzatza",981,"Los Encuentros","Parroquia","Parish",NA,NA
+982,68,"ECU","Ecuador",24,"Zamora Chinchipe",198,"Yanzatza",982,"Yantzaza","Parroquia","Parish",NA,NA
+983,68,"ECU","Ecuador",24,"Zamora Chinchipe",199,"Zamora",983,"Cumbaratza","Parroquia","Parish",NA,NA
+984,68,"ECU","Ecuador",24,"Zamora Chinchipe",199,"Zamora",984,"Guadalupe","Parroquia","Parish",NA,NA
+985,68,"ECU","Ecuador",24,"Zamora Chinchipe",199,"Zamora",985,"Imbana","Parroquia","Parish",NA,NA
+986,68,"ECU","Ecuador",24,"Zamora Chinchipe",199,"Zamora",986,"Paquisha","Parroquia","Parish",NA,NA
+987,68,"ECU","Ecuador",24,"Zamora Chinchipe",199,"Zamora",987,"Sabanilla","Parroquia","Parish",NA,NA
+988,68,"ECU","Ecuador",24,"Zamora Chinchipe",199,"Zamora",988,"San Carlos de las Minas","Parroquia","Parish",NA,NA
+989,68,"ECU","Ecuador",24,"Zamora Chinchipe",199,"Zamora",989,"Timbara","Parroquia","Parish",NA,NA
+990,68,"ECU","Ecuador",24,"Zamora Chinchipe",199,"Zamora",990,"Zamora","Parroquia","Parish",NA,NA
+991,68,"ECU","Ecuador",24,"Zamora Chinchipe",199,"Zamora",991,"Zumbi","Parroquia","Parish",NA,NA
