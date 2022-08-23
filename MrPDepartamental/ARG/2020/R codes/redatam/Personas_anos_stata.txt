@@ -1,0 +1,94 @@
+/* Años de estudio */
+ 
+/* Se construye ANOEST usando:
+
+   ch10: asistencia 
+   ch12: nivel educacional
+   ch13: finalizo el nivel
+   ch14: a¤os de estudio en el nivel (solo si no lo termino)
+
+*/
+
+rename ch14 ch14_original          /* Guarda variable original */
+
+generate ch14= ch14_original
+destring ch14, replace
+
+generate anoest= -1   if edad < 2                      /* Menores de 2 años */
+
+replace  anoest= 0    if ch10 == 3                     /* Nunca asistio */ 
+
+replace  anoest= 99   if ch10 == 9                     /* NS/NR asistio */ 
+
+replace  anoest= 0    if ch12 == 1                     /* Preescolar */
+
+                                                       /* Primaria */
+replace  anoest= 6    if ch12 == 2 & ch13 == 1         /* Completa */
+replace  anoest= ch14 if ch12 == 2 & ///               /* 0 - 6 */
+                         ch14 >= 0 & ch14 <= 6
+replace  anoest= 99   if ch12 == 2 & ///               /* Otros casos */
+                         anoest == .
+
+                                                       /* EGB */
+replace  anoest= 9    if ch12 == 3 & ch13 == 1         /* Completa */
+replace  anoest= ch14 if ch12 == 3 & ///               /* 0 - 9 */
+                         ch14 >= 0 & ch14 <= 9
+replace  anoest= 99   if ch12 == 3 & ///               /* Otros casos */
+                         anoest == .
+
+                                                       /* Secundario */
+replace  anoest= 12       if ch12 == 4 & ch13 == 1     /* Completo */
+replace  anoest= 6 + ch14 if ch12 == 4 & ///           /* 0 - 6 */
+                             ch14 >= 0 & ch14 <= 6
+replace  anoest= 6        if ch12 == 4 & ///           /* Otros casos */
+                             anoest == .
+
+                                                       /* Polimodal */
+replace  anoest= 12       if ch12 == 5 & ch13 == 1     /* Completo */
+replace  anoest= 9 + ch14 if ch12 == 5 & ///           /* 0 - 3 */
+                             ch14 >= 0 & ch14 <= 3
+replace  anoest= 9        if ch12 == 5 & ///           /* Otros casos */
+                             anoest == .
+
+                                                       /* Terciario */
+replace  anoest= 16        if ch12 == 6 & ch13 == 1    /* Completo */
+replace  anoest= 12 + ch14 if ch12 == 6 & ///          /* 0 - 9 */
+                              ch14 >= 0 & ch14 <= 9
+replace  anoest= 12        if ch12 == 6 & ///          /* Otros casos */
+                              anoest == .
+
+                                                       /* Universitario */
+replace  anoest= 17        if ch12 == 7 & ch13 == 1    /* Completo */
+replace  anoest= 12 + ch14 if ch12 == 7 & ///          /* 0 - 9 */
+                              ch14 >= 0 & ch14 <= 9
+replace  anoest= 12        if ch12 == 7 & ///          /* Otros casos */
+                              anoest == .
+
+                                                       /* Posgrado */
+replace  anoest= 19        if ch12 == 8 & ch13 == 1    /* Completo */
+replace  anoest= 17 + ch14 if ch12 == 8 & ///          /* 0 - 9 */
+                              ch14 >= 0 & ch14 <= 9
+replace  anoest= 17        if ch12 == 8 & ///          /* Otros casos */
+                             anoest == .
+
+replace  anoest= 99 if ch12 == 9                       /* Educacion especial */
+
+replace  anoest= 99 if ch12 == 99 & anoest == .        /* NS/NR nivel */
+
+count if anoest == .
+if r(N) {
+   display in red "ERROR: Problema al crear ANOEST en " ///
+                  r(N) " observaciones."
+
+   list edad ch10 ch12 ch13 ch14 if anoest == .
+
+   display in red _newline(1) "***ERROR: Proceso cancelado"
+   exit 20006
+}
+ 
+label define ANOEST -1 "NA" ///
+                    99 "NS/NR"
+label values anoest ANOEST
+
+drop ch14
+rename ch14_original ch14                    /* Restaura variable original */
