@@ -1,0 +1,20 @@
+/* Años de estudio */
+
+generate anoest= -1  if edad <  3
+replace  anoest= esc if edad >= 3 & esc <  .
+replace  anoest= 99  if edad >= 3 & esc >= .
+
+quietly: count if anoest > 99
+if r(N) {
+   display in red _newline(1) ///
+           "***ERROR: Problema al crear ANOEST en " r(N) " observaciones."
+
+   tabulate esc anoest if anoest > 99, missing
+
+   display in red _newline(1) "***ERROR: Proceso cancelado"
+   exit 20004
+}
+
+label define ANOEST -1 "NA"    ///
+                    99 "NS/NR"
+label values anoest ANOEST
