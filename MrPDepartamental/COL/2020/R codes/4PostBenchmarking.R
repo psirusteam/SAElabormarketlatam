@@ -168,7 +168,7 @@ data.frame(Poblacion = colSums(Xdommy*poststrat_df$n*gk),
 
 
 
-jpeg(file = "MrPDepartamental/COL/2020/Output/Plot_Bench_gk.jpeg")
+jpeg(file = "MrPDepartamental/COL/2020/Output/Plot_Bench_gk.jpeg", 1200, 1200)
 hist(gk)
 dev.off()
 poststrat_df$gk <- gk

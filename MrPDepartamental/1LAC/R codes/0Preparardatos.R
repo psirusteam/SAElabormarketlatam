@@ -38,10 +38,9 @@ states_LAC <- file_poststrat_df %>% as_tibble() %>%
   mutate(poststrat = map(file,~readRDS(file =.))) %>% 
   select(-temp, -file)
 
-states_LAC[14,]$poststrat[[1]] %<>% mutate(depto = depto2, depto2 = NULL)
-
+states_LAC[15,]$poststrat[[1]] %<>% mutate(depto = depto2, depto2 = NULL)
 
 saveRDS(states_LAC %>% unnest(cols = "poststrat"),
-        "MrPDepartamental/1LAC/Data/poststrat_LAC_12082022.RDS")
+        "MrPDepartamental/1LAC/Data/poststrat_LAC_25082022.RDS")
 
 

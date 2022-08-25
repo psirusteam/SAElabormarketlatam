@@ -24,7 +24,7 @@ library(tmaptools)
 
 source("MrPDepartamental//0Funciones/Funciones_empleo.R", encoding = "UTF-8")
 # Loading data ------------------------------------------------------------
-poststrat_df <- readRDS("MrPDepartamental/1LAC/Data/poststrat_LAC_12082022.RDS") %>% 
+poststrat_df <- readRDS("MrPDepartamental/1LAC/Data/poststrat_LAC_25082022.RDS") %>% 
   mutate(n = n*gk)
 
 # Puntos de corte para el mapa
@@ -156,4 +156,5 @@ tmap_save(
   asp = 0
 )
 
-
+x11()
+tmap_arrange(list(Mapa_TO, Mapa_TD, Mapa_TP),ncol = 3,nrow = 1)

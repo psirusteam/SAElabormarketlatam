@@ -77,8 +77,7 @@ theta_fit <- cbind(encuesta_df_agg %>% select(-matches("empleo")),
 #############################################
 ## Creando la variable multinomial (censo)
 #############################################
-censo_df <- anti_join(censo_mrp, encuesta_df_agg) %>% 
-  filter(!anoest %in% c("99"))
+censo_df <- censo_mrp %>% filter(!anoest %in% c("99"))
 
 theta_censo <- draws %>% select(matches("theta_p\\[")) %>% 
   colMeans() %>% 
@@ -88,12 +87,7 @@ theta_censo <- draws %>% select(matches("theta_p\\[")) %>%
   ) %>% 
   data.frame()
 
-theta_censo <- cbind(censo_df %>% select(-matches("^n")),
-                     theta_censo)
-
-theta_censo <- rbind(theta_fit, theta_censo)
-
-poststrat_df <- inner_join(censo_mrp,theta_censo)
+poststrat_df <- cbind(censo_df , theta_censo)
 
 ###########################################
 ###########################################

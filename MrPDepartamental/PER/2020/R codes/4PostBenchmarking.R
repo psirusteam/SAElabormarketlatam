@@ -76,64 +76,9 @@ theta_fit <- cbind(encuesta_df_agg %>% select(-matches("empleo")),
 #############################################
 ## Creando la variable multinomial (censo)
 #############################################
-censo_df <- anti_join(censo_mrp, encuesta_df_agg) %>% 
-  filter(!anoest %in% c("99")) %>%  
-  group_by_at(all_of(byAgrega[-2])) %>%
-  summarise(n = sum(n),
-            .groups = "drop") 
+censo_df <- censo_mrp %>% filter(!anoest %in% c("99"))
 
-censo_df <- inner_join(censo_df, 
-                       statelevel_predictors_df, by = "depto") %>% 
-  ungroup()
-
-######################################################
-### Predicción dado que no se cuenta con etnia. 
-######################################################
-encuesta_df_agg <- inner_join(encuesta_df_agg, statelevel_predictors_df, by = "depto")
-X <- encuesta_df_agg %>% select(-matches("^n|depto|empleo|tasa|^F|^X")) %>%
-  model.matrix( ~ -1+ ., data = .)  %>%
-  bind_cols(encuesta_df_agg %>% select(matches("tasa|^F|^X"))) 
-
-Y <- encuesta_df_agg %>% select(matches("empleo")) %>%
-  as.matrix(.)
-
-Z <- encuesta_df_agg %>% select(matches("depto")) %>%
-  model.matrix( ~ -1+ ., data = .)%>%
-  as.matrix(.)
-
-
-Xp <- censo_df %>% select(-matches("^n|depto|empleo|tasa|^F|^X")) %>%
-  model.matrix( ~-1+ ., data = .)  %>%
-  bind_cols(censo_df %>% select(matches("tasa|F|^X"))) 
-
-setdiff(names(X) ,names(Xp))
-setdiff(names(Xp) ,names(X))
-xnames <-  intersect(names(Xp) ,names(X))
-
-sample_data <- list(D = nrow(encuesta_df_agg),
-                    P = ncol(Y),
-                    K = ncol(X[,xnames]),
-                    D1 = nrow(Xp),
-                    Kz = ncol(Z),
-                    Z = Z,
-                    y = Y,
-                    X = X[,xnames]%>% as.matrix(),
-                    Xp = Xp[,xnames] %>% as.matrix()
-)
-
-fit_pred <-
-  cmdstan_model(
-    stan_file = "MrPDepartamental/0Funciones/Multinivel8.stan",
-    compile = TRUE)
-
-
-theta_temp <- fit_pred$generate_quantities(fit, sample_data)
-
-
-######################################################
-
-theta_censo <- theta_temp$draws() %>% as_draws_df() %>%
-  select(matches("theta_p\\[")) %>% 
+theta_censo <- draws %>% select(matches("theta_p\\[")) %>% 
   colMeans() %>% 
   matrix(., nrow = nrow(censo_df),
          ncol = ncat, byrow = FALSE,
@@ -141,16 +86,7 @@ theta_censo <- theta_temp$draws() %>% as_draws_df() %>%
   ) %>% 
   data.frame()
 
-theta_censo <- cbind(censo_df %>% select(all_of(byAgrega[-2])), theta_censo)
-
-theta_censo <- rbind(theta_fit, theta_censo)
-dim(censo_mrp)
-poststrat_df <-
-  inner_join(
-    censo_mrp ,
-    theta_censo
-  )
-dim(poststrat_df)
+poststrat_df <- cbind(censo_df , theta_censo)
 ###########################################
 ###########################################
 ###           Benchmarking              ###
@@ -231,7 +167,7 @@ data.frame(Poblacion = colSums(Xdommy*poststrat_df$n*gk),
   arrange(diff)
 
 
-jpeg(file = "MrPDepartamental/PER/2020/Output/Plot_Bench_gk.jpeg")
+jpeg(file = "MrPDepartamental/PER/2020/Output/Plot_Bench_gk.jpeg", 1200, 1200)
 hist(gk)
 dev.off()
 poststrat_df$gk <- gk

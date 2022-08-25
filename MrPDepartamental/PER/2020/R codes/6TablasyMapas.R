@@ -187,7 +187,8 @@ tmap_save(
   asp = 0
 )
 
-
+tmap_arrange(list(Mapa_TO,Mapa_TD,Mapa_TP),
+             ncol = 3, norw = 1)
 
 bynames %<>% rename(fnames = V1, cnames = V2)
 ### Tasa de desocupacion
@@ -232,6 +233,9 @@ temp_TP <- pmap(temp_TP[-1,] , function(...) {
 
 #########################################################
 ## Exportando tablas 
+cod_shape <- ShapeSAE %>% as.data.frame() %>% select(depto, DEPARTAMEN) %>%
+  arrange(depto)
+
 nom_tabs <- c("depto",paste0(bynames$fnames[-1],"_", bynames$cnames[-1]))
 names(dat_df) <- nom_tabs
 

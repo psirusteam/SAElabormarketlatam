@@ -1,13 +1,14 @@
 source("MrPDepartamental/ARG/2020/R codes/6TablasyMapas.R")
 source("MrPDepartamental/BOL/2020/R codes/6TablasyMapas.R")
 source("MrPDepartamental/BRA/2020/R codes/6TablasyMapas.R")
-#source("MrPDepartamental/CHL/2020/R codes/6TablasyMapas.R")*
-#source("MrPDepartamental/COL/2020/R codes/6TablasyMapas.R")*
+source("MrPDepartamental/CHL/2020/R codes/6TablasyMapas.R")*
+source("MrPDepartamental/COL/2020/R codes/6TablasyMapas.R")*
 source("MrPDepartamental/ECU/2020/R codes/6TablasyMapas.R")
 source("MrPDepartamental/CRI/2020/R codes/6TablasyMapas.R")
 source("MrPDepartamental/DOM/2020/R codes/6TablasyMapas.R")
 source("MrPDepartamental/MEX/2020/R codes/6TablasyMapas.R")
 source("MrPDepartamental/PAN/2019/R codes/6TablasyMapas.R")
+source("MrPDepartamental/PER/2020/R codes/6TablasyMapas.R")
 source("MrPDepartamental/PRY/2020/R codes/6TablasyMapas.R")
 source("MrPDepartamental/PRY2/2020/R codes/6TablasyMapas.R")
 source("MrPDepartamental/SLV/2020/R codes/6TablasyMapas.R")
@@ -38,4 +39,4 @@ setdiff(names(X) ,names(Xp))
 setdiff(names(Xp) ,names(X))
 
 fit_mcmc$save_object(
-  file = "MrPDepartamental/COL/2020/Data/fit_multinomial.rds")
+  file = "fit_multinomial.rds")
